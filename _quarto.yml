@@ -35,3 +35,5 @@ format:
 
 resources:
   - img/
+  html:
+    css: styles.scss
