@@ -1,0 +1,5 @@
+---
+title: "Publications"
+---
+
+> Paste your publications list (you can use bullet points; Quarto supports LaTeX math).

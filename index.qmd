@@ -1,0 +1,8 @@
+---
+title: "Home"
+page-layout: full
+---
+
+# Welcome
+
+> Paste the **Home** section content from your Google Site here (intro/hero, highlights).

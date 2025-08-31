@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+> Paste your short bio / profile text here.

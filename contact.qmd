@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+- Email: <name@example.com>
+- LinkedIn: <link>
+- GitHub: <link>
+
+> Add any other contact or footer notes.

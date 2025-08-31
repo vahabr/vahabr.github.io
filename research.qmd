@@ -1,0 +1,12 @@
+---
+title: "Research"
+---
+
+## Areas & interests
+> Paste your research focus / topics.
+
+## Software / code
+> List tools or links.
+
+## Talks
+> List invited talks / slides.
