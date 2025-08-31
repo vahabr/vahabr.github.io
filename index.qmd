@@ -5,4 +5,10 @@ page-layout: full
 
 # Welcome
 
-> Paste the **Home** section content from your Google Site here (intro/hero, highlights).
+I’m a quantitative researcher and developer.  
+This site hosts notes, research, and selected projects.
+
+## Highlights
+- Scenario convexification numerics (notes & code soon)
+- Lifetime PD with Kalman filtering (notes & code soon)
+- Writing: quantitative interview questions (drafts)

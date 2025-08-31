@@ -2,11 +2,14 @@
 title: "Research"
 ---
 
-## Areas & interests
-> Paste your research focus / topics.
+## Areas & Interests
+- Risk modelling and simulation
+- Optimisation and control
+- Applied AI for decision systems
 
-## Software / code
-> List tools or links.
+## Software / Code (links later)
+- Scenario Convexification — simulation package (WIP)
+- Lifetime PD & Kalman filtering — demo notebooks (WIP)
 
 ## Talks
-> List invited talks / slides.
+- Slides and notes (coming soon)

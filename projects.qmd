@@ -2,4 +2,8 @@
 title: "Projects"
 ---
 
-> Paste project cards/descriptions and links to repos or demos.
+### Scenario Convexification (WIP)
+Brief description and goals.
+
+### Lifetime PD & Kalman (WIP)
+Brief description and goals.

@@ -23,7 +23,8 @@ website:
         href: contact.qmd
     right:
       - icon: github
-        href: https://github.com/YOUR_USERNAME
+        href: https://github.com/vahabr
+
 format:
   html:
     theme:
@@ -31,3 +32,6 @@ format:
       dark: darkly
     toc: true
     code-copy: true
+
+resources:
+  - img/

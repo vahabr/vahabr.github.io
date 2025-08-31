@@ -2,4 +2,6 @@
 title: "Publications"
 ---
 
-> Paste your publications list (you can use bullet points; Quarto supports LaTeX math).
+Add items like this:
+
+- Author, *Title*, Venue/Year. [Code](/projects) [PDF]()

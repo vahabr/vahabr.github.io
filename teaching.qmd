@@ -2,4 +2,5 @@
 title: "Teaching"
 ---
 
-> Paste courses, syllabi, materials, office hours.
+Courses, materials, office hours.  
+(You can link to slides or GitHub repos here.)
