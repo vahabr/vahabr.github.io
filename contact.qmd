@@ -1,9 +1,0 @@
----
-title: "Contact"
----
-
-- Email: <your@email.com>  
-- GitHub: <https://github.com/vahabr>  
-- LinkedIn: <https://www.linkedin.com/in/your-profile>  
-
-For collaboration or speaking, feel free to reach out.

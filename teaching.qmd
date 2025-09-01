@@ -1,6 +1,0 @@
----
-title: "Teaching"
----
-
-Courses, materials, office hours.  
-(You can link to slides or GitHub repos here.)

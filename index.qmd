@@ -4,6 +4,7 @@ page-layout: article        # show article container (not full-width)
 toc: true                   # enable the right-hand table of contents
 toc-location: right
 toc-title: On this page
+toc-depth: 3
 ---
 
 
@@ -11,11 +12,13 @@ toc-title: On this page
 ::: {.row .g-4 .align-items-center}
 ::: {.col-12 .col-md-4 .text-center}
 ![Vahab Rostampour](img/profile.jpg){.avatar .img-fluid fig-alt="Vahab Rostampour"}
+
+
 :::
 ::: {.col-12 .col-md-8}
 
-
-#
+:::
+:::
 
 
 ## About me
@@ -30,16 +33,46 @@ Today, my research and professional interests converge around **stochastic model
 
 Beyond my professional work, I enjoy building new ideas into projects, from **smart energy applications for electric vehicles** to **risk and pricing frameworks for decentralised finance**. At heart, I am motivated by curiosity, collaboration, and the ambition to create tools that not only solve technical problems but also contribute to more resilient systems for the future.
 
-:::
-:::
+
 
 
 
 ## Highlights
 
-- Scenario convexification numerics (notes & code soon)
-- Lifetime PD with Kalman filtering (notes & code soon)
-- Quantitative interview questions (drafts)
+
+* **Scenario Convexification of Nonconvex Uncertain Programs**
+
+My recent work introduces **convexification techniques** that bridge theory and computation in **nonconvex uncertain optimisation** problems. 
+The approach demonstrates how scenario-based approximations can make otherwise intractable models both solvable and practically relevant. 
+This research contributes to the understanding of duality gaps, tractability, and robust decision-making under uncertainty — with applications in portfolio selection and large-scale systems.
+
+* **Lifetime Probability of Default and Kalman Filtering Approaches**
+
+In financial risk management, I have developed methodologies for modelling **lifetime probability of default (PD)**, incorporating **Kalman filtering techniques** to enhance estimation under uncertainty. 
+This work addresses regulatory requirements (IFRS 9, CECL) while providing more stable and transparent credit risk measures. 
+It reflects my broader interest in connecting **stochastic state-space models** with **practical risk assessment frameworks** used in banking.
+
+* **Book Project: Quantitative Interview Questions (QIQ)**
+
+I am authoring a book that brings together **quantitative finance, probability, and statistics** into a practical guide for professionals preparing for technical interviews. 
+The book combines rigorous exercises with clear explanations, covering topics from risk modelling and stochastic processes to applied coding tasks. 
+My aim is to create not just a collection of questions, but a **structured learning resource** that builds both technical mastery and intuition.
+
+
+
+
+
+
+## Outreach
+
+I am always open to **collaboration, discussion, and exchange of ideas** across academia, industry, and entrepreneurship. Whether you are a researcher, practitioner, or simply curious about topics such as **stochastic modelling, optimisation, energy systems, or financial risk management**, I welcome opportunities to connect.
+
+I also enjoy engaging in **talks, panel discussions, and podcasts**, where complex ideas can be translated into accessible conversations that reach a broader audience. If you would like to explore a joint project, invite me for a speaking opportunity, or simply exchange perspectives, please **feel free to reach out directly to me!**
+
+
+
+
+
 
 
 
@@ -48,16 +81,25 @@ This website is equipped with the following policies:
 
 
 #### Copyright
-The material are presented, throughout this website, to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author’s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. Personal use of this material is permitted. However, permission to reprint or republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of the published works must be obtained from the copyright holder.
+All materials on this website are made available for the timely dissemination of scholarly and technical work. 
+Copyright and all rights remain with the original authors or copyright holders. 
+Visitors are expected to respect these rights and comply with the terms of each copyright.
+
+Personal use of the material is permitted. 
+Any reproduction, redistribution, or republication of material for commercial purposes, advertising, promotional use, or inclusion in collective works requires prior written permission from the copyright holder.
 
 
 #### Disclaimer
-This website does not accept responsibility or liability for any loss whatsoever that may arise from the use of this website or the content of it, and gives no representation, warranty or assurance about the content of this website. This website is not responsible for the content of any other website to which you may gain access from this website, or from which you may have gained access to this website and does not accept any responsibility or liability in connection with any such links or websites whatsoever.
+The information on this website is provided **as is** without warranty of any kind. 
+No responsibility or liability is accepted for any loss or damage that may result from reliance on the content of this website.
+
+This website may contain links to external sites. 
+These links are provided for convenience only, and no responsibility is assumed for the content or reliability of external websites.
 
 
 #### Privacy Issues
-This website does not use cookies and you are not required to provide any personal information to enjoy this website.
-
+This website does not use cookies and does not require you to provide personal information to access its content. 
+If you choose to contact me directly, any personal information you provide will be treated with care and will not be shared without your consent.
 
 
 

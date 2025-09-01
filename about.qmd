@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-I explore the intersection of **mathematics, machine learning, and systems modelling** with applications in **risk, finance, and energy**.
-
-This website is a living notebook. Short, clear, and regularly updated.

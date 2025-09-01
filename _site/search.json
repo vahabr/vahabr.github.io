@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Courses, materials, office hours.\n(You can link to slides or GitHub repos here.)"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Add items like this:\n\nAuthor, Title, Venue/Year. Code PDF"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I’m a quantitative researcher and developer.\nThis site hosts notes, research, and selected projects.\n\n\n\nScenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
-  },
-  {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Home",
-    "section": "",
-    "text": "Scenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I explore the intersection of mathematics, machine learning, and systems modelling with applications in risk, finance, and energy.\nThis website is a living notebook. Short, clear, and regularly updated."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: your@email.com\n\nGitHub: https://github.com/vahabr\n\nLinkedIn: https://www.linkedin.com/in/your-profile\n\nFor collaboration or speaking, feel free to reach out."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Scenario Convexification (WIP)\nBrief description and goals.\n\n\nLifetime PD & Kalman (WIP)\nBrief description and goals."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -75,5 +26,68 @@
     "title": "Research",
     "section": "Talks",
     "text": "Talks\n\nSlides and notes (coming soon)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Scenario Convexification (WIP)\nBrief description and goals.\n\n\nLifetime PD & Kalman (WIP)\nBrief description and goals."
+  },
+  {
+    "objectID": "posts/2025-09-01-hello.html",
+    "href": "posts/2025-09-01-hello.html",
+    "title": "Hello, world",
+    "section": "",
+    "text": "First post! I’ll use this space for short weekly updates."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Vahab Rostampour"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About me",
+    "text": "About me\nI am a researcher, quantitative analyst, and entrepreneur with a passion for solving complex problems at the intersection of mathematics, technology, and society. My background spans both academic research and financial industry practice, giving me a unique perspective on how rigorous theory can be transformed into practical solutions for real-world challenges.\nI hold a PhD in Applied Mathematics and Control Systems Engineering from Delft University of Technology, where I focused on optimisation, stochastic modelling, and distributed control of large-scale systems such as energy and infrastructure networks. After my PhD, I continued as a Postdoctoral Researcher at the University of Groningen, where my work centred on advanced methods in optimisation, learning, and decision-making in uncertain environments.\nIn parallel to my academic career, I have spent the last five years as a Senior Quantitative Analyst in banking, working at leading financial institutions in Zürich and Amsterdam. My focus has been on model risk management, credit and impairment modelling, and regulatory compliance frameworks such as IFRS 9, CECL, and stress testing. This experience has strengthened my ability to build bridges between advanced mathematical models, regulatory expectations, and practical business needs.\nToday, my research and professional interests converge around stochastic modelling, optimisation, and risk management across domains such as energy systems, financial markets, and infrastructure planning. I am particularly driven by the question of how mathematical models, data-driven methods, and economic principles can be combined to design robust, transparent, and scalable decision frameworks for uncertain and dynamic environments.\nBeyond my professional work, I enjoy building new ideas into projects, from smart energy applications for electric vehicles to risk and pricing frameworks for decentralised finance. At heart, I am motivated by curiosity, collaboration, and the ambition to create tools that not only solve technical problems but also contribute to more resilient systems for the future."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "Highlights",
+    "text": "Highlights\n\nScenario Convexification of Nonconvex Uncertain Programs\n\nMy recent work introduces convexification techniques that bridge theory and computation in nonconvex uncertain optimisation problems. The approach demonstrates how scenario-based approximations can make otherwise intractable models both solvable and practically relevant. This research contributes to the understanding of duality gaps, tractability, and robust decision-making under uncertainty — with applications in portfolio selection and large-scale systems.\n\nLifetime Probability of Default and Kalman Filtering Approaches\n\nIn financial risk management, I have developed methodologies for modelling lifetime probability of default (PD), incorporating Kalman filtering techniques to enhance estimation under uncertainty. This work addresses regulatory requirements (IFRS 9, CECL) while providing more stable and transparent credit risk measures. It reflects my broader interest in connecting stochastic state-space models with practical risk assessment frameworks used in banking.\n\nBook Project: Quantitative Interview Questions (QIQ)\n\nI am authoring a book that brings together quantitative finance, probability, and statistics into a practical guide for professionals preparing for technical interviews. The book combines rigorous exercises with clear explanations, covering topics from risk modelling and stochastic processes to applied coding tasks. My aim is to create not just a collection of questions, but a structured learning resource that builds both technical mastery and intuition."
+  },
+  {
+    "objectID": "index.html#outreach",
+    "href": "index.html#outreach",
+    "title": "Home",
+    "section": "Outreach",
+    "text": "Outreach\nI am always open to collaboration, discussion, and exchange of ideas across academia, industry, and entrepreneurship. Whether you are a researcher, practitioner, or simply curious about topics such as stochastic modelling, optimisation, energy systems, or financial risk management, I welcome opportunities to connect.\nI also enjoy engaging in talks, panel discussions, and podcasts, where complex ideas can be translated into accessible conversations that reach a broader audience. If you would like to explore a joint project, invite me for a speaking opportunity, or simply exchange perspectives, please feel free to reach out directly to me!"
+  },
+  {
+    "objectID": "index.html#policies",
+    "href": "index.html#policies",
+    "title": "Home",
+    "section": "Policies",
+    "text": "Policies\nThis website is equipped with the following policies:\n\nCopyright\nAll materials on this website are made available for the timely dissemination of scholarly and technical work. Copyright and all rights remain with the original authors or copyright holders. Visitors are expected to respect these rights and comply with the terms of each copyright.\nPersonal use of the material is permitted. Any reproduction, redistribution, or republication of material for commercial purposes, advertising, promotional use, or inclusion in collective works requires prior written permission from the copyright holder.\n\n\nDisclaimer\nThe information on this website is provided as is without warranty of any kind. No responsibility or liability is accepted for any loss or damage that may result from reliance on the content of this website.\nThis website may contain links to external sites. These links are provided for convenience only, and no responsibility is assumed for the content or reliability of external websites.\n\n\nPrivacy Issues\nThis website does not use cookies and does not require you to provide personal information to access its content. If you choose to contact me directly, any personal information you provide will be treated with care and will not be shared without your consent."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Short updates, notes, and news.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, world\n\n\n\n\n\n\n\n\nSep 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Add items like this:\n\nAuthor, Title, Venue/Year. Code PDF"
   }
 ]
