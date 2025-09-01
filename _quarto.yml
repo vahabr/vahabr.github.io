@@ -9,6 +9,7 @@ metadata-files:
 website:
   title: "Vahab Rostampour"
   site-url: "https://vahabr.github.io/"
+  favicon: img/favicon.svg   # <-- add this
   navbar:
     left:
       - text: Home
