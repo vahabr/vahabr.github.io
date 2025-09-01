@@ -3,7 +3,7 @@ title: "Home"
 page-layout: article        # show article container (not full-width)
 toc: true                   # enable the right-hand table of contents
 toc-location: right
-toc-title: Contents
+toc-title: On this page
 ---
 
 
@@ -13,10 +13,14 @@ toc-title: Contents
 ![Vahab Rostampour](img/profile.jpg){.avatar .img-fluid fig-alt="Vahab Rostampour"}
 :::
 ::: {.col-12 .col-md-8}
-### Dr. Vahab Rostampour
 
-{.lead} Quantitative researcher, developer, and entrepreneur.
 
+#
+
+
+## About me
+Dr. Vahab Rostampour
+Senior Quantitative Analyst, Researcher, Developer, and Entrepreneur.
 I work on model risk, stochastic & distributed control, and energy-tech pricing.
 This site hosts concise notes, research, and selected projects.
 :::
@@ -30,7 +34,23 @@ This site hosts concise notes, research, and selected projects.
 - Lifetime PD with Kalman filtering (notes & code soon)
 - Quantitative interview questions (drafts)
 
-## Contact
 
-- GitHub: <https://github.com/vahabr>
-- LinkedIn: add your link in navbar and here if you like
+
+## Policies
+This website is equipped with the following policies:
+
+
+#### Copyright
+The material are presented, throughout this website, to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author’s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. Personal use of this material is permitted. However, permission to reprint or republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of the published works must be obtained from the copyright holder.
+
+
+#### Disclaimer
+This website does not accept responsibility or liability for any loss whatsoever that may arise from the use of this website or the content of it, and gives no representation, warranty or assurance about the content of this website. This website is not responsible for the content of any other website to which you may gain access from this website, or from which you may have gained access to this website and does not accept any responsibility or liability in connection with any such links or websites whatsoever.
+
+
+#### Privacy Issues
+This website does not use cookies and you are not required to provide any personal information to enjoy this website.
+
+
+
+
