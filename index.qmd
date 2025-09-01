@@ -21,8 +21,7 @@ I work on model risk, stochastic & distributed control, and energy-tech pricing.
 This site hosts concise notes, research, and selected projects.
 :::
 :::
-:::
-:::
+
 
 
 ## Highlights
