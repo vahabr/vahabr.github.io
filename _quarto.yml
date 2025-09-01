@@ -48,16 +48,19 @@ website:
   # footer (shows on every page)
   page-footer:
     center: |
-      © {{< today format="YYYY" >}} Vahab Rostampour · Last updated: {{< meta date-modified format="YYYY-MM-DD" >}}
-
-      <div class="footer-icons">
+      © <span class="current-year"></span> Vahab Rostampour · 
+      <span class="footer-icons">
         <a href="https://github.com/vahabr" aria-label="GitHub"><i class="bi bi-github"></i></a>
         <a href="https://www.linkedin.com/in/vrostampour" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
         <a href="https://twitter.com/RostampourVahab" aria-label="X"><i class="bi bi-twitter"></i></a>
         <a href="https://t.me/vahabros" aria-label="Telegram"><i class="bi bi-telegram"></i></a>
         <a href="mailto:rostampour.v@gmail.com" aria-label="Gmail"><i class="bi bi-envelope"></i></a>
         <a href="/posts/" aria-label="Blog"><i class="bi bi-rss"></i></a>
-      </div>
+      </span>
+
+      <script>
+        document.querySelectorAll('.current-year').forEach(e => e.textContent = new Date().getFullYear());
+      </script>
 
 format:
   html:
@@ -71,3 +74,4 @@ format:
 
 resources:
   - img/
+
