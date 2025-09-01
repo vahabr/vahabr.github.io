@@ -13,6 +13,7 @@ img { border-radius: 8px; }
     height: 160px;
     border-radius: 50%;
     object-fit: cover;
+    display: inline-block;
     margin-bottom: 1rem;
     box-shadow: 0 0 10px rgba(0,0,0,0.15);
   }
@@ -25,3 +26,17 @@ img { border-radius: 8px; }
       height: 140px;
     }
   }
+
+  .footer-icons {
+    margin-top: 0.5rem;
+  }
+  .footer-icons a {
+    margin: 0 0.4rem;
+    color: inherit;
+    font-size: 1.3rem;
+    text-decoration: none;
+  }
+  .footer-icons a:hover {
+    color: #0d6efd; /* bootstrap blue highlight */
+  }
+  

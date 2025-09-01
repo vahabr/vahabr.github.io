@@ -1,0 +1,6 @@
+---
+title: "Hello, world"
+date: 2025-09-01
+---
+
+First post! I’ll use this space for short weekly updates.
