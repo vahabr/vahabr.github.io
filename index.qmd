@@ -1,12 +1,19 @@
+
+
 ---
 title: "Home"
 page-layout: full
 ---
 
+::: {.hero}
+![Vahab Rostampour](img/profile.jpg){.avatar}
+
 # Welcome
 
-I’m a quantitative researcher and developer.  
+I’m Dr. Vahab Rostampour — quantitative researcher, developer, and entrepreneur.  
 This site hosts notes, research, and selected projects.
+:::
+
 
 ## Highlights
 - Scenario convexification numerics (notes & code soon)

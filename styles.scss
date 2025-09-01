@@ -2,3 +2,18 @@
 .navbar-brand { font-weight: 600; }
 footer { opacity: .85; }
 img { border-radius: 8px; }
+
+.hero {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .avatar {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  }
+  
