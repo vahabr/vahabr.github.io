@@ -6,7 +6,7 @@ page-layout: full
 ---
 
 ::: {.hero}
-![Vahab Rostampour](img/profile.jpg){.avatar}
+![Vahab Rostampour](img/profile.jpg){.avatar fig-cap="" fig-alt="Vahab Rostampour"}
 
 # Welcome
 
