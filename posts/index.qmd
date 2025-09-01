@@ -1,11 +1,11 @@
 ---
 title: "Blog"
 listing:
-  contents: .
-  sort: "date desc"
-  type: default
-  categories: true
-  feed: true
+  contents: .
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
 ---
 
 Short updates, notes, and news.

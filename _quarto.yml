@@ -1,73 +1,73 @@
 project:
-  type: website
-  output-dir: _site
+  type: website
+  output-dir: _site
 
 # apply shared metadata (e.g., last-modified) to all pages
 metadata-files:
-  - _meta.yml
+  - _meta.yml
 
 website:
-  title: "Vahab Rostampour"
-  site-url: https://vahabr.github.io/
-  navbar:
-    left:
-      - text: Home
-        href: index.qmd
-      - text: About
-        href: about.qmd
-      - text: Research
-        href: research.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: Teaching
-        href: teaching.qmd
-      - text: Projects
-        href: projects.qmd
-      - text: Contact
-        href: contact.qmd
-    right:
-      - icon: github
-        href: https://github.com/vahabr
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/vrostampour
-        aria-label: LinkedIn
-      - icon: twitter
-        href: https://twitter.com/RostampourVahab
-        aria-label: X (Twitter)
-      - icon: telegram
-        href: https://t.me/vahabros
-        aria-label: Telegram
-      - icon: envelope
-        href: mailto:rostampour.v@gmail.com
-        aria-label: Gmail
-      - icon: rss
-        href: /posts/
-        aria-label: Blog
+  title: "Vahab Rostampour"
+  site-url: "https://vahabr.github.io/"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: "https://github.com/vahabr"
+        aria-label: "GitHub"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/vrostampour"
+        aria-label: "LinkedIn"
+      - icon: twitter
+        href: "https://twitter.com/RostampourVahab"
+        aria-label: "X (Twitter)"
+      - icon: telegram
+        href: "https://t.me/vahabros"
+        aria-label: "Telegram"
+      - icon: envelope
+        href: "mailto:rostampour.v@gmail.com"
+        aria-label: "Gmail"
+      - icon: rss
+        href: /posts/
+        aria-label: "Blog"
 
-  # footer (shows on every page)
-  page-footer:
-    center: |
-      © {{< today format="YYYY" >}} Vahab Rostampour · Last updated: {{< meta date-modified format="YYYY-MM-DD" >}}
+  # footer (shows on every page)
+  page-footer:
+    center: |
+      © {{< today format="YYYY" >}} Vahab Rostampour · Last updated: {{< meta date-modified format="YYYY-MM-DD" >}}
 
-      <div class="footer-icons">
-        <a href="https://github.com/vahabr" aria-label="GitHub"><i class="bi bi-github"></i></a>
-        <a href="https://www.linkedin.com/in/vrostampour" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
-        <a href="https://twitter.com/RostampourVahab" aria-label="X"><i class="bi bi-twitter"></i></a>
-        <a href="https://t.me/vahabros" aria-label="Telegram"><i class="bi bi-telegram"></i></a>
-        <a href="mailto:rostampour.v@gmail.com" aria-label="Gmail"><i class="bi bi-envelope"></i></a>
-        <a href="/posts/" aria-label="Blog"><i class="bi bi-rss"></i></a>
-      </div>
+      <div class="footer-icons">
+        <a href="https://github.com/vahabr" aria-label="GitHub"><i class="bi bi-github"></i></a>
+        <a href="https://www.linkedin.com/in/vrostampour" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+        <a href="https://twitter.com/RostampourVahab" aria-label="X"><i class="bi bi-twitter"></i></a>
+        <a href="https://t.me/vahabros" aria-label="Telegram"><i class="bi bi-telegram"></i></a>
+        <a href="mailto:rostampour.v@gmail.com" aria-label="Gmail"><i class="bi bi-envelope"></i></a>
+        <a href="/posts/" aria-label="Blog"><i class="bi bi-rss"></i></a>
+      </div>
 
 format:
-  html:
-    theme:
-      light: cosmo
-      dark: darkly
-    toc: true
-    toc-location: right
-    code-copy: true
-    css: styles.scss
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-location: right
+    code-copy: true
+    css: styles.scss
 
 resources:
-  - img/
+  - img/
