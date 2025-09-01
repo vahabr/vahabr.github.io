@@ -20,7 +20,6 @@ toc-title: On this page
 
 ## About me
 
-
 I am a researcher, quantitative analyst, and entrepreneur with a passion for solving complex problems at the intersection of mathematics, technology, and society. My background spans both **academic research** and **financial industry practice**, giving me a unique perspective on how rigorous theory can be transformed into practical solutions for real-world challenges.
 
 I hold a **PhD in Applied Mathematics and Control Systems Engineering** from Delft University of Technology, where I focused on optimisation, stochastic modelling, and distributed control of large-scale systems such as energy and infrastructure networks. After my PhD, I continued as a **Postdoctoral Researcher at the University of Groningen**, where my work centred on advanced methods in optimisation, learning, and decision-making in uncertain environments.
@@ -31,7 +30,8 @@ Today, my research and professional interests converge around **stochastic model
 
 Beyond my professional work, I enjoy building new ideas into projects, from **smart energy applications for electric vehicles** to **risk and pricing frameworks for decentralised finance**. At heart, I am motivated by curiosity, collaboration, and the ambition to create tools that not only solve technical problems but also contribute to more resilient systems for the future.
 
-
+:::
+:::
 
 
 
