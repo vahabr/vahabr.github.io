@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Courses, materials, office hours.\n(You can link to slides or GitHub repos here.)"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Add items like this:\n\nAuthor, Title, Venue/Year. Code PDF"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I’m a quantitative researcher and developer.\nThis site hosts notes, research, and selected projects.\n\n\n\nScenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
-  },
-  {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Home",
-    "section": "",
-    "text": "Scenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I explore the intersection of mathematics, machine learning, and systems modelling with applications in risk, finance, and energy.\nThis website is a living notebook. Short, clear, and regularly updated."
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -47,6 +12,20 @@
     "title": "Projects",
     "section": "",
     "text": "Scenario Convexification (WIP)\nBrief description and goals.\n\n\nLifetime PD & Kalman (WIP)\nBrief description and goals."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I explore the intersection of mathematics, machine learning, and systems modelling with applications in risk, finance, and energy.\nThis website is a living notebook. Short, clear, and regularly updated."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Add items like this:\n\nAuthor, Title, Venue/Year. Code PDF"
   },
   {
     "objectID": "research.html",
@@ -75,5 +54,26 @@
     "title": "Research",
     "section": "Talks",
     "text": "Talks\n\nSlides and notes (coming soon)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a quantitative researcher and developer.\nThis site hosts notes, research, and selected projects.\n\n\n\nScenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "",
+    "text": "Scenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses, materials, office hours.\n(You can link to slides or GitHub repos here.)"
   }
 ]
