@@ -1,21 +1,26 @@
-
-
 ---
 title: "Home"
 page-layout: full
 ---
 
-::: {.hero}
-![Vahab Rostampour](img/profile.jpg){.avatar fig-cap="" fig-alt="Vahab Rostampour"}
-
-# Welcome
-
-I’m Dr. Vahab Rostampour — quantitative researcher, developer, and entrepreneur.  
-This site hosts notes, research, and selected projects.
+::: {.container .my-4}
+::: {.row .g-4 .align-items-center}
+::: {.col-12 .col-md-4 .text-center}
+![](img/profile.jpg){.avatar .img-fluid fig-alt="Vahab Rostampour" fig-cap=""}
 :::
+::: {.col-12 .col-md-8}
+# Dr. Vahab Rostampour
+
+{.lead} Quantitative researcher, developer, and entrepreneur.
+
+I work on model risk, stochastic & distributed control, and energy-tech pricing.
+This site hosts concise notes, research, and selected projects.
 
 
 ## Highlights
 - Scenario convexification numerics (notes & code soon)
 - Lifetime PD with Kalman filtering (notes & code soon)
-- Writing: quantitative interview questions (drafts)
+- Quantitative interview questions (drafts)
+:::
+:::
+:::
