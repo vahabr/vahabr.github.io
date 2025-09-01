@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses, materials, office hours.\n(You can link to slides or GitHub repos here.)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Add items like this:\n\nAuthor, Title, Venue/Year. Code PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a quantitative researcher and developer.\nThis site hosts notes, research, and selected projects.\n\n\n\nScenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "",
+    "text": "Scenario convexification numerics (notes & code soon)\nLifetime PD with Kalman filtering (notes & code soon)\nWriting: quantitative interview questions (drafts)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I explore the intersection of mathematics, machine learning, and systems modelling with applications in risk, finance, and energy.\nThis website is a living notebook. Short, clear, and regularly updated."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your@email.com\n\nGitHub: https://github.com/vahabr\n\nLinkedIn: https://www.linkedin.com/in/your-profile\n\nFor collaboration or speaking, feel free to reach out."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Scenario Convexification (WIP)\nBrief description and goals.\n\n\nLifetime PD & Kalman (WIP)\nBrief description and goals."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Risk modelling and simulation\nOptimisation and control\nApplied AI for decision systems"
+  },
+  {
+    "objectID": "research.html#areas-interests",
+    "href": "research.html#areas-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Risk modelling and simulation\nOptimisation and control\nApplied AI for decision systems"
+  },
+  {
+    "objectID": "research.html#software-code-links-later",
+    "href": "research.html#software-code-links-later",
+    "title": "Research",
+    "section": "Software / Code (links later)",
+    "text": "Software / Code (links later)\n\nScenario Convexification — simulation package (WIP)\nLifetime PD & Kalman filtering — demo notebooks (WIP)"
+  },
+  {
+    "objectID": "research.html#talks",
+    "href": "research.html#talks",
+    "title": "Research",
+    "section": "Talks",
+    "text": "Talks\n\nSlides and notes (coming soon)"
+  }
+]
