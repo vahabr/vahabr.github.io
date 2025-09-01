@@ -19,12 +19,19 @@ toc-title: On this page
 
 
 ## About me
-Dr. Vahab Rostampour
-Senior Quantitative Analyst, Researcher, Developer, and Entrepreneur.
-I work on model risk, stochastic & distributed control, and energy-tech pricing.
-This site hosts concise notes, research, and selected projects.
-:::
-:::
+
+
+I am a researcher, quantitative analyst, and entrepreneur with a passion for solving complex problems at the intersection of mathematics, technology, and society. My background spans both **academic research** and **financial industry practice**, giving me a unique perspective on how rigorous theory can be transformed into practical solutions for real-world challenges.
+
+I hold a **PhD in Applied Mathematics and Control Systems Engineering** from Delft University of Technology, where I focused on optimisation, stochastic modelling, and distributed control of large-scale systems such as energy and infrastructure networks. After my PhD, I continued as a **Postdoctoral Researcher at the University of Groningen**, where my work centred on advanced methods in optimisation, learning, and decision-making in uncertain environments.
+
+In parallel to my academic career, I have spent the last **five years as a Senior Quantitative Analyst in banking**, working at leading financial institutions in Zürich and Amsterdam. My focus has been on **model risk management, credit and impairment modelling, and regulatory compliance frameworks** such as IFRS 9, CECL, and stress testing. This experience has strengthened my ability to build bridges between advanced mathematical models, regulatory expectations, and practical business needs.
+
+Today, my research and professional interests converge around **stochastic modelling, optimisation, and risk management** across domains such as **energy systems, financial markets, and infrastructure planning**. I am particularly driven by the question of how **mathematical models, data-driven methods, and economic principles** can be combined to design **robust, transparent, and scalable decision frameworks** for uncertain and dynamic environments.
+
+Beyond my professional work, I enjoy building new ideas into projects, from **smart energy applications for electric vehicles** to **risk and pricing frameworks for decentralised finance**. At heart, I am motivated by curiosity, collaboration, and the ambition to create tools that not only solve technical problems but also contribute to more resilient systems for the future.
+
+
 
 
 
