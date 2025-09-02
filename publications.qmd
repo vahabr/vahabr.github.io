@@ -154,7 +154,7 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
     - Prof. Dr. John Lygeros (ETH Zurich) 
     - Prof. Dr. Maria Prandini (Politecnico di Milano)
 
-#### 2018  --- April 
+#### 2008  --- April 
 - **BS.c. Degree:** Electrical and Electronic Engineering<br> 
   - **Title:** Web-Based Control Technologies for Smart Building Automations
   - **Supervisor:** 

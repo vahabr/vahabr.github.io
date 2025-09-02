@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching experience spans graduate-level courses in optimization, control systems, and applied mathematics at both Delft University of Technology and the University of Groningen. I have contributed as instructor and teaching assistant in lectures, tutorials, and project-based assignments, with responsibilities ranging from exercise design and student supervision to grading and symposium organisation. These activities allowed me to combine theoretical insights with hands-on problem solving, while engaging closely with MSc students in engineering and systems control.\nIn addition to my past university teaching, I am developing a series of online courses in my areas of expertise — with especial focus on quantitative and financial risk and algorithmic tradings. These courses will soon be available to a broader audience interested in applying rigorous methods to complex, uncertain systems."
+  },
+  {
+    "objectID": "teaching.html#online-courses",
+    "href": "teaching.html#online-courses",
+    "title": "Teaching",
+    "section": "Online Courses",
+    "text": "Online Courses\n\nUnder Constructions"
+  },
+  {
+    "objectID": "teaching.html#university-of-groningen",
+    "href": "teaching.html#university-of-groningen",
+    "title": "Teaching",
+    "section": "University of Groningen",
+    "text": "University of Groningen\n\nSep 2018 — Dec 2019\n\n4th Quarter, 2019 | Stochastic Programming\nThis course was part of MSc program in Industrial Engineering at Engineering and Technology Institute Groningen, University of Groningen. The course introduced students to methods for modelling and solving optimisation problems under uncertainty, with emphasis on scenario-based formulations and decomposition techniques. I contributed by delivering lectures, guiding students through problem-solving sessions, and designing assignments that connected theory to practical applications in engineering and operations research.\n\n\n2nd Quarter, 2018 | Mechatronics\nThis course was part of MSc program in Industrial Engineering at Engineering and Technology Institute Groningen, University of Groningen. The course covered modelling, analysis, and control of mechatronic systems, combining mechanical, electronic, and computer engineering aspects.\nMy role included supervising project-based exercises, assisting students in integrating hardware and software, and providing feedback on their design and implementation approaches."
+  },
+  {
     "objectID": "teaching.html#delft-university-of-technology",
     "href": "teaching.html#delft-university-of-technology",
     "title": "Teaching",
     "section": "Delft University of Technology",
-    "text": "Delft University of Technology\n\nSep 2014 — Aug 2018"
+    "text": "Delft University of Technology\n\nSep 2014 — Aug 2018\n\n4th Quarter, 2018 | Networked and Distributed Control Systems (SC42100)\nThis course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology. I served as co-instructor of this course. I was responsible for the exercise lessons and a tutorial on Linear Matrix Inequalities (LMI) with Semidefinite Programming (SDP).\nThe course started with the modelling of networked control systems (NCS) and then addressed distributed control of such systems.\n\n\n4th Quarter, 2017 | Networked and Distributed Control Systems (SC42100)\nThis course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology. I served as co-instructor of this course. I was responsible for the exercise lessons and a tutorial on Linear Matrix Inequalities (LMI) with Semidefinite Programming (SDP).\nThe course introduced networked control systems (NCS) and focused on distributed control problems in interconnected subsystems.\n\n\n3rd Quarter, 2016 | Knowledge-Based Control Systems (SC4081)\nThis course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology. I served as a teaching assistant for this course. My primary responsibility was the Literature Assignment, where students produced a paper, presentation, and four peer review forms that together counted for 20% of the final grade.\nI managed student questions in the relevant topics, graded their work, and organised the final symposium where students presented their results.\n\n\n3rd Quarter, 2015 | Knowledge-Based Control Systems (SC4081)\nThis course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology. I served as a teaching assistant for this course. My primary responsibility was the Literature Assignment, where students produced a paper, presentation, and four peer review forms that together counted for 20% of the final grade.\nI managed student questions, graded assignments, and organised the final symposium where students presented their results."
   },
   {
     "objectID": "publications.html",
@@ -46,7 +67,7 @@
     "href": "publications.html#dissertations",
     "title": "Publications",
     "section": "Dissertations",
-    "text": "Dissertations\n\n2018 — September\n\nPh.D. Degree: Applied Mathematics and Control Systems Engineering\nTitle: Distributed Data-Driven Decision Making in Uncertain Networked Systems with Applications in Smart Energy Systems\nSupervisors:\n\nProf. Dr. Nathan van de Wouw (Eindhoven University of Technology)\nProf. Dr. Tamás Keviczky (Delft University of Technology)\n\nPhD Exam Committee:\n\nProf. Dr. Bart De Schutter (Delft University of Technology)\nProf. Dr. Peter Palensky (Delft University of Technology)\nProf. Dr. Riccardo Scattolini (Politecnico diMilano, Italy)\nProf. Dr. André Teixeira (Uppsala University, Sweden)\n\n\n\n\n2013 — April\n\nPh.D. Degree: Control Systems Engineering\nMS.c. Degree in Control Systems Engineering, Vahab Rostampour, April, 2013.\n\nTitle: Tractable Reserve Scheduling Formulations for Power Systems with Uncertain Generation\nSupervisors:\n\nProf. Dr. John Lygeros (ETH Zurich)\nProf. Dr. Maria Prandini (Politecnico di Milano)\n\n\n\n\n\n2018 — April\n\nBS.c. Degree: Electrical and Electronic Engineering\n\nTitle: Web-Based Control Technologies for Smart Building Automations\nSupervisor:\n\nProf. Dr. Mahmoud Seifouri"
+    "text": "Dissertations\n\n2018 — September\n\nPh.D. Degree: Applied Mathematics and Control Systems Engineering\nTitle: Distributed Data-Driven Decision Making in Uncertain Networked Systems with Applications in Smart Energy Systems\nSupervisors:\n\nProf. Dr. Nathan van de Wouw (Eindhoven University of Technology)\nProf. Dr. Tamás Keviczky (Delft University of Technology)\n\nPhD Exam Committee:\n\nProf. Dr. Bart De Schutter (Delft University of Technology)\nProf. Dr. Peter Palensky (Delft University of Technology)\nProf. Dr. Riccardo Scattolini (Politecnico diMilano, Italy)\nProf. Dr. André Teixeira (Uppsala University, Sweden)\n\n\n\n\n2013 — April\n\nPh.D. Degree: Control Systems Engineering\nMS.c. Degree in Control Systems Engineering, Vahab Rostampour, April, 2013.\n\nTitle: Tractable Reserve Scheduling Formulations for Power Systems with Uncertain Generation\nSupervisors:\n\nProf. Dr. John Lygeros (ETH Zurich)\nProf. Dr. Maria Prandini (Politecnico di Milano)\n\n\n\n\n\n2008 — April\n\nBS.c. Degree: Electrical and Electronic Engineering\n\nTitle: Web-Based Control Technologies for Smart Building Automations\nSupervisor:\n\nProf. Dr. Mahmoud Seifouri"
   },
   {
     "objectID": "posts/index.html",

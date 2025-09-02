@@ -7,9 +7,65 @@ toc-title: On this page
 toc-depth: 3
 ---
 
+
+
+
+My teaching experience spans graduate-level courses in optimization, control systems, and applied mathematics at both Delft University of Technology and the University of Groningen. I have contributed as instructor and teaching assistant in lectures, tutorials, and project-based assignments, with responsibilities ranging from exercise design and student supervision to grading and symposium organisation. These activities allowed me to combine theoretical insights with hands-on problem solving, while engaging closely with MSc students in engineering and systems control.  
+
+In addition to my past university teaching, I am developing a series of **online courses** in my areas of expertise — with especial focus on quantitative and financial risk and algorithmic tradings. These courses will soon be available to a broader audience interested in applying rigorous methods to complex, uncertain systems.
+
+
+## Online Courses
+
+#### Under Constructions
+
+
+
 ## University of Groningen
 #### Sep 2018 --- Dec 2019
 
 
+##### 4th Quarter, 2019 | Stochastic Programming
+
+This course was part of MSc program in Industrial Engineering at Engineering and Technology Institute Groningen, University of Groningen.
+The course introduced students to methods for modelling and solving optimisation problems under uncertainty, with emphasis on scenario-based formulations and decomposition techniques. I contributed by delivering lectures, guiding students through problem-solving sessions, and designing assignments that connected theory to practical applications in engineering and operations research.
+
+##### 2nd Quarter, 2018 | Mechatronics
+
+This course was part of MSc program in Industrial Engineering at Engineering and Technology Institute Groningen, University of Groningen.
+The course covered modelling, analysis, and control of mechatronic systems, combining mechanical, electronic, and computer engineering aspects.  
+My role included supervising project-based exercises, assisting students in integrating hardware and software, and providing feedback on their design and implementation approaches.
+
+
+
+
+
 ## Delft University of Technology
 #### Sep 2014 --- Aug 2018
+
+
+##### 4th Quarter, 2018 | Networked and Distributed Control Systems (SC42100)
+
+This course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology.
+I served as co-instructor of this course. I was responsible for the exercise lessons and a tutorial on Linear Matrix Inequalities (LMI) with Semidefinite Programming (SDP).  
+The course started with the modelling of networked control systems (NCS) and then addressed distributed control of such systems.  
+
+##### 4th Quarter, 2017 | Networked and Distributed Control Systems (SC42100)
+
+This course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology.
+I served as co-instructor of this course. I was responsible for the exercise lessons and a tutorial on Linear Matrix Inequalities (LMI) with Semidefinite Programming (SDP).  
+The course introduced networked control systems (NCS) and focused on distributed control problems in interconnected subsystems.  
+
+##### 3rd Quarter, 2016 | Knowledge-Based Control Systems (SC4081)
+
+This course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology.
+I served as a teaching assistant for this course. My primary responsibility was the *Literature Assignment*, where students produced a paper, presentation, and four peer review forms that together counted for 20% of the final grade.  
+I managed student questions in the relevant topics, graded their work, and organised the final symposium where students presented their results.  
+
+##### 3rd Quarter, 2015 | Knowledge-Based Control Systems (SC4081)
+
+This course was part of MSc program in Systems and Control Engineering at Delft Center for Systems and Control (DCSC) Institute, Delft University of Technology.
+I served as a teaching assistant for this course. My primary responsibility was the *Literature Assignment*, where students produced a paper, presentation, and four peer review forms that together counted for 20% of the final grade.  
+I managed student questions, graded assignments, and organised the final symposium where students presented their results.  
+
+
