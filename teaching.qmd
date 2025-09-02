@@ -8,8 +8,8 @@ toc-depth: 3
 ---
 
 ## University of Groningen
-### Sep 2018 --- Dec 2019
+#### Sep 2018 --- Dec 2019
 
 
 ## Delft University of Technology
-### Sep 2014 --- Aug 2018
+#### Sep 2014 --- Aug 2018

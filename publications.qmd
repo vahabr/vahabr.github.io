@@ -22,31 +22,31 @@ This page presents a selection of my research outputs, spanning journal articles
 
 ## Journal Articles
 
-### 2021
+#### 2021
 
 - **V. Rostampour**, T. Keviczky. *Distributed Stochastic MPC for Large-Scale Systems with Private and Common Uncertainty Sources.* Energies, 14(1), 23, 2021.
 
-### 2020
+#### 2020
 
 - **V. Rostampour**, T. Keviczky. *Demand Flexibility Management for Buildings-to-Grid Integration with Uncertain Generation.* Energies, 13(24):6532, 2020.
 
 - **V. Rostampour**, R. Ferrari, A. H. Teixeira, T. Keviczky. *Privatized Distributed Anomaly Detection for Large-Scale Nonlinear Uncertain Systems.* IEEE Transactions on Automatic Control (Full Paper), 2020. 
 
-### 2019
+#### 2019
 
 - Z. Sun, **V. Rostampour**, M. Cao. *Self-Triggered Stochastic MPC for Linear Systems with Disturbances.* IEEE Control Systems Letters, Vol. 3, Issue. 4, Pp. 787-792, 2019.
 
 - **V. Rostampour**, M. Jaxa-Rozen , M. Bloemendal , J. Kwakkel, and T. Keviczky. *ATES Smart Grids: Large-Scale Seasonal Energy Storage as A Distributed Energy Management Solution.* Applied Energy, Vol. 242, Pp. 624-639, 2019.
 
 
-### 2018
+#### 2018
 
 - **V. Rostampour**, O. t. Haar, T. Keviczky. *Distributed Stochastic Reserve Scheduling in AC Power Systems With Uncertain Generation.* IEEE Transactions on Power Systems, Vol. 34, Pp. 1005-1020, 2018.
 
 - **V. Rostampour**, T. Keviczky . *Probabilistic Energy Management for Building Climate Comfort in Smart Thermal Grids with Seasonal Storage Systems.* IEEE Transactions on Smart Grid, Vol. 10, Pp. 3687-3697, 2018.
 
 
-### 2016
+#### 2016
 
 - **V. Rostampour**, M. Jaxa-Rozen, M. Bloemendal, T. Keviczky. *Building Climate Energy Management in Smart Thermal Grids via Aquifer Thermal Energy Storage Systems.* Energy Procedia, Vol. 97, Pp. 59-66, 2016.
 
@@ -55,20 +55,20 @@ This page presents a selection of my research outputs, spanning journal articles
 
 ## Conference Papers
 
-### 2020
+#### 2020
 
 - J. Venkatasubramanian, **V. Rostampour**, T.S. Badings, T. Keviczky. *Stochastic MPC for Energy Management in Smart Grids with CVaR as Penalty Function.* IEEE PES Innovative 
 Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 
 
-### 2019
+#### 2019
 
 - **V. Rostampour**, T.S. Badings, J.M.A. Scherpen. *Buildings-to-Grid Integration with High Wind Power Penetration.* Conference on Decision and Control (CDC), 2976-2981, Nice, France, December 2019
 
 - T.S. Badings, **V. Rostampour**, J.M.A. Scherpen. *Distributed Building Energy Storage Units for Frequency Control Service in Power Systems.* IFAC Smart Grid and Renewable Energy Systems. Vol. 52, Issue. 4, Pp.228-233 , Jeju, Korea. June , 2019
 
 
-### 2018
+#### 2018
 
 - S.Boersma, **V. Rostampour**, B.Doekemeijer, J.W. van Wingerden, T. Keviczky. *A Model Predictive Wind Farm Controller with Linear Parameter-Varying Models.* IFAC Conference on Nonlinear Model Predictive Control. Madison, Wisconsin, US.  August, 2018
 
@@ -79,7 +79,7 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 - **V. Rostampour**, T. Keviczky. *Distributed Stochastic Model Predictive Control Synthesis for Large-Scale Uncertain Linear Systems.* American Control Conference (ACC), June 27–29, Pp. 2071-2077. Milwaukee, WI, USA. June, 2018
 
 
-### 2017
+#### 2017
 
 - **V. Rostampour**, O. t. Haar, T. Keviczky. *Tractable Reserve Scheduling in AC Power Systems With Uncertain Wind Power Generation* Conference on Decision and Control (CDC), Pp. 2647-2654. Melbourne, Australia. December, 2017
 
@@ -92,7 +92,7 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 - M. Bloemendal, M. Jaxa-Rozen, **V. Rostampour**. *Use it or Lose it: Adaptive Governance of Aquifers with ATES.* International Energy Agency (IEA) Conference on Heat Pump. Rotterdam, The Netherlands. March, 2017 
 
 
-### 2016
+#### 2016
 
 - **V. Rostampour**, Dieky Adzkiya, Sadegh Soudjani, Bart De Schutter, T. Keviczky. *Chance Constrained Model Predictive Controller Synthesis for Stochastic Max-Plus Linear Systems.* Systems, Man, and Cybernetics (SMC), Pp. 3581-3588. Budapest, Hungry. October, 2016
 
@@ -103,14 +103,14 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 - **V. Rostampour**, T. Keviczky. *Robust Randomized Model Predictive Control for Energy Balance in Smart Thermal Grids.* European Control Conference (ECC), Pp. 1201-1208. Aalborg, Denmark. June 2016 
 
 
-### 2015
+#### 2015
 
 - **V. Rostampour**, P. Mohajerin Esfahani, T. Keviczky. *Stochastic Nonlinear Model Predictive Control of an Uncertain Batch Polymerisation Reactor.* IFAC Conference on Nonlinear Model Predictive Control, Pp. 540-545. Seville, Spain. September, 2015
 
 - **V. Rostampour**, K. Margellos, M. Vrakopoulou, M. Prandini, G. Andersson, J. Lygeros. *Reserve Requirements in AC Power Systems With Uncertain Generation.* IEEE Innovative Smart Grid Technologies Europe (ISGT), Pp. 1-5. Copenhagen, Denmark. October, 2013 
 
 
-### 2013
+#### 2013
 
 - K. Margellos, **V. Rostampour**, M. Vrakopoulou, M. Prandini, G. Andersson, J. Lygeros. *Stochastic Unit Commitment and Reserve Scheduling: A Tractable Formulation with Probabilistic Certificates.* IEEE European Control Conference (ECC), Pp. 2513-2518. Zürich, Switzerland. June, 2013  
 
@@ -121,7 +121,7 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 
 ## Books & Chapters
 
-### 2019
+#### 2019
 - **Rostampour, Vahab**, Ter Haar, Ole, Keviczky, Tamas. *Computationally tractable reserve scheduling for AC power systems with wind power generation.* Editors: Palensky P., Cvetković M., Keviczky T. (eds). Springer, Cham, Pp. 215-233, 2019. 
 
 
@@ -131,9 +131,9 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 
 
 
-## Dissertations
+### Dissertations
 
-- **Ph.D. Degree in Systems and Control, Vahab Rostampour, September, 2018.**<br>
+- **Ph.D. Degree in Applied Mathematics and Control Systems Engineering, Vahab Rostampour, September, 2018.**<br>
   - **Title:** Distributed Data-Driven Decision Making in Uncertain Networked Systems with Applications in Smart Energy Systems<br>
   - **Supervisors:**<br>
     - Prof. Dr. Nathan van de Wouw (Eindhoven University of Technology)<br> 
@@ -144,7 +144,7 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
     - Prof. Dr. Riccardo Scattolini (Politecnico diMilano, Italy)<br>
     - Prof. Dr. André Teixeira (Uppsala University, Sweden)<br>
 
-- **MS.c. Degree in Systems and Control, Vahab Rostampour, April, 2013.** 
+- **MS.c. Degree in Control Systems Engineering, Vahab Rostampour, April, 2013.** 
   - **Title:** Tractable Reserve Scheduling Formulations for Power Systems with Uncertain Generation
   - **Supervisors:** 
     - Prof. Dr. John Lygeros (ETH Zurich) 
