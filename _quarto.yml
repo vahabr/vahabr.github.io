@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: _site
-  pre-render: "python tools/render_pubs.py"
-
 
 # apply shared metadata (e.g., last-modified) to all pages
 metadata-files:
