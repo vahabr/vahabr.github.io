@@ -131,26 +131,31 @@ Smart Grid Technologies Europe (ISGT-Europe), 309-313, 2020
 
 
 
-### Dissertations
+## Dissertations
 
-- **Ph.D. Degree in Applied Mathematics and Control Systems Engineering, Vahab Rostampour, September, 2018.**<br>
-  - **Title:** Distributed Data-Driven Decision Making in Uncertain Networked Systems with Applications in Smart Energy Systems<br>
-  - **Supervisors:**<br>
-    - Prof. Dr. Nathan van de Wouw (Eindhoven University of Technology)<br> 
-    - Prof. Dr. Tamás Keviczky (Delft University of Technology)<br>
-  - **PhD Exam Committee:**<br>  
-    - Prof. Dr. Bart De Schutter (Delft University of Technology)<br>
-    - Prof. Dr. Peter Palensky (Delft University of Technology)<br>
-    - Prof. Dr. Riccardo Scattolini (Politecnico diMilano, Italy)<br>
-    - Prof. Dr. André Teixeira (Uppsala University, Sweden)<br>
+#### 2018 --- September  
+- **Ph.D. Degree:** Applied Mathematics and Control Systems Engineering
+- **Title:** Distributed Data-Driven Decision Making in Uncertain Networked Systems with Applications in Smart Energy Systems<br>
+- **Supervisors:**<br>
+  - Prof. Dr. Nathan van de Wouw (Eindhoven University of Technology)<br> 
+  - Prof. Dr. Tamás Keviczky (Delft University of Technology)<br>
+- **PhD Exam Committee:**<br>  
+  - Prof. Dr. Bart De Schutter (Delft University of Technology)<br>
+  - Prof. Dr. Peter Palensky (Delft University of Technology)<br>
+  - Prof. Dr. Riccardo Scattolini (Politecnico diMilano, Italy)<br>
+  - Prof. Dr. André Teixeira (Uppsala University, Sweden)<br>
 
+
+#### 2013  --- April 
+- **Ph.D. Degree:** Control Systems Engineering<br> 
 - **MS.c. Degree in Control Systems Engineering, Vahab Rostampour, April, 2013.** 
   - **Title:** Tractable Reserve Scheduling Formulations for Power Systems with Uncertain Generation
   - **Supervisors:** 
     - Prof. Dr. John Lygeros (ETH Zurich) 
     - Prof. Dr. Maria Prandini (Politecnico di Milano)
-    
-- **BS.c. Degree in Electrical and Electronic Engineering, Vahab Rostampour, April, 2008.**
+
+#### 2018  --- April 
+- **BS.c. Degree:** Electrical and Electronic Engineering<br> 
   - **Title:** Web-Based Control Technologies for Smart Building Automations
   - **Supervisor:** 
     - Prof. Dr. Mahmoud Seifouri
