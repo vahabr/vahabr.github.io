@@ -1,7 +1,10 @@
 ---
 title: "Publications"
+page-layout: article        # show article container (not full-width)
+toc: true                   # enable the right-hand table of contents
+toc-location: right
+toc-title: On this page
+toc-depth: 3
 ---
 
-Add items like this:
-
-- Author, *Title*, Venue/Year. [Code](/projects) [PDF]()
+{{< include publications_rendered.md >}}

@@ -33,14 +33,20 @@ img.avatar {
   }
 }
 
-/* Footer icons: stable size */
-.footer-icons i {
-  font-size: 1.15rem;
-  line-height: 1;
-  vertical-align: middle;
-}
-.footer-icons a { margin-left: 0.4rem; }
-
+/* Footer: inline, no wrapping */
+.page-footer .footer-line {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    white-space: nowrap;
+  }
+  
+  .page-footer .footer-icons {
+    display: inline-flex;
+    gap: 0.5rem;
+  }
+  
+  
 
   
 //   .avatar {
