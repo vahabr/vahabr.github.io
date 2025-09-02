@@ -14,12 +14,14 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Projects
+        href: projects.qmd
       - text: Research
         href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: Projects
-        href: projects.qmd
     right:
       - icon: github
         href: "https://github.com/vahabr"

@@ -2,17 +2,48 @@
 
 ## Journal Articles
 
-1. Boersma, Sjoerd, **Rostampour, Vahab**, van Wingerden, Bart Doekemeijer Jan-Willem, Keviczky, Tam{\'a}s. *A model predictive wind farm controller with linear parameter-varying models*. IFAC-PapersOnLine, 51(20), 241--246. 2018.
-2. **Rostampour, Vahab**, Jaxa-Rozen, M, Bloemendal, JM, Kwakkel, JH, Keviczky, T. *Aquifer Thermal Energy Storage (ATES) smart grids*. 2019.
-3. **Rostampour, Vahab**, Jaxa-Rozen, Marc, Bloemendal, Martin, Kwakkel, Jan, Keviczky, Tam{\'a}s. *Aquifer Thermal Energy Storage (ATES) smart grids: Large-scale seasonal energy storage as a distributed energy management solution*. Applied Energy, 242, 624--639. 2019.
-4. Bloemendal, JM, Jaxa-Rozen, Marc, **Rostampour, Vahab**, Konadu, Daniel Dennis. *ATES Smart Grids research project overview and first results*. 2016.
-5. **Rostampour, Vahab**, Jaxa-Rozen, Marc, Bloemendal, Martin, Keviczky, Tam{\'a}s. *Building Climate Energy Management in Smart Thermal Grids via Aquifer Thermal Energy Storage Systems*. Energy Procedia, 97, 59--66. 2016.
-6. **Rostampour, Vahab**, Badings, Thom S, Scherpen, Jacquelien MA. *Demand flexibility management for buildings-to-grid integration with uncertain generation*. Energies, 13(24), 6532. 2020.
-7. Teixeira, Andr{\'e} MH, Keviczky, Tam{\'a}s, **Rostampour, Vahab**, Ferrari, Riccardo, Ferrari, Riccardo. *Differentially--Private Distributed Fault Diagnosis for Large--Scale Nonlinear Uncertain Systems*. IFAC Papers OnLine, Elsevier. 2018.
-8. **Rostampour, Vahab**, Ferrari, Riccardo, Teixeira, Andr{\'e} MH, Keviczky, Tam{\'a}s. *Differentially-private distributed fault diagnosis for large-scale nonlinear uncertain systems*. IFAC-PapersOnLine, 51(24), 975--982. 2018.
-9. Badings, Thom S, **Rostampour, Vahab**, Scherpen, Jacquelien MA. *Distributed Building Energy Storage Units for Frequency Control Service in Power Systems*. IFAC-PapersOnLine, 52(4), 228--233. 2019.
-10. **Rostampour, Vahab**, Keviczky, Tam{\'a}s. *Distributed computational framework for large-scale stochastic convex optimization*. Energies, 14(1), 23. 2020.
-11. **Rostampour, Vahab**. *Distributed Data-Driven Decision Making in Uncertain Networked Systems with Applications in Smart Energy Systems*. 2018.
+- Boersma, Sjoerd, **Rostampour, Vahab**, van Wingerden, Bart Doekemeijer Jan-Willem, Keviczky, Tamas 
+  *A model predictive wind farm controller with linear parameter-varying models*
+  IFAC-PapersOnLine, 51(20), 241--246. 2018.
+
+
+- **Rostampour, Vahab**, Jaxa-Rozen, M, Bloemendal, JM, Kwakkel, JH, Keviczky, T. 
+  *Aquifer Thermal Energy Storage (ATES) smart grids*
+  2019
+
+- **Rostampour, Vahab**, Jaxa-Rozen, Marc, Bloemendal, Martin, Kwakkel, Jan, Keviczky, Tam{\'a}s. 
+  *Aquifer Thermal Energy Storage (ATES) smart grids: Large-scale seasonal energy storage as a distributed energy management solution*. 
+  Applied Energy, 242, 624--639. 2019.
+
+Bloemendal, JM, Jaxa-Rozen, Marc, **Rostampour, Vahab**, Konadu, Daniel Dennis. 
+*ATES Smart Grids research project overview and first results*. 
+2016.
+
+5. **Rostampour, Vahab**, Jaxa-Rozen, Marc, Bloemendal, Martin, Keviczky, Tam{\'a}s. 
+*Building Climate Energy Management in Smart Thermal Grids via Aquifer Thermal Energy Storage Systems*. 
+Energy Procedia, 97, 59--66. 2016.
+
+6. **Rostampour, Vahab**, Badings, Thom S, Scherpen, Jacquelien MA. 
+*Demand flexibility management for buildings-to-grid integration with uncertain generation*. 
+Energies, 13(24), 6532. 2020.
+
+7. Teixeira, Andr{\'e} MH, Keviczky, Tam{\'a}s, **Rostampour, Vahab**, Ferrari, Riccardo, Ferrari, Riccardo. 
+*Differentially--Private Distributed Fault Diagnosis for Large--Scale Nonlinear Uncertain Systems*. 
+IFAC Papers OnLine, Elsevier. 2018.
+
+8. **Rostampour, Vahab**, Ferrari, Riccardo, Teixeira, Andr{\'e} MH, Keviczky, Tam{\'a}s. 
+*Differentially-private distributed fault diagnosis for large-scale nonlinear uncertain systems*. 
+IFAC-PapersOnLine, 51(24), 975--982. 2018.
+
+9. Badings, Thom S, **Rostampour, Vahab**, Scherpen, Jacquelien MA. 
+*Distributed Building Energy Storage Units for Frequency Control Service in Power Systems*. 
+IFAC-PapersOnLine, 52(4), 228--233. 2019.
+
+10. **Rostampour, Vahab**, Keviczky, Tam{\'a}s. 
+*Distributed computational framework for large-scale stochastic convex optimization*. 
+Energies, 14(1), 23. 2020.
+
+
 12. **Rostampour, Vahab**, Keviczky, Tam{\'a}s. *Distributed Stochastic Reserve Scheduling in AC Power Grids With Uncertain Generation*. 2015.
 13. **Rostampour, Vahab**, Ter Haar, Ole, Keviczky, Tam{\'a}s. *Distributed stochastic reserve scheduling in AC power systems with uncertain generation*. IEEE Transactions on Power Systems, 34(2), 1005--1020. 2018.
 14. **Rostampour, Vahab**. *Energy Management for Building Climate Comfort in Smart Thermal Grids with Seasonal Storage Systems*. 2016.
@@ -55,14 +86,15 @@
 
 ## Book Chapters & Books
 
-1. **Rostampour, Vahab**, Ter Haar, Ole, Keviczky, Tam{\'a}s. *Computationally tractable reserve scheduling for AC power systems with wind power generation*. Intelligent Integrated Energy Systems: The PowerWeb Program at TU Delft, 215--233. 2018.
-2. **Rostampour, Vahab**, Ananduta, Wicak, Keviczky, Tam{\'a}s. *Distributed stochastic thermal energy management in smart thermal grids*. Intelligent Integrated Energy Systems: The PowerWeb Program at TU Delft, 141--164. 2018.
+
 
 ## Theses
 
-1. **Rostampour, Vahab**. *Tractable reserve scheduling formulations for power systems with uncertain generation*. Politecnico di Milano, Italy. 2013.
+
 
 ## Other
 
-1. Rostampour, V, Keviczky, T. *Distributed Computational Framework for Large-Scale Stochastic Convex Optimization. Energies 2021, 14, 23*. s Note: MDPI stays neu-tral with regard to jurisdictional claims in~…. 2020.
+- **Rostampour, Vahab**, Keviczky, T. 
+  *Distributed Computational Framework for Large-Scale Stochastic Convex Optimization* 
+  Energies 2020
 

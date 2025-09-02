@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vahabr.github.io/research.html</loc>
-    <lastmod>2025-08-31T13:29:58.560Z</lastmod>
+    <loc>https://vahabr.github.io/teaching.html</loc>
+    <lastmod>2025-09-02T13:12:56.663Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/publications.html</loc>
-    <lastmod>2025-09-02T08:46:31.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/posts/index.html</loc>
-    <lastmod>2025-09-01T07:45:09.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/index.html</loc>
-    <lastmod>2025-09-01T11:15:53.897Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/posts/2025-09-01-hello.html</loc>
-    <lastmod>2025-09-01T07:38:06.268Z</lastmod>
+    <loc>https://vahabr.github.io/publications_rendered.html</loc>
+    <lastmod>2025-09-02T13:13:49.596Z</lastmod>
   </url>
   <url>
     <loc>https://vahabr.github.io/projects.html</loc>
     <lastmod>2025-08-31T13:29:58.559Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/publications_rendered.html</loc>
-    <lastmod>2025-09-02T07:23:57.530Z</lastmod>
+    <loc>https://vahabr.github.io/posts/2025-09-01-hello.html</loc>
+    <lastmod>2025-09-02T13:15:31.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/index.html</loc>
+    <lastmod>2025-09-01T11:15:53.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/index.html</loc>
+    <lastmod>2025-09-02T13:16:22.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/publications.html</loc>
+    <lastmod>2025-09-02T13:07:10.480Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/research.html</loc>
+    <lastmod>2025-08-31T13:29:58.560Z</lastmod>
   </url>
 </urlset>
