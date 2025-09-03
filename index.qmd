@@ -61,6 +61,23 @@ My aim is to create not just a collection of questions, but a **structured learn
 
 
 
+## Latest Posts
+
+::: {.listing}
+contents: posts/
+sort: "date desc"
+type: grid
+limit: 2
+image: true
+categories: false
+fields: [image, title, date, description]
+image-height: 140px
+:::
+
+[See all posts →](posts/)
+
+
+
 
 
 ## Outreach
