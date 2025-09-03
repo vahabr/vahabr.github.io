@@ -5,6 +5,13 @@ toc: true                   # enable the right-hand table of contents
 toc-location: right
 toc-title: On this page
 toc-depth: 3
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+  categories: false
+  max-items: 2
+  feed: true
 ---
 
 
@@ -75,6 +82,7 @@ image-height: 140px
 :::
 
 [See all posts →](posts/)
+
 
 
 

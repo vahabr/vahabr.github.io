@@ -42,7 +42,7 @@ It is a valuable synthesis for founders and leaders serious about building endur
 
 ## Chapters Summary
 
-### Chapter 1: Bill and Me 
+#### Chapter 1: Bill and Me 
 
 ##### *Highlight: The purpose of life is not to be happy. The purpose of life is to be useful.*
 
@@ -55,7 +55,7 @@ The chapter establishes a central idea: *great businesses are built by great peo
 
 
 
-### Chapter 2: Great Vision Without Great People Is Irrelevant
+#### Chapter 2: Great Vision Without Great People Is Irrelevant
 
 ##### *Highlight: If you have the right people, the problem of how to motivate and manage largely goes away.*
 
@@ -69,7 +69,7 @@ Importantly, Collins warns against a **common mistake: tolerating mediocrity out
 The chapter also discusses the danger of keeping “*clever but toxic*” individuals. High performance is not enough if the behaviour erodes trust or undermines others. A strong culture is not built by a few top performers — **it is built by consistency of values across the organisation**. In short, leaders must view talent not as a transaction, but as a cultural foundation.
 
 
-### Chapter 3: Leadership Style
+#### Chapter 3: Leadership Style
 
 ##### *Highlight: Your leadership style is not what you say it is. It’s what you do consistently, even when no one is watching.*
 
@@ -87,7 +87,7 @@ Finally, Collins makes a clear distinction between leadership as personality ver
 
 
 
-### Chapter 4: Vision 
+#### Chapter 4: Vision 
 
 ##### *Highlight: A vision is not what you hope to become. A vision is what you are willing to suffer for.*
 
@@ -108,7 +108,7 @@ This chapter challenges leaders to get honest: Is your vision just branding lang
 
 
 
-### Chapter 5: Luck Favors the Persistent 
+#### Chapter 5: Luck Favors the Persistent 
 
 ##### *Highlight: Luck is not a plan. Discipline is.*
 
@@ -126,7 +126,7 @@ Ultimately, this chapter is about **rejecting the lottery mentality and embracin
 
 
 
-### Chapter 6: What Makes Great Companies Tick – The Map 
+#### Chapter 6: What Makes Great Companies Tick – The Map 
 
 ##### *Highlight: The great companies are not built by one thing done right — they are built by a system of interlocking concepts executed with relentless consistency.*
 
@@ -146,7 +146,7 @@ Ultimately, the map serves as a navigation tool — not for finding quick wins, 
 
 
 
-### Chapter 7: Strategy 
+#### Chapter 7: Strategy 
 
 ##### *Highlight: A great strategy is as much about what you don’t do as what you choose to pursue.*
 
@@ -165,7 +165,7 @@ Finally, Collins encourages leaders to **codify their strategy into a form that 
 
 
 
-### Chapter 8: Innovation 
+#### Chapter 8: Innovation 
 
 ##### *Highlight: Innovation without discipline leads to disaster. Discipline without innovation leads to irrelevance.*
 
@@ -185,7 +185,7 @@ This chapter ultimately calls for a blend of creativity and discipline. Breakthr
 
 
 
-### Chapter 9: Tactical Excellence 
+#### Chapter 9: Tactical Excellence 
 
 ##### *Highlight: There is nothing more strategic than flawless execution.*
 
