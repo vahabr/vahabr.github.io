@@ -5,15 +5,14 @@ page-layout: article        # show article container (not full-width)
 toc: true                   # enable the right-hand table of contents
 toc-location: right
 toc-title: On this page
-toc-depth: 4
+toc-depth: 3
 ---
 
 
-
+## Core Idea
 
 :::{.columns}
 ::: {.column width="55%"}
-## Core Idea
 
 It’s not a management book. It’s a leadership manifesto for building companies that outlast their founders by embedding purpose, discipline, and a culture of greatness. The updated 2.0 edition integrates lessons from Good to Great, Built to Last, Great by Choice, and others — giving it both emotional weight (due to Lazier’s legacy) and strategic punch. The main strengths of the book is as follows: 
 
@@ -24,7 +23,7 @@ It’s not a management book. It’s a leadership manifesto for building compani
 :::
 
 ::: {.column width="45%"}
-![](../img/BE2.jpg){width="95%" fig-align="center"}
+![](../img/BE2.jpg){width="75%" fig-align="center"}
 :::
 :::
 
