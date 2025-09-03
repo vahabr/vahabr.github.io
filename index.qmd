@@ -6,7 +6,7 @@ toc-location: right
 toc-title: On this page
 toc-depth: 3
 listing:
-  contents: .
+  contents: posts/
   sort: "date desc"
   type: grid
   categories: false
