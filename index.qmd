@@ -9,23 +9,35 @@ toc-depth: 3
 
 
 
-<div class="lead mt-3">
+
+:::{.columns}
+::: {.column width="38%"}
+
+
+> <div class="lead mt-3">
+[**What Guides My Work**]{.underline}<br>
 Numbers are easy.
-**Uncertainty** is the real challenge.
-A model is **never** just numbers on a page.
-It is a story about uncertainty, a reflection of **choices**, and a map of how we **believe** the world works. 
-The hardest part of risk is **not predicting** the future, but deciding what kind of future we are **willing to prepare** for.
---- Vahab Rostampour, Ph.D. 
+[**Uncertainty**]{.mark} is the real challenge.
+A model is never just numbers on a page.
+It is a [**story**]{.mark} about uncertainty, a reflection of [**choices**]{.mark}, and a map of how we believe the [**world works**]{.mark}. 
+The hardest part of risk is not predicting the future, but deciding what kind of [**future**]{.mark} we are willing to prepare for.<br>
+--- Vahab Rostampour, Ph.D.
+<br>
+<br>
 </div>
 
 
 
 
-![](img/profile.jpg){width="100%" fig-align="center"}
-
-
-::: {.column-margin}
 📌 <span class="pill-link"><a href="posts/">Recent updates, notes, & news →</a></span>
+
+
+
+:::
+
+::: {.column width="62%"}
+![](img/profile.jpg){width="88%" fig-align="center"}
+:::
 :::
 
 

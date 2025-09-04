@@ -142,3 +142,17 @@ img.avatar {
     color: var(--bs-secondary-color);
   }
   
+
+  /* Enable a left-margin utility that works with Quarto's page grid */
+.page-columns .column-left {
+    grid-column: margin-start;     /* left margin in LTR layouts */
+  }
+  
+  /* Optional: make the left note tidy & sticky */
+  .column-left {
+    font-size: .9rem;
+    color: var(--bs-secondary-color);
+    position: sticky;
+    top: 1rem;                     /* stick under the navbar */
+  }
+  
