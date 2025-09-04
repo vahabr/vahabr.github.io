@@ -5,9 +5,11 @@ toc: true                   # enable the right-hand table of contents
 toc-location: right
 toc-title: On this page
 toc-depth: 3
+format:
+  html:
+    theme: cosmo        # <- forces Bootstrap 5
+    css: styles.scss
 ---
-
-
 
 
 :::{.columns}
@@ -39,8 +41,6 @@ The hardest part of risk is not predicting the future, but deciding what kind of
 ![](img/profile.jpg){width="88%" fig-align="center"}
 :::
 :::
-
-
 
 
 

@@ -1,101 +1,51 @@
-/* subtle polish */
+/* ===== Base polish ===== */
 .navbar-brand { font-weight: 600; }
 footer { opacity: .85; }
-img { border-radius: 8px; }
 
-.hero {
-    text-align: center;
-    padding: 2rem 0;
-  }
-  
+/* avoid forcing radius on all images; keep Quarto/Bootstrap utilities effective */
+img { border-radius: 0; }
 
-/* Avatar: force fixed size everywhere (overrides Bootstrap/Quarto) */
-.quarto-figure img.avatar.figure-img,
-img.avatar.figure-img,
-img.avatar {
-  width: 180px !important;      /* <- set your desired size */
-  height: 180px !important;     /* keep equal for a perfect circle */
-  max-width: none !important;   /* defeat .img-fluid width:100% */
-  border-radius: 50%;
-  object-fit: cover;
-  display: inline-block;
+/* ===== Hero (container + copy) ===== */
+.hero { max-width: 1100px; margin-top: 0.75rem; }
+.hero-copy { max-width: 65ch; }
+
+/* Eyebrow + quote */
+.hero-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  font-weight: 600;
+  opacity: .7;
+  font-size: .9rem;
+  margin-bottom: .25rem;
+}
+.hero-quote {
+  padding-left: 1rem;
+  border-left: 4px solid rgba(0,0,0,.08);
   margin-bottom: 1rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  p { line-height: 1.6; }
+  .mark { background: linear-gradient(transparent 60%, rgba(255,230,0,.5) 0); }
+  footer { opacity: .7; font-size: .95rem; }
 }
 
-/* Smaller on phones */
-@media (max-width: 767.98px) {
-  .quarto-figure img.avatar.figure-img,
-  img.avatar.figure-img,
-  img.avatar {
-    width: 140px !important;
-    height: 140px !important;
-  }
-}
-
-/* Footer: inline, no wrapping */
-.page-footer .footer-line {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.6rem;
-    white-space: nowrap;
-  }
-  
-  .page-footer .footer-icons {
-    display: inline-flex;
-    gap: 0.5rem;
-  }
-  
-
-.epigraph {
-  position: relative;
-  font-style: italic;
-  font-size: 1.05rem;
-  line-height: 1.5;
-  margin: 2rem 0;
-  padding: 1rem 2rem;
-  border-top: 1px solid #ccc;
-}
-
-
-.epigraph::before {
-    content: "\201C";    /* Unicode for left double quotation mark */
-    font-size: 3rem;
-    color: #ccc;
-    position: absolute;
-    top: -0.2rem;
-    left: 0.2rem;
-    font-family: Georgia, serif;
-    line-height: 1;
-  }
-
-  
-.epigraph .author {
+/* Hero image (applies to the IMG element with class .hero-photo) */
+.hero-photo {
   display: block;
-  margin-top: 0.75rem;
-  font-style: normal;
-  text-align: right;
-  font-size: 0.9rem;
-  color: #555;
+  width: 100%;
+  height: auto;
+  /* sizing caps per breakpoint */
+  max-width: 320px;
+  border-radius: .5rem;
+  box-shadow: 0 4px 16px rgba(0,0,0,.1);
+}
+@media (max-width: 767.98px) {
+  .hero { margin-top: 1.25rem !important; }
+  .hero-copy { max-width: 75ch; }
+  .hero-photo { max-width: 220px; margin: 0 auto .25rem; }
 }
 
-
-/* --- Hero layout polish --- */
-.hero { margin-top: .5rem; }
-.hero h1 { margin-bottom: .25rem; }
-.subtitle { color: var(--bs-secondary-color); font-size: 1.15rem; }
+/* Lead text and subtitle (generic) */
 .lead { max-width: 52ch; color: var(--bs-body-color); }
-
-/* Book-like epigraph (left rule + toned italic) */
-.epigraph {
-  max-width: 60ch;
-  font-style: italic;
-  line-height: 1.6;
-  margin: .75rem 0 0;
-  padding: .75rem 0 .25rem 1rem;
-  border-left: 3px solid #cfd4da;
-  color: var(--bs-body-color);
-}
+.subtitle { color: var(--bs-secondary-color); font-size: 1.15rem; }
 
 /* Call-to-action pill */
 .pill-link a {
@@ -105,54 +55,106 @@ img.avatar {
   background: var(--bs-light);
   border: 1px solid rgba(0,0,0,.06);
   text-decoration: none;
+  font-weight: 600;
 }
 .pill-link a:hover { background: var(--bs-gray-100); }
 
-/* Contact icons row */
+/* ===== Avatar (profile circles used elsewhere) ===== */
+.quarto-figure img.avatar.figure-img,
+img.avatar.figure-img,
+img.avatar {
+  width: 180px !important;
+  height: 180px !important;
+  max-width: none !important; /* defeat .img-fluid width:100% */
+  border-radius: 50%;
+  object-fit: cover;
+  display: inline-block;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+@media (max-width: 767.98px) {
+  .quarto-figure img.avatar.figure-img,
+  img.avatar.figure-img,
+  img.avatar { width: 140px !important; height: 140px !important; }
+}
+
+/* ===== Epigraph (single, book-like variant) ===== */
+.epigraph {
+  max-width: 60ch;
+  font-style: italic;
+  line-height: 1.6;
+  margin: .75rem 0 0;
+  padding: .75rem 0 .25rem 1rem;
+  border-left: 3px solid #cfd4da;
+  color: var(--bs-body-color);
+}
+.epigraph .author {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* ===== Footer layout ===== */
+.page-footer .footer-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  white-space: nowrap;
+}
+.page-footer .footer-icons { display: inline-flex; gap: 0.5rem; }
+
+/* ===== Contact icons row ===== */
 .contact-icons { font-size: .95rem; color: var(--bs-secondary-color); }
 .contact-icons a { margin-left: .45rem; color: inherit; text-decoration: none; }
 .contact-icons a:hover { color: var(--bs-primary); }
 .contact-icons .bi { font-size: 1.1rem; vertical-align: -0.15em; }
 
-/* Photo card */
-.hero-photo {
-  display: block;
-  overflow: hidden;
-  border-radius: .8rem;
-  border: 1px solid rgba(0,0,0,.06);
-  box-shadow: 0 6px 24px rgba(0,0,0,.08);
-  max-height: 560px;  /* keep it tidy on large screens */
-}
-.hero-photo img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-/* Responsive refinements */
-@media (max-width: 992px) {
-  .lead, .epigraph { max-width: 100%; }
-  .hero-photo { max-height: none; box-shadow: 0 4px 18px rgba(0,0,0,.06); }
-}
-
-
+/* ===== Left margin notes (optional) ===== */
+.page-columns .column-left { grid-column: margin-start; }
 .column-left {
-    grid-column: margin-start; /* same slot as TOC column */
-    font-size: 0.9rem;
-    color: var(--bs-secondary-color);
-  }
-  
+  font-size: .9rem;
+  color: var(--bs-secondary-color);
+  position: sticky;
+  top: 1rem;
+}
 
-  /* Enable a left-margin utility that works with Quarto's page grid */
-.page-columns .column-left {
-    grid-column: margin-start;     /* left margin in LTR layouts */
+/* ===== DO NOT override Bootstrap’s grid ===== */
+/* Removed:
+   .row { display:flex !important; flex-wrap:wrap !important; }
+   .col-12, [class*="col-md-"], [class*="col-lg-"] { box-sizing: border-box; }
+*/
+
+/* --- Fix Pandoc .columns on mobile --- */
+@media (max-width: 767.98px) {
+    .columns { 
+      display: block !important;       /* stop side-by-side squeezing */
+    }
+    .columns > .column {
+      width: 100% !important;          /* ignore the width="38/62%" */
+      margin: 0 0 1rem 0 !important;   /* breathing room between blocks */
+    }
+    /* tidy first element spacing */
+    .columns > .column > *:first-child { margin-top: 0; }
+  
+    /* image: scale nicely and center */
+    .columns img {
+      width: 100% !important;
+      max-width: 280px;                /* cap portrait size on phones */
+      height: auto !important;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
   
-  /* Optional: make the left note tidy & sticky */
-  .column-left {
-    font-size: .9rem;
-    color: var(--bs-secondary-color);
-    position: sticky;
-    top: 1rem;                     /* stick under the navbar */
+  /* Desktop polish for your existing columns */
+  @media (min-width: 768px) {
+    .columns { gap: 1.25rem; align-items: center; }
   }
+  
+  /* Optional: nicer quote width on all screens */
+  .hero-copy, .lead { max-width: 65ch; }
   
