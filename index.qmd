@@ -9,45 +9,23 @@ toc-depth: 3
 
 
 
-:::{.columns}
-::: {.column width="50%"}
-
-
-## Vahab Rostampour --- Ph.D.
-### Senior Quantitative Researcher
-
-
 <div class="lead mt-3">
 Numbers are easy.
 **Uncertainty** is the real challenge.
 A model is **never** just numbers on a page.
 It is a story about uncertainty, a reflection of **choices**, and a map of how we **believe** the world works. 
 The hardest part of risk is **not predicting** the future, but deciding what kind of future we are **willing to prepare** for.
+--- Vahab Rostampour, Ph.D. 
 </div>
 
 
-<div class="mt-3">
-* <span class="pill-link"><a href="posts/">**My recent updates, notes & news →**</a></span>
-</div>
 
 
-```{=html}
-<div class="contact-icons">
-  * **My contacts** --- 
-  <a href="https://github.com/vahabr" aria-label="GitHub"><span class="bi bi-github"></span></a>
-  <a href="https://www.linkedin.com/in/vrostampour" aria-label="LinkedIn"><span class="bi bi-linkedin"></span></a>
-  <a href="https://twitter.com/RostampourVahab" aria-label="Twitter/X"><span class="bi bi-twitter"></span></a>
-  <a href="https://t.me/vahabros" aria-label="Telegram"><span class="bi bi-telegram"></span></a>
-  <a href="https://scholar.google.com/citations?user=7JPAXgIAAAAJ&hl=en" aria-label="Google Scholar"><span class="bi bi-mortarboard"></span></a>
-  <a href="mailto:rostampour.v@gmail.com" aria-label="Gmail"><span class="bi bi-envelope"></span></a>
-  <a href="/posts/" aria-label="Blog"><span class="bi bi-rss"></span></a>
-</div>
+![](img/profile.jpg){width="100%" fig-align="center"}
 
-:::
 
-::: {.column width="48%"}
-![](img/profile.jpg){width="95%" fig-align="center"}
-:::
+::: {.column-margin}
+📌 <span class="pill-link"><a href="posts/">Recent updates, notes, & news →</a></span>
 :::
 
 

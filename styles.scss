@@ -134,3 +134,11 @@ img.avatar {
   .lead, .epigraph { max-width: 100%; }
   .hero-photo { max-height: none; box-shadow: 0 4px 18px rgba(0,0,0,.06); }
 }
+
+
+.column-left {
+    grid-column: margin-start; /* same slot as TOC column */
+    font-size: 0.9rem;
+    color: var(--bs-secondary-color);
+  }
+  
