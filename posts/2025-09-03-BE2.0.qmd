@@ -1,5 +1,5 @@
 ---
-title: "Book Review – Beyond Entrepreneurship 2.0"
+title: "Book Reading Summary – Beyond Entrepreneurship 2.0"
 date: 2025-09-03
 page-layout: article        # show article container (not full-width)
 toc: true                   # enable the right-hand table of contents

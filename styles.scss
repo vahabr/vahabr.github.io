@@ -46,5 +46,91 @@ img.avatar {
     gap: 0.5rem;
   }
   
-  
 
+.epigraph {
+  position: relative;
+  font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  margin: 2rem 0;
+  padding: 1rem 2rem;
+  border-top: 1px solid #ccc;
+}
+
+
+.epigraph::before {
+    content: "\201C";    /* Unicode for left double quotation mark */
+    font-size: 3rem;
+    color: #ccc;
+    position: absolute;
+    top: -0.2rem;
+    left: 0.2rem;
+    font-family: Georgia, serif;
+    line-height: 1;
+  }
+
+  
+.epigraph .author {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+
+/* --- Hero layout polish --- */
+.hero { margin-top: .5rem; }
+.hero h1 { margin-bottom: .25rem; }
+.subtitle { color: var(--bs-secondary-color); font-size: 1.15rem; }
+.lead { max-width: 52ch; color: var(--bs-body-color); }
+
+/* Book-like epigraph (left rule + toned italic) */
+.epigraph {
+  max-width: 60ch;
+  font-style: italic;
+  line-height: 1.6;
+  margin: .75rem 0 0;
+  padding: .75rem 0 .25rem 1rem;
+  border-left: 3px solid #cfd4da;
+  color: var(--bs-body-color);
+}
+
+/* Call-to-action pill */
+.pill-link a {
+  display: inline-block;
+  padding: .35rem .75rem;
+  border-radius: 999px;
+  background: var(--bs-light);
+  border: 1px solid rgba(0,0,0,.06);
+  text-decoration: none;
+}
+.pill-link a:hover { background: var(--bs-gray-100); }
+
+/* Contact icons row */
+.contact-icons { font-size: .95rem; color: var(--bs-secondary-color); }
+.contact-icons a { margin-left: .45rem; color: inherit; text-decoration: none; }
+.contact-icons a:hover { color: var(--bs-primary); }
+.contact-icons .bi { font-size: 1.1rem; vertical-align: -0.15em; }
+
+/* Photo card */
+.hero-photo {
+  display: block;
+  overflow: hidden;
+  border-radius: .8rem;
+  border: 1px solid rgba(0,0,0,.06);
+  box-shadow: 0 6px 24px rgba(0,0,0,.08);
+  max-height: 560px;  /* keep it tidy on large screens */
+}
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Responsive refinements */
+@media (max-width: 992px) {
+  .lead, .epigraph { max-width: 100%; }
+  .hero-photo { max-height: none; box-shadow: 0 4px 18px rgba(0,0,0,.06); }
+}
