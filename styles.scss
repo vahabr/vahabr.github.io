@@ -157,4 +157,47 @@ img.avatar {
   
   /* Optional: nicer quote width on all screens */
   .hero-copy, .lead { max-width: 65ch; }
+
+
+/* === FORCE PANDOC `.columns` TO STACK ON MOBILE === */
+@media (max-width: 767.98px) {
+    /* handle both flex- and grid-based implementations */
+    .columns {
+      display: block !important;              /* if theme uses flex, this neutralises it */
+      flex-direction: column !important;      /* belt-and-braces */
+      grid-template-columns: 1fr !important;  /* if theme uses grid, collapse to 1 col */
+      gap: 0 !important;
+    }
+  
+    .columns > .column {
+      width: 100% !important;                 /* beat inline widths like width="38%" */
+      max-width: 100% !important;
+      flex: 0 0 100% !important;
+      margin: 0 0 1rem 0 !important;          /* space between stacked blocks */
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+  
+    /* ensure figures/images don’t float or overflow on phones */
+    .columns figure, 
+    .columns .figure, 
+    .columns img {
+      float: none !important;
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  
+    /* sensible mobile photo sizing */
+    .columns img {
+      width: 100% !important;
+      max-width: 280px !important;            /* adjust if you want larger */
+      height: auto !important;
+    }
+  }
+  
+  /* Optional: nicer spacing on desktop */
+  @media (min-width: 768px) {
+    .columns { gap: 1.25rem; align-items: center; }
+  }
   
