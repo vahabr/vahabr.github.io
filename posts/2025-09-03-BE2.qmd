@@ -41,10 +41,8 @@ It is a valuable synthesis for founders and leaders serious about building endur
 
 
 ## Chapters Summary
-
 #### Chapter 1: Bill and Me 
-
-##### *Highlight: The purpose of life is not to be happy. The purpose of life is to be useful.*
+> The purpose of life is not to be happy. The purpose of life is to be useful.
 
 
 Jim Collins opens the book with a heartfelt reflection on his friendship and intellectual partnership with Bill Lazier, co-author of the original Beyond Entrepreneurship. Far from being just a professional collaborator, Lazier was Collins' mentor, a moral compass, and an enduring example of what it means to lead with character. The chapter is a personal tribute, but also a profound philosophical statement: **at the core of great leadership lies not brilliance or ambition, but decency, trustworthiness, and humility**.
@@ -56,8 +54,7 @@ The chapter establishes a central idea: *great businesses are built by great peo
 
 
 #### Chapter 2: Great Vision Without Great People Is Irrelevant
-
-##### *Highlight: If you have the right people, the problem of how to motivate and manage largely goes away.*
+> If you have the right people, the problem of how to motivate and manage largely goes away.
 
 
 In this chapter, Collins delivers one of his core convictions: that the quality of your people is more important than the brilliance of your vision. A company with an extraordinary vision but the wrong people will fail. A company with average strategy but extraordinary people has a real chance at greatness. This concept, which he later famously summarised as “**first who, then what**,” emphasises that effective leaders should prioritise assembling the right team before finalising strategy, direction, or product plans.
@@ -70,8 +67,7 @@ The chapter also discusses the danger of keeping “*clever but toxic*” indivi
 
 
 #### Chapter 3: Leadership Style
-
-##### *Highlight: Your leadership style is not what you say it is. It’s what you do consistently, even when no one is watching.*
+> Your leadership style is not what you say it is. It’s what you do consistently, even when no one is watching.
 
 
 In this chapter, Collins examines the subtle but critical difference between managing people and leading a culture. The most effective leaders, he argues, don’t impose control — they create the conditions in which people naturally operate with discipline, creativity, and accountability. Leadership, in this sense, is not about style in a superficial or performative way. It’s about what you repeatedly do, what you tolerate, and what you reward — because over time, that becomes your culture.
@@ -88,8 +84,7 @@ Finally, Collins makes a clear distinction between leadership as personality ver
 
 
 #### Chapter 4: Vision 
-
-##### *Highlight: A vision is not what you hope to become. A vision is what you are willing to suffer for.*
+> A vision is not what you hope to become. A vision is what you are willing to suffer for.
 
 
 This chapter is the philosophical centre of Beyond Entrepreneurship 2.0. Collins argues that **vision is not a statement — it’s a living system of meaning that drives everything in a company: decisions, culture, strategy, behaviour.** A powerful vision doesn’t simply hang on a wall or get recited in meetings. It clarifies why your organisation exists, what you refuse to compromise, and what you're daring to become.
@@ -109,8 +104,7 @@ This chapter challenges leaders to get honest: Is your vision just branding lang
 
 
 #### Chapter 5: Luck Favors the Persistent 
-
-##### *Highlight: Luck is not a plan. Discipline is.*
+> Luck is not a plan. Discipline is.
 
 
 In this chapter, Collins tackles the seductive myth that success in business is mostly a matter of good luck — being in the right place at the right time, having the right investor, catching the right market wave. He doesn’t deny that luck exists. In fact, *he admits that every great entrepreneur benefits from luck in some form*. But he sharply distinguishes between getting luck and returning luck with discipline, preparation, and grit. What ultimately separates those who build enduring companies from those who don’t is not how much luck they get — **it’s how they respond to the luck they receive.**
@@ -127,8 +121,7 @@ Ultimately, this chapter is about **rejecting the lottery mentality and embracin
 
 
 #### Chapter 6: What Makes Great Companies Tick – The Map 
-
-##### *Highlight: The great companies are not built by one thing done right — they are built by a system of interlocking concepts executed with relentless consistency.*
+> The great companies are not built by one thing done right — they are built by a system of interlocking concepts executed with relentless consistency.
 
 
 In this pivotal chapter, Collins introduces what he calls **The Map** — *a unifying framework that outlines the essential elements behind all great, enduring companies.* The purpose of the chapter is to synthesis the ideas explored in earlier chapters into a coherent, visual and conceptual system. Collins wants readers to stop thinking in isolated traits or silver bullets, and instead understand how the pieces of greatness connect and reinforce each other.
@@ -147,8 +140,7 @@ Ultimately, the map serves as a navigation tool — not for finding quick wins, 
 
 
 #### Chapter 7: Strategy 
-
-##### *Highlight: A great strategy is as much about what you don’t do as what you choose to pursue.*
+> A great strategy is as much about what you don’t do as what you choose to pursue.
 
 
 In this chapter, Collins takes direct aim at the mystique of strategy as a high-concept, consultant-driven exercise. He argues that **great strategy is not clever — it’s clear.** It is not about crafting complex plans or elegant frameworks. Rather, *it is about making deliberate choices, grounded in brutal facts, that align with your core values and long-term goals.* The hallmark of **a strong strategy is not how “smart” it looks on paper, but how actionable it is in practice** — and how well it guides decision-making throughout the organisation.
@@ -166,8 +158,7 @@ Finally, Collins encourages leaders to **codify their strategy into a form that 
 
 
 #### Chapter 8: Innovation 
-
-##### *Highlight: Innovation without discipline leads to disaster. Discipline without innovation leads to irrelevance.*
+> Innovation without discipline leads to disaster. Discipline without innovation leads to irrelevance.
 
 
 In this chapter, Collins reframes innovation not as a burst of genius or an act of creative chaos, but as a disciplined, repeatable process. While innovation is essential to sustaining long-term greatness, Collins argues that it is not the starting point for most great companies. **Innovation, when successful, is built upon a foundation of clarity — of purpose, values, and strategic focus — and then executed with rigour, not randomness.**
@@ -186,8 +177,7 @@ This chapter ultimately calls for a blend of creativity and discipline. Breakthr
 
 
 #### Chapter 9: Tactical Excellence 
-
-##### *Highlight: There is nothing more strategic than flawless execution.*
+> There is nothing more strategic than flawless execution.
 
 
 In this chapter, Collins addresses a theme that’s often neglected in leadership books: **the power of executional rigour**. While vision, strategy, and innovation get most of the attention, what truly distinguishes enduring companies is their obsession with doing the small things well — over and over again. Tactical excellence, in Collins’s view, is not glamorous. It is not about inspiration. *It is about getting the right things done the right way — consistently, at scale.*

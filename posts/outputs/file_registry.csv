@@ -1,0 +1,13 @@
+scenario,method,transition_matrices,macro_paths,pd_term_structures,macro_figure,pd_bands_figure
+baseline,raw,outputs\transition_matrices_baseline_raw.csv,outputs\macro_paths_baseline_raw.csv,outputs\pd_term_structures_baseline_raw.csv,outputs\macro_filter_baseline_raw.png,
+stress,raw,outputs\transition_matrices_stress_raw.csv,outputs\macro_paths_stress_raw.csv,outputs\pd_term_structures_stress_raw.csv,outputs\macro_filter_stress_raw.png,
+pandemic,raw,outputs\transition_matrices_pandemic_raw.csv,outputs\macro_paths_pandemic_raw.csv,outputs\pd_term_structures_pandemic_raw.csv,outputs\macro_filter_pandemic_raw.png,
+baseline,naive,outputs\transition_matrices_baseline_naive.csv,outputs\macro_paths_baseline_naive.csv,outputs\pd_term_structures_baseline_naive.csv,outputs\macro_filter_baseline_naive.png,
+stress,naive,outputs\transition_matrices_stress_naive.csv,outputs\macro_paths_stress_naive.csv,outputs\pd_term_structures_stress_naive.csv,outputs\macro_filter_stress_naive.png,
+pandemic,naive,outputs\transition_matrices_pandemic_naive.csv,outputs\macro_paths_pandemic_naive.csv,outputs\pd_term_structures_pandemic_naive.csv,outputs\macro_filter_pandemic_naive.png,
+baseline,anchored,outputs\transition_matrices_baseline_anchored.csv,outputs\macro_paths_baseline_anchored.csv,outputs\pd_term_structures_baseline_anchored.csv,outputs\macro_filter_baseline_anchored.png,
+stress,anchored,outputs\transition_matrices_stress_anchored.csv,outputs\macro_paths_stress_anchored.csv,outputs\pd_term_structures_stress_anchored.csv,outputs\macro_filter_stress_anchored.png,
+pandemic,anchored,outputs\transition_matrices_pandemic_anchored.csv,outputs\macro_paths_pandemic_anchored.csv,outputs\pd_term_structures_pandemic_anchored.csv,outputs\macro_filter_pandemic_anchored.png,
+all,raw,,,,,outputs\pd_bands_raw.png
+all,naive,,,,,outputs\pd_bands_naive.png
+all,anchored,,,,,outputs\pd_bands_anchored.png

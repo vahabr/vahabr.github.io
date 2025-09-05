@@ -1,0 +1,3 @@
+file,description
+outputs\variance_Y_across_scenarios.csv,Variance of Y_t across scenarios by horizon and method
+outputs\lifetime_loss_volatility_mc.csv,Lifetime loss volatility (std of Y_T) across 200 MC reps per scenario×method
