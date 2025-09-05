@@ -18,6 +18,9 @@ Zero to One is a contrarian guide to startups, progress, and the mechanics of bu
 
 He argues that true innovation happens when you go from nothing to something — not by copying others or making incremental improvements, but by discovering unique insights and building monopolies around them.
 
+> Doing what we already know how to do takes the world from 1 to n. But doing something truly new takes it from 0 to 1.
+
+
 :::
 
 ::: {.column width="45%"}
@@ -25,17 +28,6 @@ He argues that true innovation happens when you go from nothing to something —
 :::
 :::
 
-
-
-#### Notable Quotes are:
-
-> Doing what we already know how to do takes the world from 1 to n. But doing something truly new takes it from 0 to 1.
-
-> Brilliant thinking is rare, but courage is in even shorter supply than genius.
-
-> All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
-
-> In a world of scarce resources, globalization without new technology is unsustainable.
 
 
 
