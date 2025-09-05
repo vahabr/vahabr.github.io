@@ -881,3 +881,246 @@ Using `hash((scenario, method))` makes seeds differ across runs (Python salts `h
 
 
 
+
+# 10B) PD Bands — show inline + save
+
+We plot **PD term-structure bands** across scenarios for a fixed method.
+This block assumes you have `results = {scenario: run_experiment(...)}`
+or you run the “Populate results” helper below.
+
+### 10B.1 Populate results (if not already in memory)
+
+```{python}
+# If you already ran main() and have results, skip this.
+scenarios = ["baseline", "stress", "pandemic"]
+method = "anchored"
+T_demo = 20
+
+results = {sc: run_experiment(sc, method=method, T=T_demo, seed=2025) for sc in scenarios}
+```
+
+### 10B.2 Plot PD bands (inline + saved)
+
+```{python}
+# Inline + save version of PD bands
+tgrid = np.arange(0, T_demo+1)
+fig, ax = plt.subplots(figsize=(8, 4))
+
+# TTC baseline from first scenario
+any_key = next(iter(results))
+Y_ttc = results[any_key]["Y_ttc"]
+ax.plot(tgrid, Y_ttc, label="TTC baseline")
+
+# Scenario paths
+for scn, res in results.items():
+    ax.plot(tgrid, res["Y_t"], label=scn)
+
+ax.set_xlabel("Quarter")
+ax.set_ylabel("Cumulative PD (π_t[D])")
+ax.set_title(f"PD term-structure bands across scenarios — {method}")
+ax.legend()
+
+f_bands = OUTDIR / f"pd_bands_{method}_inline.png"
+fig.savefig(f_bands, bbox_inches="tight")
+plt.show()
+f_bands
+```
+
+*What to look for:* Anchored should usually sit tighter than raw/naive under stressed scenarios.
+
+---
+
+# 11) Appendix Figures — MC Distributions & Summaries
+
+We’ll (1) ensure per-scenario MC **sample CSVs** exist, then (2) build four multi-panel figures.
+All plots display inline **and** are saved to `outputs/`.
+
+### 11.0 Ensure/Generate MC sample CSVs
+
+```{python}
+from typing import Dict
+import zlib
+
+def _stable_offset_key(*parts: str, mod: int = 10_000) -> int:
+    """Deterministic small integer from strings (cross-env stable)."""
+    key = "|".join(parts).encode()
+    return zlib.crc32(key) % mod
+
+def _ensure_mc_samples_csvs(
+    outdir: Path,
+    scenarios = ("baseline", "stress", "pandemic"),
+    methods = ("raw", "naive", "anchored"),
+    n_rep: int = 200,
+    seed_base: int = 2025,
+    T: int = T_DEFAULT,
+    pi0: np.ndarray = np.array([0.45, 0.40, 0.15, 0.00], dtype=float),
+):
+    """Create mc_samples_YT_{scenario}.csv if missing (columns: one per method, n_rep rows)."""
+    outdir.mkdir(parents=True, exist_ok=True)
+    P_TTC = build_P_TTC()
+    betas = _build_betas()
+
+    for scn in scenarios:
+        f_samples = outdir / f"mc_samples_YT_{scn}.csv"
+        if f_samples.exists():
+            continue
+
+        # deterministic base forecasts
+        rng_base = set_seed(seed_base + _stable_offset_key("base", scn))
+        base_forecasts = gen_macro_forecasts_and_realised(scn, T=T, rng=rng_base)
+
+        data: Dict[str, np.ndarray] = {}
+        for m in methods:
+            mc = []
+            rng_mc_seed = seed_base + _stable_offset_key("mc", scn, m)
+            rng_mc = np.random.default_rng(rng_mc_seed)
+
+            for r in range(n_rep):
+                gdp_f = base_forecasts["gdp_forecast"]
+                un_f  = base_forecasts["unemp_forecast"]
+                gdp_r = gdp_f + rng_mc.normal(0.0, 0.2, size=T)
+                un_r  = un_f + rng_mc.normal(0.0, 0.2, size=T)
+                if scn.lower().startswith("pandemic") and T >= 4:
+                    gdp_r[3] += 2.5
+                    un_r[3]  -= 0.8
+
+                M_hat  = macro_index_from_gdp_unemp(gdp_f, un_f)
+                M_real = macro_index_from_gdp_unemp(gdp_r, un_r)
+
+                if m == "raw":
+                    M_eff = M_real
+                elif m == "naive":
+                    M_eff = kalman_naive(M_hat, rho=0.90, Q=None, R=0.25)
+                elif m == "anchored":
+                    M_eff = kalman_anchored(M_hat, T_anchor=T, rho=0.90, Q=None, R=0.25, sigma_star2_pre=0.25)
+                else:
+                    raise ValueError("Unknown method")
+
+                P_ts = [pit_overlay(P_TTC, float(M_eff[t]), betas) for t in range(T)]
+                pi_ts = propagate_distribution(pi0, P_ts)
+                mc.append(pi_ts[-1, IDX["D"]])  # Y_T
+
+            data[m] = np.array(mc, dtype=float)
+
+        pd.DataFrame(data).to_csv(f_samples, index=False)
+
+# ensure data
+_ensure_mc_samples_csvs(OUTDIR)
+```
+
+---
+
+### 11.1 Notched boxplots (inline + saved)
+
+```{python}
+scenarios = ["baseline", "stress", "pandemic"]
+methods   = ["raw", "naive", "anchored"]
+
+fig, axes = plt.subplots(1, 3, figsize=(15, 4), sharey=True)
+for ax, scn in zip(axes, scenarios):
+    df = pd.read_csv(OUTDIR / f"mc_samples_YT_{scn}.csv")
+    ax.boxplot([df[m] for m in methods], labels=methods, notch=True, showfliers=False)
+    ax.set_title(scn.capitalize()); ax.set_xlabel("Method")
+axes[0].set_ylabel("Lifetime PD at T")
+fig.suptitle("Notched boxplots — Lifetime PD distributions (200 MC reps)", y=1.02)
+
+f_box = OUTDIR / "combined_notched_boxplots_all.png"
+fig.savefig(f_box, bbox_inches="tight")
+plt.show()
+f_box
+```
+
+*What to look for:* medians and notch overlaps; anchored often narrows dispersion.
+
+---
+
+### 11.2 Violin plots (inline + saved)
+
+```{python}
+fig, axes = plt.subplots(1, 3, figsize=(15, 4), sharey=True)
+for ax, scn in zip(axes, scenarios):
+    df = pd.read_csv(OUTDIR / f"mc_samples_YT_{scn}.csv")
+    ax.violinplot([df[m] for m in methods], showmeans=True, showmedians=True)
+    ax.set_xticks(range(1, len(methods)+1)); ax.set_xticklabels(methods)
+    ax.set_title(scn.capitalize()); ax.set_xlabel("Method")
+axes[0].set_ylabel("Lifetime PD at T")
+fig.suptitle("Violin plots — Lifetime PD distributions (200 MC reps)", y=1.02)
+
+f_viol = OUTDIR / "combined_violins_all.png"
+fig.savefig(f_viol, bbox_inches="tight")
+plt.show()
+f_viol
+```
+
+*What to look for:* distribution shape and tails by method.
+
+---
+
+### 11.3 Jittered box+dot (inline + saved; deterministic jitter)
+
+```{python}
+rng_jitter = np.random.default_rng(12345)
+fig, axes = plt.subplots(1, 3, figsize=(15, 4), sharey=True)
+for ax, scn in zip(axes, scenarios):
+    df = pd.read_csv(OUTDIR / f"mc_samples_YT_{scn}.csv")
+    ax.boxplot([df[m] for m in methods], labels=methods, showfliers=False)
+    for i, m in enumerate(methods, start=1):
+        y = df[m].values
+        x = rng_jitter.normal(i, 0.06, size=len(y))  # fixed jitter
+        ax.plot(x, y, linestyle="", marker="o", alpha=0.35, markersize=3)
+    ax.set_title(scn.capitalize()); ax.set_xlabel("Method")
+axes[0].set_ylabel("Lifetime PD at T")
+fig.suptitle("Jittered box+dot — Lifetime PD distributions (200 MC reps)", y=1.02)
+
+f_boxdot = OUTDIR / "combined_boxdot_all.png"
+fig.savefig(f_boxdot, bbox_inches="tight")
+plt.show()
+f_boxdot
+```
+
+*What to look for:* outliers and spread around the box.
+
+---
+
+### 11.4 Mean ± std bars from summary table (inline + saved)
+
+```{python}
+df_mc = pd.read_csv(OUTDIR / "lifetime_loss_volatility_mc.csv")
+
+fig, axes = plt.subplots(1, 3, figsize=(15, 4), sharey=True)
+for ax, scn in zip(axes, scenarios):
+    sub = df_mc[df_mc["scenario"] == scn].copy()
+    order = ["raw", "naive", "anchored"]
+    sub["method"] = pd.Categorical(sub["method"], categories=order, ordered=True)
+    sub = sub.sort_values("method")
+    x = np.arange(len(order))
+    ax.bar(x, sub["YT_mean"].values, yerr=sub["YT_std"].values, capsize=4)
+    ax.set_xticks(x); ax.set_xticklabels(order)
+    ax.set_title(scn.capitalize()); ax.set_xlabel("Method")
+axes[0].set_ylabel("Lifetime PD at T (mean ± std)")
+fig.suptitle("Lifetime PD (200 MC reps) — mean with volatility", y=1.02)
+
+f_bars = OUTDIR / "combined_mc_lifetime_pd_bars_all.png"
+fig.savefig(f_bars, bbox_inches="tight")
+plt.show()
+f_bars
+```
+
+*What to look for:* which method lowers mean and/or volatility under each scenario.
+
+---
+
+### 11.5 (Optional) Tiny gallery summary
+
+```{python}
+print("Saved appendix figures:")
+print(" - Notched boxplots :", f_box)
+print(" - Violin plots     :", f_viol)
+print(" - Jittered box+dot :", f_boxdot)
+print(" - Mean±Std bars    :", f_bars)
+```
+
+---
+
+
+
