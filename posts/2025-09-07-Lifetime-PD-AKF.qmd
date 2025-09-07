@@ -12,7 +12,7 @@ keywords:
   - procyclicality
   - Monte Carlo simulation
   - transition-matrix projection
-image: ../img/akf-social-card.png
+image: ../img/akf-social-card-light.png
 date: 2025-09-07
 page-layout: article
 toc: true
@@ -27,6 +27,9 @@ execute:
 [![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/lifetime-PD-AKF)
 [![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXXXXXX)
 :::
+
+
+
 
 
 ## Abstract
