@@ -2,6 +2,17 @@
 title: "Research"
 ---
 
+---
+title: "Research"
+description: "Active research projects, preprints, and code."
+page-layout: article        # show article container (not full-width)
+toc: true                   # enable the right-hand table of contents
+toc-location: right
+toc-title: On this page
+toc-depth: 3
+---
+
+
 ## Areas & Interests
 - Risk modelling and simulation
 - Optimisation and control

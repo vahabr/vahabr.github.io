@@ -1,0 +1,66 @@
+---
+title: "Stabilising Lifetime PD Models under Forecast Uncertainty"
+categories: [Credit risk, IFRS 9, CECL, State-space models, Kalman filtering, Transition matrices, PD term structure, Uncertainty & robustness]
+keywords:
+  - lifetime PD
+  - point-in-time PD
+  - macroeconomic scenarios
+  - forecast error propagation
+  - anchored observation model
+  - stochastic stability
+  - convergence in probability
+  - procyclicality
+  - Monte Carlo simulation
+  - transition-matrix projection
+image: ../img/akf-social-card.png
+date: 2025-09-07
+page-layout: article
+toc: true
+execute:
+  enabled: false   # ← do not start any kernel
+---
+
+
+
+
+::: {.badges}
+[![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/lifetime-PD-AKF)
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXXXXXX)
+:::
+
+
+## Abstract
+Estimating lifetime probabilities of default (PDs) under IFRS9 and CECL requires projecting point--in--time transition matrices over multiple years. 
+A persistent weakness is that macroeconomic forecast errors compound across horizons, producing unstable and volatile PD term structures. 
+This paper reformulates the problem in a state--space framework and shows that a direct Kalman filter leaves non--vanishing variability. 
+We then introduce an anchored observation model, which incorporates a neutral long--run economic state into the filter. 
+The resulting error dynamics exhibit asymptotic stochastic stability, ensuring convergence in probability of the lifetime PD term structure.
+Simulation on a synthetic corporate portfolio confirms that anchoring reduces forecast noise and delivers smoother, more interpretable projections.
+
+> Anchored state-space approach for stable lifetime PD; less drift, less procyclicality. Code and full reproducibility.
+
+## Materials
+- **Source paper:** <https://github.com/vahabr/research-lab/lifetime-PD-AKF/paper>
+- **Code & notebooks:** <https://github.com/vahabr/research-lab/lifetime-PD-AKF/code>
+- **Repro bundle (.zip):** <https://github.com/vahabr/research-lab/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip>
+- **Environment:** `anchored-kf.qmd` / `requirements.txt`
+- **arXiv preprint:** <https://arxiv.org/abs/XXXXXXXX> 
+
+## How to cite
+Rostampour, V. (2025). *Stabilising Lifetime PD Models under Forecast Uncertainty*. arXiv:XXXXXXXX.
+
+```{bibtex}
+@misc{rostampour2025akf,
+  title        = {Stabilising Lifetime PD Models under Forecast Uncertainty},
+  author       = {Rostampour, Vahab},
+  year         = {2025},
+  eprint       = {XXXXXXXX},
+  archivePrefix= {arXiv},
+  primaryClass = {q-fin.RM}
+}
+```
+
+
+
+
+
