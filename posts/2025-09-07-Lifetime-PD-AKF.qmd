@@ -24,7 +24,7 @@ execute:
 
 
 ::: {.badges}
-[![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/lifetime-PD-AKF)
+[![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF)
 [![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXXXXXX)
 :::
 
@@ -43,9 +43,9 @@ Simulation on a synthetic corporate portfolio confirms that anchoring reduces fo
 > Anchored state-space approach for stable lifetime PD; less drift, less procyclicality. Code and full reproducibility.
 
 ## Materials
-- **Source paper:** <https://github.com/vahabr/research-lab/lifetime-PD-AKF/paper>
-- **Code & notebooks:** <https://github.com/vahabr/research-lab/lifetime-PD-AKF/code>
-- **Repro bundle (.zip):** <https://github.com/vahabr/research-lab/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip>
+- **Source paper:** <https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/paper>
+- **Code & notebooks:** <https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code>
+- **Repro bundle (.zip):** <https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip>
 - **Environment:** `anchored-kf.qmd` / `requirements.txt`
 - **arXiv preprint:** <https://arxiv.org/abs/XXXXXXXX> 
 

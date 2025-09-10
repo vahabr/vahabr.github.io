@@ -193,7 +193,7 @@
     "href": "posts/2025-09-07-Lifetime-PD-AKF.html#materials",
     "title": "Stabilising Lifetime PD Models under Forecast Uncertainty",
     "section": "Materials",
-    "text": "Materials\n\nSource paper: https://github.com/vahabr/research-lab/lifetime-PD-AKF/paper\nCode & notebooks: https://github.com/vahabr/research-lab/lifetime-PD-AKF/code\nRepro bundle (.zip): https://github.com/vahabr/research-lab/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip\nEnvironment: anchored-kf.qmd / requirements.txt\narXiv preprint: https://arxiv.org/abs/XXXXXXXX"
+    "text": "Materials\n\nSource paper: https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/paper\nCode & notebooks: https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code\nRepro bundle (.zip): https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip\nEnvironment: anchored-kf.qmd / requirements.txt\narXiv preprint: https://arxiv.org/abs/XXXXXXXX"
   },
   {
     "objectID": "posts/2025-09-07-Lifetime-PD-AKF.html#how-to-cite",
