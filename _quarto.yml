@@ -16,9 +16,9 @@ website:
         href: index.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: Projects
-        href: projects.qmd
-      - text: Research
+      # - text: Projects
+      #   href: projects.qmd
+      - text: Research Projects
         href: research.qmd
       - text: Publications
         href: publications.qmd

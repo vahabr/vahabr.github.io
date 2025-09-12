@@ -318,12 +318,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./research.html" aria-current="page"> 
-<span class="menu-text">Research</span></a>
+<span class="menu-text">Research Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
@@ -383,9 +379,25 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#areas-interests" id="toc-areas-interests" class="nav-link active" data-scroll-target="#areas-interests">Areas &amp; Interests</a></li>
-  <li><a href="#software-code-links-later" id="toc-software-code-links-later" class="nav-link" data-scroll-target="#software-code-links-later">Software / Code (links later)</a></li>
-  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#current-projects" id="toc-current-projects" class="nav-link" data-scroll-target="#current-projects">Current Projects</a>
+  <ul class="collapse">
+  <li><a href="#anchored-kalman-filtering-for-lifetime-pd" id="toc-anchored-kalman-filtering-for-lifetime-pd" class="nav-link" data-scroll-target="#anchored-kalman-filtering-for-lifetime-pd">Anchored Kalman Filtering for Lifetime PD</a></li>
+  <li><a href="#ersas-energy-system-integration" id="toc-ersas-energy-system-integration" class="nav-link" data-scroll-target="#ersas-energy-system-integration">ERSAS — Energy System Integration</a></li>
+  <li><a href="#ates-sg-smart-thermal-grids-with-aquifer-storage" id="toc-ates-sg-smart-thermal-grids-with-aquifer-storage" class="nav-link" data-scroll-target="#ates-sg-smart-thermal-grids-with-aquifer-storage">ATES-SG — Smart Thermal Grids with Aquifer Storage</a></li>
+  </ul></li>
+  <li><a href="#past-projects" id="toc-past-projects" class="nav-link" data-scroll-target="#past-projects">Past Projects</a>
+  <ul class="collapse">
+  <li><a href="#moves-msc-thesis-eth-zürich" id="toc-moves-msc-thesis-eth-zürich" class="nav-link" data-scroll-target="#moves-msc-thesis-eth-zürich">MOVES — MSc Thesis, ETH Zürich</a></li>
+  <li><a href="#robust-distributed-optimisation-tu-delft" id="toc-robust-distributed-optimisation-tu-delft" class="nav-link" data-scroll-target="#robust-distributed-optimisation-tu-delft">Robust Distributed Optimisation (TU Delft)</a></li>
+  </ul></li>
+  <li><a href="#future-directions" id="toc-future-directions" class="nav-link" data-scroll-target="#future-directions">Future Directions</a>
+  <ul class="collapse">
+  <li><a href="#lsdx-a-quantitative-intelligence-layer-for-liquid-staking-derivatives" id="toc-lsdx-a-quantitative-intelligence-layer-for-liquid-staking-derivatives" class="nav-link" data-scroll-target="#lsdx-a-quantitative-intelligence-layer-for-liquid-staking-derivatives">LSDx — A Quantitative Intelligence Layer for Liquid Staking Derivatives</a></li>
+  <li><a href="#opttera-energy-pricing-platform" id="toc-opttera-energy-pricing-platform" class="nav-link" data-scroll-target="#opttera-energy-pricing-platform">Opttera — Energy Pricing Platform</a></li>
+  </ul></li>
+  <li><a href="#other-research-strands" id="toc-other-research-strands" class="nav-link" data-scroll-target="#other-research-strands">Other Research Strands</a></li>
+  <li><a href="#selected-awards-visits" id="toc-selected-awards-visits" class="nav-link" data-scroll-target="#selected-awards-visits">Selected Awards &amp; Visits</a></li>
   </ul>
 </nav>
     </div>
@@ -417,26 +429,95 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="areas-interests" class="level2">
-<h2 class="anchored" data-anchor-id="areas-interests">Areas &amp; Interests</h2>
-<ul>
-<li>Risk modelling and simulation</li>
-<li>Optimisation and control</li>
-<li>Applied AI for decision systems</li>
-</ul>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>My research combines <strong>stochastic modelling, optimisation, and control</strong> with applications in <strong>energy systems</strong> and <strong>financial risk</strong>. I study how uncertainty propagates through complex infrastructures and how mathematical design can make them more stable, interpretable, and efficient.<br>
+This page highlights <strong>selected projects</strong> — past, current, and future — that illustrate this trajectory.</p>
+<hr>
 </section>
-<section id="software-code-links-later" class="level2">
-<h2 class="anchored" data-anchor-id="software-code-links-later">Software / Code (links later)</h2>
-<ul>
-<li>Scenario Convexification — simulation package (WIP)</li>
-<li>Lifetime PD &amp; Kalman filtering — demo notebooks (WIP)</li>
-</ul>
+<section id="current-projects" class="level2">
+<h2 class="anchored" data-anchor-id="current-projects">Current Projects</h2>
+<section id="anchored-kalman-filtering-for-lifetime-pd" class="level3">
+<h3 class="anchored" data-anchor-id="anchored-kalman-filtering-for-lifetime-pd">Anchored Kalman Filtering for Lifetime PD</h3>
+<p><strong>Theme:</strong> Credit risk, IFRS 9 / CECL, model stability<br>
+<strong>Summary:</strong> Reformulating lifetime probability of default (PD) estimation in a state–space framework. Anchored observation models reduce procyclicality and deliver smoother term structures.<br>
+<strong>Status:</strong> Working paper, simulation package, GitHub repo.<br>
+<strong>Keywords:</strong> risk modelling, stochastic stability, state–space methods</p>
+<hr>
 </section>
-<section id="talks" class="level2">
-<h2 class="anchored" data-anchor-id="talks">Talks</h2>
+<section id="ersas-energy-system-integration" class="level3">
+<h3 class="anchored" data-anchor-id="ersas-energy-system-integration">ERSAS — Energy System Integration</h3>
+<p><strong>Theme:</strong> Electricity–gas–heat coupling, incentives and control<br>
+<strong>Summary:</strong> Integrated modelling of multi-carrier energy systems with flexible conversion (CHP, PtG/GtP). Focus on designing control and market mechanisms that align decentralised agents with system-level efficiency.<br>
+<strong>Role:</strong> Mathematical methods, simulation, incentive design<br>
+<strong>Partners:</strong> ETH Zürich, TU Delft, industry collaborators</p>
+<hr>
+</section>
+<section id="ates-sg-smart-thermal-grids-with-aquifer-storage" class="level3">
+<h3 class="anchored" data-anchor-id="ates-sg-smart-thermal-grids-with-aquifer-storage">ATES-SG — Smart Thermal Grids with Aquifer Storage</h3>
+<p><strong>Theme:</strong> Urban energy &amp; storage<br>
+<strong>Summary:</strong> Distributed control and planning for <strong>Aquifer Thermal Energy Storage (ATES)</strong> in dense urban districts. Investigated how seasonal storage interacts with heating/cooling demand and market incentives.<br>
+<strong>Role:</strong> Postdoctoral researcher, optimisation &amp; distributed MPC<br>
+<strong>Partners:</strong> ETH Zürich, NWO, KWR, industry utilities</p>
+<hr>
+</section>
+</section>
+<section id="past-projects" class="level2">
+<h2 class="anchored" data-anchor-id="past-projects">Past Projects</h2>
+<section id="moves-msc-thesis-eth-zürich" class="level3">
+<h3 class="anchored" data-anchor-id="moves-msc-thesis-eth-zürich">MOVES — MSc Thesis, ETH Zürich</h3>
+<p><strong>Theme:</strong> Reserve scheduling with uncertain generation<br>
+<strong>Summary:</strong> Developed stochastic reserve scheduling frameworks for power systems under renewable variability. Early work bridging optimisation and uncertainty in energy scheduling.<br>
+<strong>Host:</strong> Automatic Control Lab (IfA), ETH Zürich<br>
+<strong>Advisors:</strong> Prof.&nbsp;John Lygeros, Prof.&nbsp;Bert De Schutter</p>
+<hr>
+</section>
+<section id="robust-distributed-optimisation-tu-delft" class="level3">
+<h3 class="anchored" data-anchor-id="robust-distributed-optimisation-tu-delft">Robust Distributed Optimisation (TU Delft)</h3>
+<p><strong>Theme:</strong> Theory of proximal and incremental gradient methods<br>
+<strong>Summary:</strong> Analysed stability and convergence of distributed algorithms under uncertainty. Applied to network optimisation and large-scale control.<br>
+<strong>Output:</strong> PhD dissertation and journal articles</p>
+<hr>
+</section>
+</section>
+<section id="future-directions" class="level2">
+<h2 class="anchored" data-anchor-id="future-directions">Future Directions</h2>
+<section id="lsdx-a-quantitative-intelligence-layer-for-liquid-staking-derivatives" class="level3">
+<h3 class="anchored" data-anchor-id="lsdx-a-quantitative-intelligence-layer-for-liquid-staking-derivatives">LSDx — A Quantitative Intelligence Layer for Liquid Staking Derivatives</h3>
+<p><strong>Theme:</strong> DeFi risk and pricing<br>
+<strong>Vision:</strong> A modelling and pricing framework for liquid staking derivatives (LSDs). Emphasis on risk-adjusted valuation, slashing/depeg risk, and allocation strategies.<br>
+<strong>Output:</strong> Technical white paper, prototype simulations</p>
+<hr>
+</section>
+<section id="opttera-energy-pricing-platform" class="level3">
+<h3 class="anchored" data-anchor-id="opttera-energy-pricing-platform">Opttera — Energy Pricing Platform</h3>
+<p><strong>Theme:</strong> Behavioural pricing, risk pooling for EV charging<br>
+<strong>Vision:</strong> Enable EV users to stabilise charging costs via collective risk-pooling and smart contracts. Builds on behavioural modelling and stochastic hedging of energy costs.<br>
+<strong>Status:</strong> Entrepreneurial spin-out in development, linked to prior research on energy systems optimisation.</p>
+<hr>
+</section>
+</section>
+<section id="other-research-strands" class="level2">
+<h2 class="anchored" data-anchor-id="other-research-strands">Other Research Strands</h2>
 <ul>
-<li>Slides and notes (coming soon)</li>
+<li><strong>Proximal algorithms &amp; stochastic optimisation</strong> — analysis of non-convex and randomised methods; application to Nash equilibria and potential games.<br>
+</li>
+<li><strong>Financial risk modelling</strong> — model validation frameworks for IFRS 9/17, CECL; Monte Carlo and stress testing for PD/LGD/EAD.<br>
+</li>
+<li><strong>Applied AI in control systems</strong> — reinforcement learning with stability guarantees; fault detection and predictive maintenance.</li>
 </ul>
+<hr>
+</section>
+<section id="selected-awards-visits" class="level2">
+<h2 class="anchored" data-anchor-id="selected-awards-visits">Selected Awards &amp; Visits</h2>
+<ul>
+<li><strong>Paul M. Frank Award (Finalist)</strong> — IFAC SAFEPROCESS 2018<br>
+</li>
+<li><strong>Research visits</strong> — AIP Tokyo (2018, 2019), CORE Louvain-la-Neuve (2016), ETH Zürich IfA (2012–2013)<br>
+</li>
+<li><strong>Scholarships</strong> — Politecnico di Milano; ETH Zürich MSc research visit</li>
+</ul>
+<hr>
 
 
 </section>
