@@ -19,7 +19,7 @@ website:
       # - text: Projects
       #   href: projects.qmd
       - text: Research Projects
-        href: research.qmd
+        href: researchProjects.qmd
       - text: Publications
         href: publications.qmd
     right:

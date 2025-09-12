@@ -1,0 +1,15 @@
+---
+title: "Research Projects page is ready!"
+date: 2025-09-13
+---
+
+
+
+I’ve just refreshed my [**Research Projects**](../researchProjects.html) page — it’s now fully up to date with my recent research focuses, current and past together with my applied research and entrepreneurial initiatives. The page now presents a structured overview of:
+
+* **Current projects**, including new work on lifetime PD modelling with Anchored Kalman Filters and scenario convexification in stochastic optimisation.
+* **Past projects**, spanning energy systems integration, smart thermal grids, and reserve scheduling in uncertain power systems.
+* **Applied initiatives**, such as *ChargePool* (behavioural energy pricing for EV charging) and *ZWMCo* (a DeFi hedge fund concept with risk-managed tokenomics).
+
+The aim is to show not only the academic trajectory, but also how research ideas translate into practice and entrepreneurship.
+

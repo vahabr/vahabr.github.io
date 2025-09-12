@@ -1,0 +1,290 @@
+---
+title: "Research Projects"
+description: " "
+page-layout: article        # show article container (not full-width)
+toc: true                   # enable the right-hand table of contents
+toc-location: right
+toc-title: On this page
+toc-depth: 3
+---
+
+
+
+My research focuses on the interface of **stochastic modelling, optimisation, and control**, applied to large-scale systems such as **energy infrastructures** and **financial networks**. A central theme is understanding how uncertainty propagates through complex, interconnected structures, and how rigorous mathematical design can mitigate risk while improving stability, interpretability, and efficiency.
+
+The projects presented here reflect this perspective. They range from methodological advances in stochastic and distributed control to domain-driven applications in smart energy systems, credit risk, and emerging financial technologies. Together, they outline a trajectory that connects theoretical innovation with practical impact across critical infrastructures.
+
+
+
+
+
+
+## Applied Research & Entrepreneurial Initiatives
+
+
+
+### ZWMCo — Tokenised Hedge Fund with DeFi Risk Framework
+
+**Description**  
+
+ZWMCo explores how **quantitative risk modelling** can be embedded into decentralised finance. The project envisions a tokenised hedge fund where investors contribute to a managed pool and receive a native token representing their share. Unlike many existing DeFi products, ZWMCo emphasises **transparent risk management**, leveraging methods from quantitative finance such as **liquidity stress testing, stochastic control, and scenario analysis**.  
+
+The system integrates two main components:  
+
+* **Algorithmic trading (AVS-based)**: A suite of strategies built on *Adaptive Volatility Scaling (AVS)* principles. These strategies dynamically adjust exposure across crypto assets, balancing risk and return under changing volatility regimes.  
+* **LSDx framework**: A research-driven risk and pricing model for **liquid staking derivatives (LSDs)**. The framework establishes valuation signals, stability bounds, and margin rules to reduce systemic fragility in LSD markets, providing an institutional-grade lens for DeFi liquidity products.  
+
+
+**Research significance**  
+
+ZWMCo illustrates how academic expertise in **stochastic modelling, optimisation, and risk pooling** can extend into **Web3 ecosystems**. By combining **AVS-based algorithmic trading** with an **LSDx valuation framework**, the project bridges quantitative finance with decentralised tokenomics, offering a path to sustainable, risk-aware DeFi investing.  
+
+**Theme:** Decentralised finance, algorithmic trading, liquidity risk  
+**Institution:** Independent initiative (Zillions Wealth Management Co.)  
+**Status:** Concept development, white paper drafting, prototype trading bot  
+**Keywords:** DeFi, staking derivatives, risk management, tokenisation  
+
+
+**Outcomes** 
+
+* Drafted a **technical white paper** on LSDx risk and pricing frameworks.  
+* Designed a **prototype trading bot** implementing AVS-based strategies with monitoring features.  
+* Developed a **tokenomics model** with presale and buy-back mechanics.  
+* Planned **GitBook-based documentation** for transparency and community adoption.  
+
+
+
+**Highlighted outputs**  
+
+* Technical white paper on LSDx (in preparation).  
+* AVS trading bot prototype (private repository).  
+* Draft GitBook documentation for public launch.  
+
+
+---
+
+### ChargePool — Behavioural Energy Pricing for EV Charging
+
+
+**Description**  
+
+ChargePool tackles one of the major challenges for electric vehicle adoption: the **uncertainty and volatility of charging costs**. The project builds on my expertise in stochastic optimisation and risk pooling to design a system where EV users can “lock in” charging prices over a future horizon. By aggregating user demand and leveraging hedging strategies, the platform provides predictable energy costs while balancing risk across the pool.  
+
+The innovation lies in **combining behavioural modelling with financial risk techniques**: users interact through a simple app, but underneath, advanced optimisation allocates risk, manages variability, and aligns incentives. Beyond pricing, ChargePool also integrates **route planning, station availability, and points of interest**, turning EV charging into a more seamless mobility experience.  
+
+
+**Research significance**  
+
+ChargePool represents a direct application of stochastic modelling and incentive design to **consumer-facing energy systems**. By bridging academic methods and entrepreneurial deployment, it illustrates how optimisation and risk management can create **new markets for flexibility and predictability** in the energy transition.  
+
+
+**Theme:** Energy systems, behavioural economics, pricing optimisation  
+**Institution:** Independent initiative (with prospective industry partners in Switzerland)  
+**Status:** Proof-of-concept (submitted for BRIDGE funding), prototype app in development  
+**Keywords:** EV charging, risk pooling, smart pricing, behavioural modelling  
+
+
+**Outcomes**  
+
+* Designed a **risk pooling engine** that stabilises charging costs for users.  
+* Developed a **prototype app** for route planning and charging station selection.  
+* Submitted a **BRIDGE Proof-of-Concept proposal** hosted at ETH Zürich (Automatic Control Lab).  
+* Initiated discussions with **Swiss energy and mobility partners** (e.g., GoFast, Swisscard, Energy360).  
+
+
+**Highlighted outputs**  
+
+* Project description and pitch material (BRIDGE PoC 2025 submission).  
+* Early prototype code and simulation results (private GitHub repository).  
+
+
+
+
+
+
+
+## Current Research Focus
+
+
+### Scenario Convexification of Stochastic Nonconvex Programs
+
+**Description**  
+
+This project addresses one of the central difficulties in stochastic optimisation: **nonconvex programmes with chance or expectation constraints**. Such problems arise naturally in energy, finance, and engineering applications, yet their scenario approximations often suffer from looseness and unpredictable duality gaps.  
+
+We reformulate the scenario problem using a **set-valued perspective**, where feasibility is represented as the **Minkowski sum** of per-scenario sets. By combining Aumann expectations with a **law of large numbers for random sets**, we establish convergence properties of these sums. Applying a **Shapley–Folkman convexification argument**, we derive explicit bounds on the duality gap.  
+
+For **chance-constrained problems**, the duality gap is shown to be uniformly bounded by a constant depending only on dimension. For **expectation-constrained problems**, the gap vanishes at rate *O(1/N)* with the number of scenarios. Numerical experiments illustrate these asymptotic behaviours and reveal the distinct roles of chance versus expectation constraints in shaping feasible regions.  
+
+**Research significance**  
+
+These results offer one of the first rigorous analyses of **scenario methods in nonconvex optimisation**. They demonstrate that despite nonconvexity, scenario approximations can achieve provable stability, either through bounded or vanishing duality gaps. This advances the mathematical foundations of **risk-aware optimisation** with implications for portfolio design, energy systems, and engineering control.  
+
+
+
+* **Theme:** Stochastic optimisation, scenario methods, convexification  
+* **Institution:** Joint work with Akiko Takeda (University of Tokyo) and Takafumi Kanamori (Institute of Science Tokyo)  
+* **Status:** In preparation for submission to *SIAM Journal on Optimization (SIOPT)*  
+* **Keywords:** Duality gap, random sets, Shapley–Folkman theorem, chance constraints, expectation constraints  
+
+
+
+**Outcomes**  
+
+* Introduced a **scenario convexification framework** for analysing stochastic nonconvex programmes.  
+* Derived **dimension-dependent uniform bounds** for chance-constrained problems.  
+* Proved **vanishing duality gaps** for expectation-constrained problems with rate *O(1/N)*.  
+* Provided numerical evidence supporting theoretical asymptotics.  
+
+**Highlighted outputs**  
+
+* Working paper: *Vanishing Duality Gap in Uncertain Nonconvex Problems* (with A. Takeda and T. Kanamori).  
+* Target journal: *SIAM Journal on Optimization (SIOPT)*.  
+
+
+
+
+
+---
+
+### Anchored Kalman Filtering for Lifetime PD
+
+**Description**  
+
+Lifetime probability of default (PD) estimation is central to credit impairment modelling under IFRS 9 and CECL. A recurring challenge is that macroeconomic forecast errors accumulate when projecting transition matrices over long horizons, leading to volatile and procyclical PD term structures.  
+
+This project reformulates the problem in a **state–space framework**, where term structure dynamics are estimated with a Kalman filter. We show that the standard filter leaves non-vanishing variability, failing to stabilise long-run PD paths. To address this, we introduce an **anchored observation model** that incorporates a neutral long-run economic state into the filtering process. This adjustment ensures **asymptotic stochastic stability**, providing convergence in probability of the lifetime PD term structure.  
+
+
+**Research significance**  
+
+This project advances the reliability of **credit risk modelling under IFRS 9 and CECL** by addressing one of its core weaknesses: unstable and procyclical lifetime PD term structures. By embedding PD estimation in a state–space framework and introducing anchored observation models, the work provides a mathematically rigorous solution that ensures **stochastic stability**. Beyond theory, the approach directly supports banks and regulators in producing smoother, more interpretable projections of credit risk, reducing model risk and enhancing comparability across economic cycles.  
+
+
+
+* **Theme:** Credit risk, IFRS 9 / CECL, model stability  
+* **Institution:** Independent research (in collaboration with industry applications)  
+* **Status:** Working paper, simulation package, GitHub repository  
+* **Keywords:** Risk modelling, stochastic stability, state–space methods  
+
+::: {.badges}
+[![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF)
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXXXXXX)
+:::
+
+
+
+**Outcomes**  
+
+* Demonstrated that forecast noise can be substantially reduced by anchoring the observation model.  
+* Derived conditions for **stochastic stability** of PD term structures under filtering.  
+* Developed a simulation package illustrating effects on synthetic corporate portfolios.  
+* Produced smoother, more interpretable PD projections, with direct implications for **regulatory model risk management**.  
+
+**Highlighted outputs** 
+
+* Working paper: *Anchored Kalman Filtering for Lifetime PD Models under Forecast Uncertainty* (submitted to the Journal of Credit Risk).  
+* [GitHub repository](https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF) with simulation package.  
+* arXiv preprint: [arXiv:XXXXXXXX](https://arxiv.org/abs/XXXXXXXX).  
+
+
+
+
+
+
+
+
+
+## Past Projects
+
+### ERSAS — Energy System Integration — Postdoc Project
+
+
+**Description**
+
+The ERSAS project (*Efficient, Reliable, Sustainable and Socially Acceptable Energy System Integration*) developed new approaches to the coordinated operation of electricity, gas, and heat networks. The central idea was that multi-carrier infrastructures — such as Combined Heat and Power (CHP) units, hybrid heat pumps, Power-to-Gas, and Gas-to-Power conversion — can significantly improve efficiency and flexibility if supported by the right control strategies and market mechanisms.
+
+My work focused on mathematical modelling, stochastic optimisation, and distributed control design. I studied how uncertainty in renewable generation and end-user demand propagates across coupled infrastructures, and how incentive schemes and control algorithms can align decentralised actors with system-level goals. This included developing model predictive control (MPC) formulations that balance flexibility, efficiency, and reliability, while explicitly accounting for financial and operational risks.
+
+* **Theme:** Electricity–gas–heat coupling, incentives, and control
+* **Institution:** University of Groningen (with partners: Alliander, Enexis, TNO)
+* **Funding:** Netherlands Organisation for Scientific Research (NWO)
+* **Period:** Sep 2018 – Dec 2019
+
+**Outcomes:**
+
+* Demonstrated how coupling gas and electricity systems can improve integration of renewable energy while maintaining security of supply.
+* Proposed stochastic MPC frameworks with risk measures (e.g., CVaR) to better manage demand flexibility under uncertainty.
+* Designed distributed algorithms for building-to-grid integration and frequency support services.
+* Provided simulation tools to evaluate multi-carrier energy scenarios, supporting both academic and industrial partners.
+
+**Highlighted Publications:**
+
+* J. Venkatasubramanian, **V. Rostampour**, T.S. Badings, T. Keviczky. *Stochastic MPC for Energy Management in Smart Grids with CVaR as Penalty Function.* IEEE PES ISGT-Europe, 309–313, 2020. [DOI: 10.1109/ISGT-Europe47291.2020.9248769](https://doi.org/10.1109/ISGT-Europe47291.2020.9248769)
+* **V. Rostampour**, T. Keviczky. *Demand Flexibility Management for Buildings-to-Grid Integration with Uncertain Generation.* Energies, 13(24):6532, 2020. [DOI: 10.3390/en13246532](https://doi.org/10.3390/en13246532)
+* **V. Rostampour**, T.S. Badings, J.M.A. Scherpen. *Buildings-to-Grid Integration with High Wind Power Penetration.* CDC, 2976–2981, 2019. [DOI: 10.1109/CDC40024.2019.9030242](https://doi.org/10.1109/CDC40024.2019.9030242)
+* T.S. Badings, **V. Rostampour**, J.M.A. Scherpen. *Distributed Building Energy Storage Units for Frequency Control Service in Power Systems.* IFAC SGRES, 52(4):228–233, 2019. [DOI: 10.1016/j.ifacol.2019.08.190](https://doi.org/10.1016/j.ifacol.2019.08.190)
+
+---
+
+### ATES-SG — Smart Thermal Grids with Aquifer Storage — PhD Project
+
+**Description** 
+
+ATES-SG studied how **Aquifer Thermal Energy Storage (ATES)** can be scaled in dense urban districts while maintaining efficiency and minimising interference between neighbouring systems. We modelled interactions among hot/cold wells, uncertain heat-cooling demand, and conversion assets to design **distributed MPC** and planning tools that coordinate operation at district scale. The work connected subsurface physics with network-level control and market incentives, showing how seasonal storage can reduce emissions and peak loads when orchestrated with building and grid objectives.
+
+* **Theme:** Urban energy and seasonal storage  
+* **Institution:** Delft University of Technology (with Waternet, Provincie Noord-Holland, Tauw BV, STW/TTW, Priva, DWA)  
+* **Funding:** Netherlands Organisation for Scientific Research (NWO)  
+* **Period:** Sep 2014 – Aug 2018  
+
+
+**Outcomes**  
+
+* Frameworks for **distributed energy management** of multiple ATES sites under uncertainty.  
+* Evidence that coordination mitigates thermal interference, improving seasonal performance factors.  
+* MPC formulations linking **building comfort**, storage dynamics, and market signals.  
+* Open simulation setups that supported partner evaluations and scenario studies.
+
+**Highlighted publications**  
+
+* **V. Rostampour**, T. Keviczky. *Probabilistic Energy Management for Building Climate Comfort in Smart Thermal Grids with Seasonal Storage Systems.* IEEE Trans. Smart Grid, 10:3687–3697, 2018. [DOI: 10.1109/TSG.2018.2834150](https://doi.org/10.1109/TSG.2018.2834150) [arXiv:1611.03206](https://arxiv.org/abs/1611.03206) [PDF](https://arxiv.org/pdf/1611.03206)  
+* **V. Rostampour**, O. t. Haar, T. Keviczky. *Distributed Stochastic Reserve Scheduling in AC Power Systems With Uncertain Generation.* IEEE Trans. Power Systems, 34:1005–1020, 2018. [DOI: 10.1109/TPWRS.2018.2878888](https://doi.org/10.1109/TPWRS.2018.2878888)  
+* **V. Rostampour**, T. Keviczky. *Demand Flexibility Management for Buildings-to-Grid Integration with Uncertain Generation.* Energies, 13(24):6532, 2020. [DOI: 10.3390/en13246532](https://doi.org/10.3390/en13246532)  
+* **V. Rostampour**, R. Ferrari, A. Teixeira, T. Keviczky. *Differentially-Private Distributed Fault Diagnosis for Large-Scale Nonlinear Uncertain Systems.* IFAC SAFEPROCESS, 51(24):975–982, 2018. [DOI: 10.1016/j.ifacol.2018.09.703](https://doi.org/10.1016/j.ifacol.2018.09.703)  
+* **V. Rostampour**, D. Adzkiya, S. Soudjani, B. De Schutter, T. Keviczky. *Chance-Constrained MPC for Stochastic Max-Plus Linear Systems.* IEEE SMC, 3581–3588, 2016. [DOI: 10.1109/SMC.2016.7844789](https://doi.org/10.1109/SMC.2016.7844789)  
+* **V. Rostampour**, T. Keviczky. *Energy Management for Building Climate Comfort in Uncertain Smart Thermal Grids with ATES.* IFAC World Congress, 50(1):13698–13705, 2017. [DOI: 10.1016/j.ifacol.2017.08.2170](https://doi.org/10.1016/j.ifacol.2017.08.2170)  
+* **V. Rostampour**, M. Bloemendal, T. Keviczky. *MPC of GSHP coupled with ATES System in Heating and Cooling Networks of a Building.* IEA Heat Pump Conference, Rotterdam, 2017.  
+
+---
+
+### MOVES — MSc Thesis — ETH Zürich & Polimi
+
+
+**Description**  
+
+As part of the MOVES project (*Modeling, Optimization, and control for the integration of Electric vehicles and renewable Sources*), my Master’s thesis focused on **tractable formulations for reserve scheduling in power systems with uncertain renewable generation**. This early work explored how stochastic optimisation and probabilistic certificates could be applied to system-level scheduling problems, anticipating challenges in high-renewable grids. The project provided me with first-hand exposure to uncertainty modelling in energy systems and laid the foundation for my later research in stochastic MPC and distributed optimisation.
+
+* **Theme:** Reserve scheduling with uncertain generation  
+* **Institution:** Automatic Control Laboratory (IfA), ETH Zürich (in collaboration with Politecnico di Milano)  
+* **Advisors:** Dr. Kostas Margellos, Dr. Maria Vrakopoulou, Prof. John Lygeros, Prof. Maria Prandini  
+* **Period:** MSc Thesis, completed April 2013  
+
+
+**Outcomes** 
+
+* Developed reserve scheduling formulations that explicitly incorporate uncertainty in renewable generation.  
+* Demonstrated tractable probabilistic guarantees for system security under renewable variability.  
+* Early contribution bridging **optimisation theory** and **practical power system operation**.  
+
+
+**Highlighted publications**  
+
+* **V. Rostampour**, K. Margellos, M. Vrakopoulou, M. Prandini, G. Andersson, J. Lygeros. *Reserve Requirements in AC Power Systems With Uncertain Generation.* IEEE ISGT-Europe, 1–5, Copenhagen, 2013. [DOI: 10.1109/ISGTEurope.2013.6695354](https://doi.org/10.1109/ISGTEurope.2013.6695354)  
+* K. Margellos, **V. Rostampour**, M. Vrakopoulou, M. Prandini, G. Andersson, J. Lygeros. *Stochastic Unit Commitment and Reserve Scheduling: A Tractable Formulation with Probabilistic Certificates.* ECC, 2513–2518, Zürich, 2013. [DOI: 10.23919/ECC.2013.6669532](https://doi.org/10.23919/ECC.2013.6669532)  
+* **MSc Thesis:** *Tractable Reserve Scheduling Formulations for Power Systems with Uncertain Generation* (2013). [PDF](#)  
+
+
+
+
+
