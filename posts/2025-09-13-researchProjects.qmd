@@ -4,12 +4,12 @@ date: 2025-09-13
 ---
 
 
+I’ve just refreshed my [**Research Projects**](../researchProjects.html) page — it’s now fully up to date with my recent research focuses, past contributions, and applied entrepreneurial initiatives. The page now presents a structured overview of:
 
-I’ve just refreshed my [**Research Projects**](../researchProjects.html) page — it’s now fully up to date with my recent research focuses, current and past together with my applied research and entrepreneurial initiatives. The page now presents a structured overview of:
-
+* **Selected awards and research visits**, highlighting international collaborations and recognitions such as the Paul M. Frank Award (finalist, IFAC SAFEPROCESS 2018) and visits to AIP Tokyo, CORE Louvain-la-Neuve, and ETH Zürich.
 * **Current projects**, including new work on lifetime PD modelling with Anchored Kalman Filters and scenario convexification in stochastic optimisation.
 * **Past projects**, spanning energy systems integration, smart thermal grids, and reserve scheduling in uncertain power systems.
-* **Applied initiatives**, such as *ChargePool* (behavioural energy pricing for EV charging) and *ZWMCo* (a DeFi hedge fund concept with risk-managed tokenomics).
+* **Applied initiatives**, such as *ChargePool* (behavioural energy pricing for EV charging) and *ZWMCo* (a DeFi hedge fund concept with AVS-based trading and LSDx risk frameworks).
 
-The aim is to show not only the academic trajectory, but also how research ideas translate into practice and entrepreneurship.
+The aim is to show not only the academic trajectory, but also how research ideas translate into international collaboration, recognition, and entrepreneurship.
 

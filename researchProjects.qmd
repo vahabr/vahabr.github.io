@@ -17,86 +17,13 @@ The projects presented here reflect this perspective. They range from methodolog
 
 
 
+::: {.callout-note}
+## Selected Awards & Visits  
 
-
-## Applied Research & Entrepreneurial Initiatives
-
-
-
-### ZWMCo — Tokenised Hedge Fund with DeFi Risk Framework
-
-**Description**  
-
-ZWMCo explores how **quantitative risk modelling** can be embedded into decentralised finance. The project envisions a tokenised hedge fund where investors contribute to a managed pool and receive a native token representing their share. Unlike many existing DeFi products, ZWMCo emphasises **transparent risk management**, leveraging methods from quantitative finance such as **liquidity stress testing, stochastic control, and scenario analysis**.  
-
-The system integrates two main components:  
-
-* **Algorithmic trading (AVS-based)**: A suite of strategies built on *Adaptive Volatility Scaling (AVS)* principles. These strategies dynamically adjust exposure across crypto assets, balancing risk and return under changing volatility regimes.  
-* **LSDx framework**: A research-driven risk and pricing model for **liquid staking derivatives (LSDs)**. The framework establishes valuation signals, stability bounds, and margin rules to reduce systemic fragility in LSD markets, providing an institutional-grade lens for DeFi liquidity products.  
-
-
-**Research significance**  
-
-ZWMCo illustrates how academic expertise in **stochastic modelling, optimisation, and risk pooling** can extend into **Web3 ecosystems**. By combining **AVS-based algorithmic trading** with an **LSDx valuation framework**, the project bridges quantitative finance with decentralised tokenomics, offering a path to sustainable, risk-aware DeFi investing.  
-
-**Theme:** Decentralised finance, algorithmic trading, liquidity risk  
-**Institution:** Independent initiative (Zillions Wealth Management Co.)  
-**Status:** Concept development, white paper drafting, prototype trading bot  
-**Keywords:** DeFi, staking derivatives, risk management, tokenisation  
-
-
-**Outcomes** 
-
-* Drafted a **technical white paper** on LSDx risk and pricing frameworks.  
-* Designed a **prototype trading bot** implementing AVS-based strategies with monitoring features.  
-* Developed a **tokenomics model** with presale and buy-back mechanics.  
-* Planned **GitBook-based documentation** for transparency and community adoption.  
-
-
-
-**Highlighted outputs**  
-
-* Technical white paper on LSDx (in preparation).  
-* AVS trading bot prototype (private repository).  
-* Draft GitBook documentation for public launch.  
-
-
----
-
-### ChargePool — Behavioural Energy Pricing for EV Charging
-
-
-**Description**  
-
-ChargePool tackles one of the major challenges for electric vehicle adoption: the **uncertainty and volatility of charging costs**. The project builds on my expertise in stochastic optimisation and risk pooling to design a system where EV users can “lock in” charging prices over a future horizon. By aggregating user demand and leveraging hedging strategies, the platform provides predictable energy costs while balancing risk across the pool.  
-
-The innovation lies in **combining behavioural modelling with financial risk techniques**: users interact through a simple app, but underneath, advanced optimisation allocates risk, manages variability, and aligns incentives. Beyond pricing, ChargePool also integrates **route planning, station availability, and points of interest**, turning EV charging into a more seamless mobility experience.  
-
-
-**Research significance**  
-
-ChargePool represents a direct application of stochastic modelling and incentive design to **consumer-facing energy systems**. By bridging academic methods and entrepreneurial deployment, it illustrates how optimisation and risk management can create **new markets for flexibility and predictability** in the energy transition.  
-
-
-**Theme:** Energy systems, behavioural economics, pricing optimisation  
-**Institution:** Independent initiative (with prospective industry partners in Switzerland)  
-**Status:** Proof-of-concept (submitted for BRIDGE funding), prototype app in development  
-**Keywords:** EV charging, risk pooling, smart pricing, behavioural modelling  
-
-
-**Outcomes**  
-
-* Designed a **risk pooling engine** that stabilises charging costs for users.  
-* Developed a **prototype app** for route planning and charging station selection.  
-* Submitted a **BRIDGE Proof-of-Concept proposal** hosted at ETH Zürich (Automatic Control Lab).  
-* Initiated discussions with **Swiss energy and mobility partners** (e.g., GoFast, Swisscard, Energy360).  
-
-
-**Highlighted outputs**  
-
-* Project description and pitch material (BRIDGE PoC 2025 submission).  
-* Early prototype code and simulation results (private GitHub repository).  
-
+- 🏆 **Paul M. Frank Award (Finalist)** — IFAC SAFEPROCESS 2018  
+- 🌏 **Research visits** — AIP Tokyo (2018, 2019); CORE Louvain-la-Neuve (2016); ETH Zürich IfA (2012–2013)  
+- 🎓 **Scholarships** — AIP Tokyo (2018, 2019); Politecnico di Milano MSc; ETH Zürich MSc research visit  
+:::
 
 
 
@@ -195,7 +122,7 @@ This project advances the reliability of **credit risk modelling under IFRS 9 an
 
 
 
-## Past Projects
+## Past Research Projects
 
 ### ERSAS — Energy System Integration — Postdoc Project
 
@@ -283,6 +210,90 @@ As part of the MOVES project (*Modeling, Optimization, and control for the integ
 * **V. Rostampour**, K. Margellos, M. Vrakopoulou, M. Prandini, G. Andersson, J. Lygeros. *Reserve Requirements in AC Power Systems With Uncertain Generation.* IEEE ISGT-Europe, 1–5, Copenhagen, 2013. [DOI: 10.1109/ISGTEurope.2013.6695354](https://doi.org/10.1109/ISGTEurope.2013.6695354)  
 * K. Margellos, **V. Rostampour**, M. Vrakopoulou, M. Prandini, G. Andersson, J. Lygeros. *Stochastic Unit Commitment and Reserve Scheduling: A Tractable Formulation with Probabilistic Certificates.* ECC, 2513–2518, Zürich, 2013. [DOI: 10.23919/ECC.2013.6669532](https://doi.org/10.23919/ECC.2013.6669532)  
 * **MSc Thesis:** *Tractable Reserve Scheduling Formulations for Power Systems with Uncertain Generation* (2013). [PDF](#)  
+
+
+
+
+
+
+## Applied Research & Entrepreneurial Initiatives
+
+
+
+### ZWMCo — Tokenised Hedge Fund with DeFi Risk Framework
+
+**Description**  
+
+ZWMCo explores how **quantitative risk modelling** can be embedded into decentralised finance. The project envisions a tokenised hedge fund where investors contribute to a managed pool and receive a native token representing their share. Unlike many existing DeFi products, ZWMCo emphasises **transparent risk management**, leveraging methods from quantitative finance such as **liquidity stress testing, stochastic control, and scenario analysis**.  
+
+The system integrates two main components:  
+
+* **Algorithmic trading (AVS-based)**: A suite of strategies built on *Adaptive Volatility Scaling (AVS)* principles. These strategies dynamically adjust exposure across crypto assets, balancing risk and return under changing volatility regimes.  
+* **LSDx framework**: A research-driven risk and pricing model for **liquid staking derivatives (LSDs)**. The framework establishes valuation signals, stability bounds, and margin rules to reduce systemic fragility in LSD markets, providing an institutional-grade lens for DeFi liquidity products.  
+
+
+**Research significance**  
+
+ZWMCo illustrates how academic expertise in **stochastic modelling, optimisation, and risk pooling** can extend into **Web3 ecosystems**. By combining **AVS-based algorithmic trading** with an **LSDx valuation framework**, the project bridges quantitative finance with decentralised tokenomics, offering a path to sustainable, risk-aware DeFi investing.  
+
+**Theme:** Decentralised finance, algorithmic trading, liquidity risk  
+**Institution:** Independent initiative (Zillions Wealth Management Co.)  
+**Status:** Concept development, white paper drafting, prototype trading bot  
+**Keywords:** DeFi, staking derivatives, risk management, tokenisation  
+
+
+**Outcomes** 
+
+* Drafted a **technical white paper** on LSDx risk and pricing frameworks.  
+* Designed a **prototype trading bot** implementing AVS-based strategies with monitoring features.  
+* Developed a **tokenomics model** with presale and buy-back mechanics.  
+* Planned **GitBook-based documentation** for transparency and community adoption.  
+
+
+
+**Highlighted outputs**  
+
+* Technical white paper on LSDx (in preparation).  
+* AVS trading bot prototype (private repository).  
+* Draft GitBook documentation for public launch.  
+
+
+---
+
+### ChargePool — Behavioural Energy Pricing for EV Charging
+
+
+**Description**  
+
+ChargePool tackles one of the major challenges for electric vehicle adoption: the **uncertainty and volatility of charging costs**. The project builds on my expertise in stochastic optimisation and risk pooling to design a system where EV users can “lock in” charging prices over a future horizon. By aggregating user demand and leveraging hedging strategies, the platform provides predictable energy costs while balancing risk across the pool.  
+
+The innovation lies in **combining behavioural modelling with financial risk techniques**: users interact through a simple app, but underneath, advanced optimisation allocates risk, manages variability, and aligns incentives. Beyond pricing, ChargePool also integrates **route planning, station availability, and points of interest**, turning EV charging into a more seamless mobility experience.  
+
+
+**Research significance**  
+
+ChargePool represents a direct application of stochastic modelling and incentive design to **consumer-facing energy systems**. By bridging academic methods and entrepreneurial deployment, it illustrates how optimisation and risk management can create **new markets for flexibility and predictability** in the energy transition.  
+
+
+**Theme:** Energy systems, behavioural economics, pricing optimisation  
+**Institution:** Independent initiative (with prospective industry partners in Switzerland)  
+**Status:** Proof-of-concept (submitted for BRIDGE funding), prototype app in development  
+**Keywords:** EV charging, risk pooling, smart pricing, behavioural modelling  
+
+
+**Outcomes**  
+
+* Designed a **risk pooling engine** that stabilises charging costs for users.  
+* Developed a **prototype app** for route planning and charging station selection.  
+* Submitted a **BRIDGE Proof-of-Concept proposal** hosted at ETH Zürich (Automatic Control Lab).  
+* Initiated discussions with **Swiss energy and mobility partners** (e.g., GoFast, Swisscard, Energy360).  
+
+
+**Highlighted outputs**  
+
+* Project description and pitch material (BRIDGE PoC 2025 submission).  
+* Early prototype code and simulation results (private GitHub repository).  
+
 
 
 
