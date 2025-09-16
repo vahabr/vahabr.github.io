@@ -25,7 +25,7 @@ execute:
 
 ::: {.badges}
 [![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF)
-[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXXXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](http://arxiv.org/abs/2509.10586)
 :::
 
 
@@ -47,7 +47,7 @@ Simulation on a synthetic corporate portfolio confirms that anchoring reduces fo
 - **Code & notebooks:** <https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code>
 - **Repro bundle (.zip):** <https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip>
 - **Environment:** `anchored-kf.qmd` / `requirements.txt`
-- **arXiv preprint:** <https://arxiv.org/abs/XXXXXXXX> 
+- **arXiv preprint:** <http://arxiv.org/abs/2509.10586> 
 
 ## How to cite
 Rostampour, V. (2025). *Stabilising Lifetime PD Models under Forecast Uncertainty*. arXiv:XXXXXXXX.
@@ -57,7 +57,7 @@ Rostampour, V. (2025). *Stabilising Lifetime PD Models under Forecast Uncertaint
   title        = {Stabilising Lifetime PD Models under Forecast Uncertainty},
   author       = {Rostampour, Vahab},
   year         = {2025},
-  eprint       = {XXXXXXXX},
+  eprint       = {http://arxiv.org/abs/2509.10586},
   archivePrefix= {arXiv},
   primaryClass = {q-fin.RM}
 }

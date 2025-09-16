@@ -15,7 +15,7 @@ This page presents a selection of my research outputs, spanning journal articles
 
 - **V. Rostampour.** *Stabilising Lifetime PD Models under Forecast Uncertainty.* In Preparation to submit for Journal of Credit Risk
 [![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF)
-[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/XXXXXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](http://arxiv.org/abs/2509.10586)
 
 
 - **V. Rostampour,** Akiko Takeda, Takafumi Kanamori. *Vanishing Duality Gap in Uncertain Nonconvex Problems.* In Preparation to submit for SIAM Journal on Optimization (SIOPT) 

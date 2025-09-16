@@ -193,14 +193,14 @@
     "href": "posts/2025-09-07-Lifetime-PD-AKF.html#materials",
     "title": "Stabilising Lifetime PD Models under Forecast Uncertainty",
     "section": "Materials",
-    "text": "Materials\n\nSource paper: https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/paper\nCode & notebooks: https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code\nRepro bundle (.zip): https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip\nEnvironment: anchored-kf.qmd / requirements.txt\narXiv preprint: https://arxiv.org/abs/XXXXXXXX"
+    "text": "Materials\n\nSource paper: https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/paper\nCode & notebooks: https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code\nRepro bundle (.zip): https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF/code/kalman_pd_simulation_bundle.zip\nEnvironment: anchored-kf.qmd / requirements.txt\narXiv preprint: http://arxiv.org/abs/2509.10586"
   },
   {
     "objectID": "posts/2025-09-07-Lifetime-PD-AKF.html#how-to-cite",
     "href": "posts/2025-09-07-Lifetime-PD-AKF.html#how-to-cite",
     "title": "Stabilising Lifetime PD Models under Forecast Uncertainty",
     "section": "How to cite",
-    "text": "How to cite\nRostampour, V. (2025). Stabilising Lifetime PD Models under Forecast Uncertainty. arXiv:XXXXXXXX.\n@misc{rostampour2025akf,\n  title        = {Stabilising Lifetime PD Models under Forecast Uncertainty},\n  author       = {Rostampour, Vahab},\n  year         = {2025},\n  eprint       = {XXXXXXXX},\n  archivePrefix= {arXiv},\n  primaryClass = {q-fin.RM}\n}"
+    "text": "How to cite\nRostampour, V. (2025). Stabilising Lifetime PD Models under Forecast Uncertainty. arXiv:XXXXXXXX.\n@misc{rostampour2025akf,\n  title        = {Stabilising Lifetime PD Models under Forecast Uncertainty},\n  author       = {Rostampour, Vahab},\n  year         = {2025},\n  eprint       = {http://arxiv.org/abs/2509.10586},\n  archivePrefix= {arXiv},\n  primaryClass = {q-fin.RM}\n}"
   },
   {
     "objectID": "posts/index.html",
