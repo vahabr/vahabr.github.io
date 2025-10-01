@@ -1,0 +1,116 @@
+---
+title: "Book Reading Summary – The Power of Habit"
+date: 2025-10-01
+page-layout: article        # show article container (not full-width)
+toc: true                   # enable the right-hand table of contents
+toc-location: right
+toc-title: On this page
+toc-depth: 3
+---
+
+
+## Core Idea
+
+:::{.columns}
+::: {.column width="55%"}
+
+*The Power of Habit* explores the science of how habits work — how they’re formed, how they can be changed, and how they drive individual lives, organisations, and societies. The core model Duhigg presents is the **Habit Loop**:  
+**Cue → Routine → Reward**.  
+
+By understanding this loop, anyone can identify bad habits and deliberately reprogram them. Habits are not destiny — they are malleable patterns shaped by repetition, emotion, and belief.
+
+> Change might not be fast and it isn't always easy. But with time and effort, almost any habit can be reshaped.
+
+
+
+:::
+
+::: {.column width="45%"}
+![](../img/PowerHabit.jpg){width="75%" fig-align="center"}
+:::
+:::
+
+
+
+
+
+
+
+
+## Personal Frank View
+
+
+
+This is a readable, accessible, and well-researched book that’s had a big cultural impact — and for good reason.  
+The core model is simple but surprisingly powerful. The best parts are the vivid case studies: from P&G’s Febreze marketing to Michael Phelps’s visualisation rituals.
+
+However, the book suffers from **some repetition**, and not every chapter delivers the same insight density. The science is sometimes stretched to fit narrative needs — and there’s limited guidance on what to actually do, beyond “identify your habit loop.”  
+
+Still, it’s **essential reading** for anyone serious about behaviour change — in life or leadership. Take it more as a framing tool than a behaviour manual.
+
+
+
+## Chapters Summary
+
+#### Chapter 1: The Habit Loop
+> “Habits, scientists say, emerge because the brain is constantly looking for ways to save effort.”
+
+This chapter introduces the **cue → routine → reward** model of how habits work. Through examples like rats in mazes and people brushing teeth, Duhigg explains that the brain automates behaviour to conserve energy. The key to habit change is identifying the cue and reward, and swapping out the routine.
+
+---
+
+#### Chapter 2: The Craving Brain
+> “Craving is what powers the habit loop.”
+
+Duhigg explores how **craving drives habits** — it’s not just repetition, but the anticipation of a reward that cements the loop. He illustrates this with P&G’s launch of Febreze and the neurological changes in smokers and gamblers. Marketing often succeeds by attaching emotional cravings to specific cues.
+
+---
+
+#### Chapter 3: The Golden Rule of Habit Change
+> “You can’t extinguish a bad habit. You can only change it.”
+
+This chapter presents the core prescription: keep the same **cue** and **reward**, but change the **routine**. He uses examples like Tony Dungy’s NFL strategy and Alcoholics Anonymous to show that belief and community also reinforce habit rewiring.
+
+---
+
+#### Chapter 4: Keystone Habits, or The Ballad of Paul O’Neill
+> “Some habits matter more than others in remaking businesses and lives.”
+
+Here, Duhigg introduces **keystone habits** — powerful routines that trigger positive ripple effects. The story of Paul O’Neill transforming Alcoa by obsessing over workplace safety shows how one keystone habit can restructure organisational culture.
+
+---
+
+#### Chapter 5: Starbucks and the Habit of Success
+> “Willpower isn’t just a skill. It’s a muscle.”
+
+This chapter focuses on **willpower** as a learnable and exhaustible resource. Duhigg shows how Starbucks trained baristas to handle stress with pre-scripted habits — turning willpower into a routine itself. The same applies to personal habits like budgeting or fitness.
+
+---
+
+#### Chapter 6: The Power of a Crisis
+> “Crises are so valuable, they’re often not wasted.”
+
+Organisations often only change entrenched habits during crisis. Duhigg shows how hospitals and the London Underground used moments of breakdown to reshape culture and decision-making — because **crisis disrupts routine and opens a window for new norms**.
+
+---
+
+#### Chapter 7: How Target Knows What You Want Before You Do
+> “Companies are teaching us to crave.”
+
+This controversial chapter dives into how companies — especially Target — use **habit data** to predict customer behaviour, often before the customer is consciously aware of it (e.g., pregnancy prediction based on purchase patterns). It raises ethical questions about data, manipulation, and consumer autonomy.
+
+---
+
+#### Chapter 8: Saddleback Church and the Montgomery Bus Boycott
+> “Movements don’t emerge because everyone suddenly decides to face the same direction. They rely on social habits.”
+
+This chapter shifts to **social habits** — how movements grow through weak ties, peer pressure, and a sense of identity. From Rick Warren’s church-building to the civil rights movement, Duhigg explains how habitual patterns of connection and expectation scale collective action.
+
+---
+
+#### Chapter 9: The Neurology of Free Will
+> “Some habits are so strong, they overpower our will.”
+
+In this final chapter, Duhigg tackles the tension between **habit and responsibility**. He describes legal cases (e.g. a sleepwalking murderer, compulsive gamblers) where habit patterns dominate choice. His conclusion: we are responsible for habits once we are **aware of them** — but not before. Awareness creates agency.
+
+---
