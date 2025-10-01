@@ -16,12 +16,12 @@ website:
         href: index.qmd
       - text: Teaching
         href: teaching.qmd
-      # - text: Projects
-      #   href: projects.qmd
       - text: Research Projects
         href: researchProjects.qmd
       - text: Publications
         href: publications.qmd
+      - text: Book Club
+        href: book-club.qmd
     right:
       - icon: github
         href: "https://github.com/vahabr"

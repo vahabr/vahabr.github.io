@@ -96,7 +96,7 @@ This project advances the reliability of **credit risk modelling under IFRS 9 an
 
 ::: {.badges}
 [![Code](https://img.shields.io/badge/GitHub-repo-black)](https://github.com/vahabr/research-lab/tree/main/lifetime-PD-AKF)
-[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://https://arxiv.org/abs/2509.10586)
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-red)](https://arxiv.org/abs/2509.10586)
 :::
 
 
