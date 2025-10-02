@@ -8,7 +8,7 @@ toc-title: On this page
 toc-depth: 2
 ---
 
-
+```{=html}
 <style>
 .book-grid {
   display: flex;
@@ -28,43 +28,32 @@ toc-depth: 2
   box-shadow: 0 0 8px rgba(0,0,0,0.1);
 }
 </style>
+```
 
+Welcome to my personal book club. Click a cover to read the full summary.
 
+:::::: book-grid
+::: book-card
+<a href="posts/2025-10-01-Habit.qmd"> <img src="img/PowerHabit.jpg" alt="The Power of Habit"/>
 
+<p><strong>The Power of Habit</strong></p>
 
+</a>
+:::
 
-Welcome to my personal book club. 
-Click a cover to read the full summary.
+::: book-card
+<a href="posts/2025-09-05-ZeroOne.qmd"> <img src="img/ZeroOne.jpg" alt="Zero to One"/>
 
+<p><strong>Zero to One</strong></p>
 
+</a>
+:::
 
-<div class="book-grid">
+::: book-card
+<a href="posts/2025-09-03-BE2.qmd"> <img src="img/BE2.jpg" alt="Beyond Entrepreneurship 2.0"/>
 
+<p><strong>Beyond Entrepreneurship 2.0</strong></p>
 
-
-<div class="book-card">
-  <a href="posts/2025-10-01-Habit.qmd">
-    <img src="img/PowerHabit.jpg" alt="The Power of Habit">
-    <p><strong>The Power of Habit</strong></p>
-  </a>
-</div>
-
-
-
-<div class="book-card">
-  <a href="posts/2025-09-05-ZeroOne.qmd">
-    <img src="img/ZeroOne.jpg" alt="Zero to One">
-    <p><strong>Zero to One</strong></p>
-  </a>
-</div>
-
-
-
-<div class="book-card">
-  <a href="posts/2025-09-03-BE2.qmd">
-    <img src="img/BE2.jpg" alt="Beyond Entrepreneurship 2.0">
-    <p><strong>Beyond Entrepreneurship 2.0</strong></p>
-  </a>
-</div>
-
-</div>
+</a>
+:::
+::::::
