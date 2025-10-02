@@ -15,7 +15,7 @@ The projects presented here reflect this perspective. They range from methodolog
 ::: callout-note
 ## Selected Awards & Visits
 
--   🏆 **Paul M. Frank Award (Finalist)** — IFAC SAFEPROCESS 2018
+-   🏆 **Paul M. Frank Award** — IFAC SAFEPROCESS 2018
 -   🌏 **Research visits** — AIP Tokyo (2018, 2019); CORE Louvain-la-Neuve (2016); ETH Zürich IfA (2012–2013)
 -   🎓 **Scholarships** — AIP Tokyo (2018, 2019); Politecnico di Milano MSc; ETH Zürich MSc research visit
 :::
