@@ -1,0 +1,255 @@
+---
+title: "Quant Systems Lab"
+page-layout: article
+toc: true
+toc-location: right
+toc-title: On this page
+toc-depth: 4
+---
+
+
+The **Quant Systems Lab** is a long-term initiative by **myself** to unify control theory, finance, and risk management into one coherent teaching ecosystem.
+Its purpose is to help professionals from both domains understand how modern markets can be modelled, stabilised, and optimised using system-thinking principles.
+The Lab will evolve as part of the [Quant with Vahab](https://quantwithvahab.com) platform — starting with simulation-driven online courses and expanding into advanced research modules, publications, and real-world trading systems.
+Each track builds a bridge between disciplines: 
+
+- engineers learning finance, 
+- finance professionals learning control, and 
+- advanced learners integrating both into deployable quantitative systems.
+
+
+# **Teaching Roadmap Overview**
+
+*(Quant Systems Lab — Draft v2, October 2025)*
+
+
+The **Teaching Roadmap** outlines the structure and evolution of the *Quant Systems Lab* learning ecosystem.
+It presents a clear progression from conceptual understanding to applied implementation, bridging the gap between control theory and financial practice.
+Each track targets a specific audience but contributes to a unified framework — empowering learners to model, simulate, and control risk across financial systems.
+Together, they form the foundation of a **quantitative education platform built on engineering precision and financial insight**.
+
+
+
+| Track | Audience              | Title                                                 | Tagline                                                                   |
+| ----- | --------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1     | Engineers to Finance   | **Finance for Control Engineers**                     | *Learn to see markets as dynamic systems and design stability in wealth.* |
+| 2     | Finance to Engineering | **Control Engineering for Finance Professionals**     | *Master feedback, stability, and robustness to manage financial risk.*    |
+| 3     | Advanced Integration  | **Control Engineering for Trading & Risk Management** | *Apply model predictive control to real portfolios and live trading.*     |
+
+---
+
+## **TRACK 1**
+
+> - **Title:** *Finance for Engineers: From Control Systems to Financial Thinking*
+> - **Goal:** help engineers translate system intuition into financial reasoning.
+
+
+This track helps engineers translate their intuition about systems, stability, and feedback into the language of finance.
+It introduces financial markets as dynamic processes, portfolios as controllable systems, and risk as measurable noise.
+Through practical coding, simulation, and optimisation, learners discover how familiar engineering principles — such as feedback control and model predictive control — can guide disciplined investment decisions.
+By the end, engineers will see finance not as speculation, but as **applied system design under uncertainty**.
+
+
+---
+
+### **Course 1A**
+
+> - **Title:** *Finance for Control Engineers*
+> - **Tagline:** *Think of finance as a feedback system — where portfolios evolve like dynamic processes.*
+
+This course introduces engineers to the structure and behaviour of financial systems through the lens of control theory.
+It replaces abstract financial jargon with familiar system concepts — states, inputs, feedback, and stability.
+Learners explore how portfolios evolve dynamically, how risk behaves like noise, and how optimisation shapes decisions under uncertainty.
+By the end, participants will see **finance as a controllable system** — measurable, predictable, and open to design.
+
+
+| Module | Title                                | Highlight                                                             |
+| ------ | ------------------------------------ | --------------------------------------------------------------------- |
+| 1      | **Systems Meet Markets**             | *Discover how control loops mirror market dynamics.*                  |
+| 2      | **Speaking the Language of Finance** | *Translate returns, risk, and volatility into engineering signals.*   |
+| 3      | **Portfolios as Dynamic Systems**    | *Model wealth as a state equation with controllable weights.*         |
+| 4      | **Managing Risk through Feedback**   | *Use variance and drawdown as real-time error signals.*               |
+| 5      | **Optimisation as Decision-Making**  | *Turn portfolio rebalancing into a model-predictive-control problem.* |
+| 6      | **Capstone Project**                 | *Build and stress-test your own controlled portfolio simulator.*      |
+
+---
+
+### **Course 1B**
+
+> - **Title:** *Python for Financial Engineering*
+> - **Tagline:** *Prototype, simulate, and analyse portfolios with Python — fast and clean.*
+
+This course provides the computational foundation for modelling and analysing financial systems.
+It equips engineers with practical tools to simulate markets, visualise uncertainty, and optimise portfolios using Python.
+Each lecture focuses on a single, reproducible concept — from basic data handling to convex optimisation and dashboard creation.
+By completing the course, learners will gain **hands-on fluency in translating financial ideas into working code**.
+
+
+| Module | Title                        | Highlight                                                    |
+| ------ | ---------------------------- | ------------------------------------------------------------ |
+| 1      | **Tools of the Trade**       | *Get fluent with Jupyter, NumPy, pandas, and matplotlib.*    |
+| 2      | **Working with Market Data** | *Pull, clean, and simulate realistic price and return data.* |
+| 3      | **Visualising Uncertainty**  | *Plot risk, volatility, and rolling metrics interactively.*  |
+| 4      | **Portfolio Simulation**     | *Vectorise wealth evolution and test leverage scenarios.*    |
+| 5      | **Optimisation in Python**   | *Use cvxpy to find efficient portfolios under constraints.*  |
+| 6      | **Mini Project**             | *Deliver a two-asset dashboard with live analytics.*         |
+
+---
+
+## **TRACK 2**
+
+> - **Title:** *Engineering for Finance: From Finance Practitioners to Control Systems Thinking*
+> - **Goal:** teach finance professionals how engineers stabilise complex systems.
+
+This track reverses the direction of learning.
+It empowers finance professionals to adopt the mindset and tools of control engineers.
+Participants learn how feedback, observability, and robustness explain market stability and risk management — transforming complex financial intuition into structured, quantitative reasoning.
+Coding modules translate these concepts into live simulations, giving risk managers and quants a clear view of how to stabilise portfolios through adaptive, data-driven feedback control.
+The result is a **finance-to-engineering translation layer** for modern risk thinking.
+
+
+---
+
+### **Course 2A**
+
+> - **Title:** *Control Concepts for Finance Professionals*
+> - **Tagline:** *Learn how feedback, stability, and robustness explain market behaviour.*
+
+This course introduces the essential language of control engineering to finance professionals.
+It reframes markets, risk systems, and crises through the lens of dynamics, feedback, and stability.
+Learners gain intuitive understanding of how hidden states, delays, and adaptation shape financial behaviour — without relying on heavy mathematics.
+By the end, participants will be able to **interpret market phenomena as control problems** and think with the precision of an engineer.
+
+
+| Module | Title                                  | Highlight                                                      |
+| ------ | -------------------------------------- | -------------------------------------------------------------- |
+| 1      | **Why Finance Needs Control Thinking** | *See the 2008 crisis through the lens of unstable feedback.*   |
+| 2      | **Dynamics & States**                  | *Understand lag, memory, and state evolution in risk systems.* |
+| 3      | **Feedback and Stability**             | *Explore positive and negative feedback in market cycles.*     |
+| 4      | **Observability & Estimation**         | *Reveal hidden states with Kalman-filter intuition.*           |
+| 5      | **Robustness & Adaptive Control**      | *Handle uncertainty and regime shifts with adaptive logic.*    |
+| 6      | **Control Mindset in Risk Management** | *Translate control loops into real-world risk policies.*       |
+
+---
+
+### **Course 2B**
+
+> - **Title:** *Python for Control-Based Risk Management*
+> - **Tagline:** *Bring engineering rigour into risk control with code that reacts and adapts.*
+
+This course translates control-theoretic principles into practical, code-driven risk management.
+Participants learn to model wealth dynamics, estimate volatility, and design feedback mechanisms that adapt to changing market conditions.
+Through hands-on Python exercises, they explore how risk controllers can monitor, limit, and stabilise portfolio performance in real time.
+The goal is to develop **data-driven intuition for control under financial uncertainty**.
+
+
+| Module | Title                                     | Highlight                                              |
+| ------ | ----------------------------------------- | ------------------------------------------------------ |
+| 1      | **Python Refresher for Risk Analysts**    | *Revisit core Python tools for financial data.*        |
+| 2      | **Modelling Wealth as a System**          | *Simulate dynamic wealth updates via state equations.* |
+| 3      | **Kalman Filter for Volatility Tracking** | *Estimate hidden market noise step-by-step.*           |
+| 4      | **Feedback Control for Drawdown Limits**  | *Design gain-based risk brakes that self-correct.*     |
+| 5      | **Robust Control Simulation**             | *Test portfolio stability under severe shocks.*        |
+| 6      | **Mini Project**                          | *Build a live VaR-tracking risk controller dashboard.* |
+
+---
+
+## **TRACK 3**
+
+> - **Title:** *Control Engineering for Trading & Risk Management*
+> - **Goal:** merge both domains — design and deploy algorithmic trading systems as feedback controllers.
+
+Track 3 merges both worlds into a single applied domain.
+Here, learners design algorithmic trading systems as closed-loop controllers — capable of forecasting, acting, and adapting in real time.
+The courses progress from theory (model predictive control for portfolios) to practice (robust and adaptive trading strategies) and culminate in a professional capstone project: a complete trading bot with monitoring and reporting.
+This final stage transforms conceptual understanding into implementation, producing **quant-engineers who can design, deploy, and govern live financial systems**.
+
+---
+
+### **Course 3A**
+
+> - **Title:** *Control Engineering for Trading & Risk*
+> - **Tagline:** *Turn trading decisions into a closed-loop optimisation problem.*
+
+
+This course introduces the foundations of control engineering applied directly to trading and portfolio management.
+It bridges predictive modelling and real-time execution, showing how trading can be framed as a closed-loop optimisation process.
+Learners design controllers that forecast, decide, and act under uncertainty, using model predictive control to balance profit and stability.
+By the end, participants will be able to structure trading strategies as **controlled dynamic systems** that respond intelligently to market feedback.
+
+
+
+| Module | Title                                       | Highlight                                                         |
+| ------ | ------------------------------------------- | ----------------------------------------------------------------- |
+| 1      | **Markets as Control Systems**              | *Relate trend-following and mean-reversion to feedback polarity.* |
+| 2      | **From Signals to States**                  | *Transform indicators into measurable system states.*             |
+| 3      | **Forecast → Decision → Execution Loop**    | *Close the loop between prediction and action.*                   |
+| 4      | **Model Predictive Control for Portfolios** | *Optimise future returns under constraints using cvxpy.*          |
+| 5      | **Risk Constraints in Real Time**           | *Embed VaR and drawdown directly into your controller.*           |
+| 6      | **Capstone: MPC Crypto Strategy**           | *Backtest a live MPC algorithm on exchange data.*                 |
+
+---
+
+### **Course 3B**
+
+> - **Title:** *Robust & Adaptive Control in Algorithmic Trading*
+> - **Tagline:** *Design trading systems that survive noise, shocks, and regime change.*
+
+This course extends the control-engineering framework into the unpredictable world of real markets.
+It focuses on designing algorithms that remain stable and profitable under changing conditions, structural breaks, and noisy data.
+Learners explore how robustness safeguards performance and how adaptive control enables continuous learning in live environments.
+By combining stochastic modelling with real-time updates, the course equips participants to build **resilient trading systems that evolve with the market**.
+
+
+| Module | Title                                   | Highlight                                                  |
+| ------ | --------------------------------------- | ---------------------------------------------------------- |
+| 1      | **Why Strategies Fail**                 | *Diagnose fragility, overfitting, and changing regimes.*   |
+| 2      | **Robust Control → Risk Hedging**       | *Protect performance under worst-case uncertainty.*        |
+| 3      | **Adaptive Gain & Reinforcement**       | *Let controllers learn by updating parameters online.*     |
+| 4      | **Online Learning & Kalman Updates**    | *Track markets in real time through recursive estimation.* |
+| 5      | **Stochastic MPC**                      | *Add probabilistic safety margins to trading control.*     |
+| 6      | **Capstone: Adaptive Crypto Portfolio** | *Blend stochastic MPC with online volatility learning.*    |
+
+---
+
+### **Course 3C**
+
+
+> - **Title:** *Professional Capstone: Build & Deploy a Quant Trading System*
+> - **Tagline:** *Move from theory to production — launch your own live trading bot.*
+
+The **Professional Capstone** marks the transition from controlled simulations to live execution.
+Learners consolidate everything from the previous courses to architect, test, and deploy a fully functioning trading system.
+The course mirrors the workflow of a real quant engineer — from system design and data handling to model integration, automation, and investor reporting.
+It is the final step in transforming analytical knowledge into **operational capability**.
+
+
+
+| Module | Title                             | Highlight                                              |
+| ------ | --------------------------------- | ------------------------------------------------------ |
+| 1      | **Architecture of a Trading Bot** | *Map data, strategy, and execution layers clearly.*    |
+| 2      | **Data Pipelines & APIs**         | *Stream live market data into databases in real time.* |
+| 3      | **Strategy Integration**          | *Plug in your MPC and adaptive algorithms cleanly.*    |
+| 4      | **Backtesting & Forward Testing** | *Evaluate Sharpe, drawdown, and controller stability.* |
+| 5      | **Deployment & Monitoring**       | *Automate with Docker, cron, and Telegram alerts.*     |
+| 6      | **Reporting & Presentation**      | *Create investor-ready performance dashboards.*        |
+
+---
+
+## **Summary**
+
+The **Quant Systems Lab** represents the complete synthesis of engineering precision and financial reasoning.
+Each track is designed as a self-contained learning path but connects seamlessly to the next, forming a coherent progression from intuition to implementation.
+Track 1 builds foundational literacy for engineers entering finance, Track 2 equips finance professionals with control-theoretic thinking, and Track 3 unifies both into deployable, real-world trading systems.
+Together, they create a modular ecosystem for lifelong learners who aim to think like quants and design like engineers.
+
+
+| Track | Courses                                                                                                     | Core Highlight                                         |
+| ----- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1     | *Finance for Control Engineers* · *Python for Financial Engineering*                                        | Bridges engineers into finance using system intuition. |
+| 2     | *Control Concepts for Finance Professionals* · *Python for Control-Based Risk Management*                   | Teaches finance pros to reason like control engineers. |
+| 3     | *Control Engineering for Trading & Risk* · *Robust & Adaptive Control in Trading* · *Professional Capstone* | Delivers applied, deployable quant-control systems.    |
+
+---
+
+

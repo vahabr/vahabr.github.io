@@ -20,6 +20,8 @@ website:
         href: researchProjects.qmd
       - text: Publications
         href: publications.qmd
+      - text: Quant Systems Lab
+        href: quant-systems-lab.qmd
       - text: Book Club
         href: book-club.qmd
     right:
