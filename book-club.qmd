@@ -56,4 +56,12 @@ Welcome to my personal book club. Click a cover to read the full summary.
 
 </a>
 :::
+
+::: book-card
+<a href="posts/2015-01-01-the-triple-package.qmd"> <img src="img/TheTripplePackage.jpg" alt="The Triple Package"/>
+
+<p><strong>The Triple Package</strong></p>
+
+</a>
+:::
 ::::::
