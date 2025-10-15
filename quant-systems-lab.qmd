@@ -36,7 +36,10 @@ Together, they form the foundation of a **quantitative education platform built 
 | 2     | Finance to Engineering | **Control Engineering for Finance Professionals**     | *Master feedback, stability, and robustness to manage financial risk.*    |
 | 3     | Advanced Integration  | **Control Engineering for Trading & Risk Management** | *Apply model predictive control to real portfolios and live trading.*     |
 
----
+
+
+
+
 
 ## **TRACK 1**
 
@@ -50,7 +53,7 @@ Through practical coding, simulation, and optimisation, learners discover how fa
 By the end, engineers will see finance not as speculation, but as **applied system design under uncertainty**.
 
 
----
+
 
 ### **Course 1A**
 
@@ -72,7 +75,9 @@ By the end, participants will see **finance as a controllable system** — measu
 | 5      | **Optimisation as Decision-Making**  | *Turn portfolio rebalancing into a model-predictive-control problem.* |
 | 6      | **Capstone Project**                 | *Build and stress-test your own controlled portfolio simulator.*      |
 
----
+
+
+
 
 ### **Course 1B**
 
@@ -94,7 +99,9 @@ By completing the course, learners will gain **hands-on fluency in translating f
 | 5      | **Optimisation in Python**   | *Use cvxpy to find efficient portfolios under constraints.*  |
 | 6      | **Mini Project**             | *Deliver a two-asset dashboard with live analytics.*         |
 
----
+
+
+
 
 ## **TRACK 2**
 
@@ -108,7 +115,7 @@ Coding modules translate these concepts into live simulations, giving risk manag
 The result is a **finance-to-engineering translation layer** for modern risk thinking.
 
 
----
+
 
 ### **Course 2A**
 
@@ -130,7 +137,7 @@ By the end, participants will be able to **interpret market phenomena as control
 | 5      | **Robustness & Adaptive Control**      | *Handle uncertainty and regime shifts with adaptive logic.*    |
 | 6      | **Control Mindset in Risk Management** | *Translate control loops into real-world risk policies.*       |
 
----
+
 
 ### **Course 2B**
 
@@ -152,7 +159,9 @@ The goal is to develop **data-driven intuition for control under financial uncer
 | 5      | **Robust Control Simulation**             | *Test portfolio stability under severe shocks.*        |
 | 6      | **Mini Project**                          | *Build a live VaR-tracking risk controller dashboard.* |
 
----
+
+
+
 
 ## **TRACK 3**
 
@@ -164,7 +173,8 @@ Here, learners design algorithmic trading systems as closed-loop controllers —
 The courses progress from theory (model predictive control for portfolios) to practice (robust and adaptive trading strategies) and culminate in a professional capstone project: a complete trading bot with monitoring and reporting.
 This final stage transforms conceptual understanding into implementation, producing **quant-engineers who can design, deploy, and govern live financial systems**.
 
----
+
+
 
 ### **Course 3A**
 
@@ -188,7 +198,8 @@ By the end, participants will be able to structure trading strategies as **contr
 | 5      | **Risk Constraints in Real Time**           | *Embed VaR and drawdown directly into your controller.*           |
 | 6      | **Capstone: MPC Crypto Strategy**           | *Backtest a live MPC algorithm on exchange data.*                 |
 
----
+
+
 
 ### **Course 3B**
 
@@ -210,7 +221,9 @@ By combining stochastic modelling with real-time updates, the course equips part
 | 5      | **Stochastic MPC**                      | *Add probabilistic safety margins to trading control.*     |
 | 6      | **Capstone: Adaptive Crypto Portfolio** | *Blend stochastic MPC with online volatility learning.*    |
 
----
+
+
+
 
 ### **Course 3C**
 
@@ -234,7 +247,9 @@ It is the final step in transforming analytical knowledge into **operational cap
 | 5      | **Deployment & Monitoring**       | *Automate with Docker, cron, and Telegram alerts.*     |
 | 6      | **Reporting & Presentation**      | *Create investor-ready performance dashboards.*        |
 
----
+
+
+
 
 ## **Summary**
 
