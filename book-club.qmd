@@ -33,6 +33,26 @@ toc-depth: 2
 Welcome to my personal book club. Click a cover to read the full summary.
 
 :::::: book-grid
+
+
+::: book-card
+<a href="posts/2026-01-24-The-Happiness-Project.qmd"> <img src="img/HappinessProject.jpg" alt="The Happiness Project"/>
+
+<p><strong>The Happiness Project</strong></p>
+
+</a>
+:::
+
+
+::: book-card
+<a href="posts/2026-01-25-Singularity-is-Nearer.qmd"> <img src="img/singularity_nearer.jpg" alt="The Singularity Is Nearer: When We Merge with AI"/>
+
+<p><strong>The Singularity Is Nearer: When We Merge with AI</strong></p>
+
+</a>
+:::
+
+
 ::: book-card
 <a href="posts/2025-10-01-Habit.qmd"> <img src="img/PowerHabit.jpg" alt="The Power of Habit"/>
 
@@ -64,4 +84,5 @@ Welcome to my personal book club. Click a cover to read the full summary.
 
 </a>
 :::
+
 ::::::
