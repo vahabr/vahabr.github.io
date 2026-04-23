@@ -3,8 +3,21 @@ title: "Online courses section updated"
 date: 2026-02-15
 ---
 
+
+:::{.columns}
+::: {.column width="55%"}
+
+
+
 I’ve also updated the [**Teaching**](../teaching.html) section of my website to include my online teaching platform, [**Quant with Vahab**](https://www.quantwithvahab.com/).
 
 The platform is being developed around quantitative finance, risk, evaluation, and decision systems. Its broader aim is to present rigorous ideas in a structured and practical way, connecting mathematical foundations with real analytical workflows.
 
 The public platform is available here: [quantwithvahab.com](https://www.quantwithvahab.com/).
+
+:::
+
+::: {.column width="45%"}
+![](../img/qwv.png){width="75%" fig-align="center"}
+:::
+:::
