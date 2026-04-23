@@ -1,0 +1,14 @@
+---
+title: "Founder page is now live!"
+date: 2026-04-23
+---
+
+I’ve just added a new [**Founder & Entrepreneurial Initiatives**](../founder.html) page to my website. The page brings together a selected part of my applied and entrepreneurial work, with a focus on projects that connect quantitative thinking with product and platform design.
+
+It currently highlights three initiatives:
+
+* [**ChargePool**](https://www.chargepool.io/), an initiative around cleaner and more predictable EV charging experiences.
+* [**Fund Analyst Intelligence**](https://www.fundanalyst.app/), a platform for deterministic, traceable, and defensible fund reporting workflows.
+* [**LSDx**](https://www.lsdsx.xyz/), a quantitative intelligence layer for liquid staking derivatives, with public documentation available [here](https://www.lsdsx.xyz/docs).
+
+The aim of this page is to present the entrepreneurial side of my work more clearly, separately from my academic research projects.

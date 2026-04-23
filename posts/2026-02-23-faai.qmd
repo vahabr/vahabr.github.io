@@ -1,0 +1,10 @@
+---
+title: "Fund Analyst Intelligence is now featured on my Founder page"
+date: 2026-02-23
+---
+
+I’ve added [**Fund Analyst Intelligence**](https://www.fundanalyst.app/) to the new [**Founder & Entrepreneurial Initiatives**](../founder.html) page on my website.
+
+This project is centred on deterministic analytics, frozen artefacts, provenance, and reproducible reporting workflows for professional investors. It reflects my broader interest in building analytical systems that are not only useful, but also reviewable and defensible.
+
+The platform page presents the main workflow and product direction in more detail.

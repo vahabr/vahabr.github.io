@@ -1,0 +1,10 @@
+---
+title: "ChargePool is now featured on my Founder page"
+date: 2026-04-23
+---
+
+I’ve added [**ChargePool**](https://www.chargepool.io/) to the new [**Founder & Entrepreneurial Initiatives**](../founder.html) page on my website.
+
+ChargePool reflects my interest in energy systems, pricing design, and uncertainty-aware product thinking. The broader idea is to contribute to a cleaner and more seamless EV charging experience, while grounding the platform in rigour, structure, and trust.
+
+The public project page is still under construction, but the core direction is already visible on the site.

@@ -1,0 +1,147 @@
+---
+title: "Founder & Entrepreneurial Initiatives"
+description: "Applied ventures at the intersection of quantitative research, design, and execution."
+page-layout: article
+toc: true
+toc-location: right
+toc-title: On this page
+toc-depth: 3
+---
+
+
+
+--- 
+
+Alongside my academic and industrial research, I build ventures that translate quantitative thinking into product and market design. These initiatives are not side ideas in isolation. They are practical extensions of my work in stochastic modelling, optimisation, risk management, and system design.
+
+What unites them is a common perspective: many markets suffer not from a lack of data, but from a lack of structure, interpretability, and decision-grade analytical tools. My entrepreneurial work focuses on building that missing layer. In some cases, this takes the form of pricing and risk infrastructure. In others, it becomes a reporting platform, an analytical engine, or a product that reshapes how users interact with uncertainty.
+
+The projects below reflect three directions I consider especially important: energy and mobility, institutional analytics, and decentralised financial infrastructure.
+
+
+
+# Selected Ventures
+
+## ChargePool
+
+### Predictable EV Charging Through Pricing and Risk Design
+
+---
+
+**Description**
+
+ChargePool is an entrepreneurial initiative focused on one of the most frustrating aspects of electric mobility: unpredictable charging costs and fragmented charging experiences. The broader vision is to create a clean financial and behavioural layer around EV charging, so that users can access charging with more clarity, less stress, and stronger price predictability.
+
+The idea is not merely to build another charging interface. It is to rethink charging from the perspective of pricing structure, user trust, and decision simplicity. Beneath the surface, the project draws on my background in optimisation, uncertainty modelling, and risk pooling. The aim is to create mechanisms through which charging costs become more stable and easier to understand, while still remaining grounded in operational and economic realism.
+
+**Why it matters**
+
+ChargePool represents my attempt to bring rigorous quantitative design into a consumer-facing energy product. It connects energy systems, behavioural design, and pricing logic in a way that is both technically serious and directly useful to end users. In that sense, it reflects a broader entrepreneurial thesis of mine: mathematically informed systems can improve adoption when they reduce friction and uncertainty for ordinary users.
+
+**Theme:** EV charging, energy pricing, consumer risk design  
+**Institution:** Independent venture  
+**Status:** Platform under development  
+**Keywords:** electric mobility, charging economics, risk pooling, pricing design, energy systems
+
+**Outcomes**
+
+-   Developed the core concept around stable and interpretable charging economics.
+-   Positioned the project as a financial and behavioural layer rather than a pure routing tool.
+-   Built the public-facing project presence and early product direction.
+-   Established the initiative as part of a broader venture-building portfolio around energy and infrastructure.
+
+**Highlighted outputs**
+
+-   Project website: [chargepool.io](https://www.chargepool.io/)
+-   Public platform page and launch waitlist
+-   Ongoing product and commercial development
+
+ 
+
+## Fund Analyst Intelligence
+
+### Evidence-First Analytics and Reporting for Professional Investors
+
+---
+
+**Description**
+
+Fund Analyst Intelligence is a platform designed to improve how professional investors and analyst teams manage fund monitoring, reporting, and review workflows. The system is built around a simple principle: reporting should be reproducible, traceable, and defensible.
+
+The platform is structured to ingest manager materials, client documents, and public sources, then support deterministic analytics, evidence-linked workflows, and versioned reporting outputs. Rather than using automation to replace analytical substance, it uses automation to strengthen process control. Metrics remain grounded in computed results, while commentary, explanation, and drafting are tied to frozen artefacts and auditable provenance.
+
+This project reflects a direct entrepreneurial extension of my banking and model risk background. In regulated environments, the issue is rarely only the number itself. The real issue is whether the number can be explained, reproduced, challenged, and defended. Fund Analyst Intelligence is built around that discipline.
+
+**Why it matters**
+
+This initiative sits at the intersection of quantitative finance, reporting governance, and product design. It aims to reduce manual friction in allocator and investment committee workflows, while preserving methodological clarity and auditability. It is especially aligned with the growing need for AI-assisted systems that remain controlled, evidence-based, and operationally credible.
+
+**Theme:** fund analytics, due diligence, reporting infrastructure  
+**Institution:** Independent venture  
+**Status:** Live public platform presence  
+**Keywords:** reproducible analytics, provenance, audit trail, reporting workflow, professional investors
+
+**Outcomes**
+
+-   Developed a deterministic and evidence-first product concept for fund reporting workflows.
+-   Built a platform centred on frozen artefacts, provenance, and version-controlled outputs.
+-   Established a practical bridge between quantitative analytics and committee-ready reporting.
+-   Defined a governance-oriented approach to AI assistance, where drafting supports but does not replace computed results.
+
+**Highlighted outputs**
+
+-   Platform website: [fundanalyst.app](https://www.fundanalyst.app/)
+-   Technical documentation: [fundanalyst.app/docs](https://www.fundanalyst.app/docs/)
+-   Live product positioning and workflow presentation
+-   Public articulation of the platform’s deterministic and audit-ready reporting logic
+
+ 
+
+
+## LSDx
+
+### Quantitative Intelligence Layer for Liquid Staking Derivatives
+
+---
+
+**Description**
+
+LSDx is a research-driven entrepreneurial project in decentralised finance. It is built around the conviction that liquid staking derivatives should not be viewed as simple wrappers or yield instruments, but as financial instruments with distinct pricing logic, liquidity conditions, collateral properties, and stress behaviour.
+
+The project positions LSDx not as a new staking protocol, but as an analytical infrastructure layer. Its purpose is to translate fragmented token mechanics into decision-grade signals that can support comparison, pricing, collateral assessment, and market interpretation. The public framing of LSDx emphasises fair value logic, liquidity diagnostics, collateral fit, regime monitoring, and institutional-quality analytical depth.
+
+This initiative is especially important to me because it combines several parts of my background: stochastic modelling, risk decomposition, valuation thinking, and the design of structured decision systems under uncertainty. It also reflects my broader interest in building serious analytical primitives for emerging markets rather than superficial dashboards.
+
+**Why it matters**
+
+LSDx addresses a real gap in decentralised finance. The ecosystem already has interfaces, token screens, and protocol dashboards. What remains underdeveloped is the middle analytical layer that helps users interpret market structure, token quality, and collateral behaviour in a rigorous way. LSDx is my attempt to build that layer.
+
+**Theme:** decentralised finance, staking markets, risk and pricing infrastructure  
+**Institution:** Independent venture  
+**Status:** Public project website and live technical documentation  
+**Keywords:** liquid staking derivatives, DeFi analytics, collateral intelligence, liquidity diagnostics, valuation
+
+**Outcomes**
+
+-   Defined LSDx as an analytical infrastructure layer rather than an issuance protocol.
+-   Built a live public project website articulating the market thesis and product role.
+-   Published technical documentation covering vision, architecture, framework design, use cases, and roadmap.
+-   Established the project narrative around pricing logic, liquidity quality, collateral fit, and market behaviour under stress.
+
+**Highlighted outputs**
+
+-   Project website: [lsdsx.xyz](https://www.lsdsx.xyz/)
+-   Technical documentation: [lsdsx.xyz/docs](https://www.lsdsx.xyz/docs/)
+-   Public methodology and product framing for the LSDx analytical layer
+
+
+
+# Broader Perspective
+
+These ventures differ in domain, but they are connected by a shared entrepreneurial logic. 
+I am interested in products that sit where uncertainty, incentives, and decision-making meet. 
+In practice, this means building systems that do not only compute, but also clarify. Systems that make markets more interpretable. 
+Systems that help users act with more confidence because the analytical structure underneath them is stronger.
+
+My long-term goal is not simply to launch products. 
+It is to contribute to a class of ventures where rigorous quantitative thinking becomes part of how trust, usability, and strategic advantage are built.

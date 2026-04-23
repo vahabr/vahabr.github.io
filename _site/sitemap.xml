@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vahabr.github.io/teaching.html</loc>
-    <lastmod>2025-09-02T14:33:28.542Z</lastmod>
+    <lastmod>2026-04-23T12:34:27.899Z</lastmod>
   </url>
   <url>
     <loc>https://vahabr.github.io/quant-systems-lab.html</loc>
@@ -13,52 +13,76 @@
     <lastmod>2025-09-16T07:37:59.237Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/posts/2026-01-25-Singularity-is-Nearer.html</loc>
-    <lastmod>2026-01-25T22:31:17.028Z</lastmod>
+    <loc>https://vahabr.github.io/posts/2026-04-23-founder.html</loc>
+    <lastmod>2026-04-23T12:43:07.706Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/posts/2025-10-01-Habit.html</loc>
-    <lastmod>2025-10-01T12:56:27.625Z</lastmod>
+    <loc>https://vahabr.github.io/posts/2026-03-02-lsdx.html</loc>
+    <lastmod>2026-04-23T12:47:22.450Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/posts/2025-09-07-Lifetime-PD-AKF.html</loc>
-    <lastmod>2025-09-16T07:39:19.151Z</lastmod>
+    <loc>https://vahabr.github.io/posts/2026-02-15-qwv.html</loc>
+    <lastmod>2026-04-23T12:47:57.681Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/posts/2025-09-03-BE2.html</loc>
-    <lastmod>2025-09-05T21:21:46.594Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/posts/2025-09-01-hello.html</loc>
-    <lastmod>2025-09-02T13:15:31.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/index.html</loc>
-    <lastmod>2025-09-04T09:53:07.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/book-club.html</loc>
-    <lastmod>2026-01-25T22:34:07.236Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/posts/2015-01-01-the-triple-package.html</loc>
-    <lastmod>2025-10-14T16:14:28.552Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/posts/2025-09-02-publications.html</loc>
-    <lastmod>2025-09-03T10:31:16.345Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vahabr.github.io/posts/2025-09-05-ZeroOne.html</loc>
-    <lastmod>2025-09-05T21:26:16.096Z</lastmod>
+    <loc>https://vahabr.github.io/posts/2026-01-24-The-Happiness-Project.html</loc>
+    <lastmod>2026-01-25T22:38:48.713Z</lastmod>
   </url>
   <url>
     <loc>https://vahabr.github.io/posts/2025-09-13-researchProjects.html</loc>
     <lastmod>2025-09-12T22:20:38.083Z</lastmod>
   </url>
   <url>
-    <loc>https://vahabr.github.io/posts/2026-01-24-The-Happiness-Project.html</loc>
-    <lastmod>2026-01-25T22:38:48.713Z</lastmod>
+    <loc>https://vahabr.github.io/posts/2025-09-05-ZeroOne.html</loc>
+    <lastmod>2025-09-05T21:26:16.096Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2025-09-02-publications.html</loc>
+    <lastmod>2025-09-03T10:31:16.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2015-01-01-the-triple-package.html</loc>
+    <lastmod>2025-10-14T16:14:28.552Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/founder.html</loc>
+    <lastmod>2026-04-23T12:38:16.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/book-club.html</loc>
+    <lastmod>2026-01-25T22:34:07.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/index.html</loc>
+    <lastmod>2025-09-04T09:53:07.942Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2025-09-01-hello.html</loc>
+    <lastmod>2025-09-02T13:15:31.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2025-09-03-BE2.html</loc>
+    <lastmod>2025-09-05T21:21:46.594Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2025-09-07-Lifetime-PD-AKF.html</loc>
+    <lastmod>2025-09-16T07:39:19.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2025-10-01-Habit.html</loc>
+    <lastmod>2025-10-01T12:56:27.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2026-01-25-Singularity-is-Nearer.html</loc>
+    <lastmod>2026-01-25T22:31:17.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2026-02-23-faai.html</loc>
+    <lastmod>2026-04-23T12:47:24.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vahabr.github.io/posts/2026-04-23-cp.html</loc>
+    <lastmod>2026-04-23T12:44:08.040Z</lastmod>
   </url>
   <url>
     <loc>https://vahabr.github.io/posts/index.html</loc>
@@ -70,6 +94,6 @@
   </url>
   <url>
     <loc>https://vahabr.github.io/researchProjects.html</loc>
-    <lastmod>2025-10-02T06:30:45.045Z</lastmod>
+    <lastmod>2026-04-23T12:09:45.510Z</lastmod>
   </url>
 </urlset>

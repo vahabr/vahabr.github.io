@@ -17,7 +17,15 @@ In addition to my past university teaching, I am developing a series of **online
 
 ## Online Courses
 
-#### Under Constructions
+I am also developing an online teaching platform, **Quant with Vahab**, dedicated to quantitative finance, risk modelling, and decision systems. The platform is built around a simple idea: rigorous quantitative thinking should be taught in a structured, practical, and intuitive way.
+
+The courses are designed to connect mathematical foundations with real analytical practice. Rather than presenting formulas in isolation, the aim is to help learners understand how modelling, control thinking, evaluation, and risk discipline come together in real financial decision-making.
+
+The broader teaching direction covers topics such as trading systems, quantitative risk, model evaluation, and systematic thinking under uncertainty. The goal is to create a learning environment that is both conceptually serious and practically useful for students, researchers, and professionals.
+
+**Platform:** [quantwithvahab.com](https://www.quantwithvahab.com/)  
+**Focus:** Quantitative finance, risk, evaluation, and decision systems  
+**Status:** Course platform under development
 
 
 
