@@ -1,6 +1,6 @@
 ---
 title: "Founder page is now live!"
-date: 2026-04-23
+date: 2026-02-01
 ---
 
 I’ve just added a new [**Founder & Entrepreneurial Initiatives**](../founder.html) page to my website. The page brings together a selected part of my applied and entrepreneurial work, with a focus on projects that connect quantitative thinking with product and platform design.
